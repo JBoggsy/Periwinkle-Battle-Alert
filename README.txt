@@ -1,0 +1,1 @@
+The bot which allows Periwinkle_Prime to alert members of the Periwinkle community of an approaching battle.
