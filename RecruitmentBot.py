@@ -52,8 +52,7 @@ def getUsers():
 
 def checkForGo(troopList):
     while True:
-        sleep(1)
-        PMs = r.get_unread(True)
+        PMs = r.get_unread(True, True)
         if PMs != None:
             print "New messages!"
             for PM in PMs:
@@ -64,8 +63,11 @@ def checkForGo(troopList):
                         except:
                             print ("Error with " + troops)
                             continue
+                    sleep(172800)
+                    break
         else:
             print "No new messages!"
+        sleep(1)
 
 troopList = getUsers()
 checkForGo(troopList)
