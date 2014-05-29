@@ -12,19 +12,34 @@
 #IMPORTS:#
 import praw
 import string
+from pprint import pprint
+from time import sleep
+print "Finished Imports"
 #END IMPORTS#
 
 #REDDIT LOGIN
 r = praw.Reddit('Periwinkle Prime Recruitment')
-r.login('Periwinkle_Prime','periwinklerules')
+tries = 0
+while tries<11:
+    try:
+        r.login('Periwinkle_Prime','periwinklerules')
+        print "Logged In"
+        break
+    except:
+        print "Log in error, trying again"
+
 
 def getUsers():
     signupThread = r.get_submission(submission_id='206qef')
+    print signupThread
     signupThread.replace_more_comments()
+    print 'Replaced more comments'
     signUps = signupThread.comments
+    pprint(signUps)
     troopList = []
     for signUp in signUps:
         recruit = signUp.author.__str__()
+        print recruit
         try:
             if not (recruit in troopList):
                 troopList.append(recruit)
@@ -32,12 +47,15 @@ def getUsers():
             print"ERROR:"
             print recruit
             pass
+    print "Retrieved Majors"
     return troopList
 
 def checkForGo(troopList):
     while True:
+        sleep(1)
         PMs = r.get_unread(True)
         if PMs != None:
+            print "New messages!"
             for PM in PMs:
                 if PM.subject == "SEND MESSAGE":
                     for troops in troopList:
@@ -46,5 +64,8 @@ def checkForGo(troopList):
                         except:
                             print ("Error with " + troops)
                             continue
+        else:
+            print "No new messages!"
 
-checkForGo(getUsers)
+troopList = getUsers()
+checkForGo(troopList)
