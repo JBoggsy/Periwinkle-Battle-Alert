@@ -58,7 +58,7 @@ def checkForGo(troopList):
             for PM in PMs:
                 PM.mark_as_read()
                 sLine = PM.subject.strip().upper()
-                if sLine == "SEND MESSAGE":
+                if (sLine == "SEND MESSAGE") and (PM.author.__str__() in ['RockdaleRooster','Tiercel','Sahdee']):
                     for troops in troopList:
                         try:
                             r.send_message(troops,"Battle Reminder",PM.body)
