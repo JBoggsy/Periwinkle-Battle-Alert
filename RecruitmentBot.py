@@ -56,18 +56,18 @@ def checkForGo(troopList):
         if PMs != None:
             print "New messages!"
             for PM in PMs:
-                if PM.subject == "SEND MESSAGE":
+                sLine = PM.subject.strip().upper()
+                if sLine == "SEND MESSAGE":
                     for troops in troopList:
                         try:
                             r.send_message(troops,"Battle Reminder",PM.body)
                         except:
                             print ("Error with " + troops)
                             continue
-                    sleep(172800)
                     break
         else:
             print "No new messages!"
-        sleep(1)
+        sleep(60)
 
 troopList = getUsers()
 checkForGo(troopList)
