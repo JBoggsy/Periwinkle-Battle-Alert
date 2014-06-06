@@ -14,7 +14,8 @@ import praw
 import string
 from pprint import pprint
 from time import sleep
-print "Finished Imports"
+log = open("RecruitmentRunLog.txt","w")
+log.write("Finished Imports\n")
 #END IMPORTS#
 
 #REDDIT LOGIN
@@ -23,38 +24,39 @@ tries = 0
 while tries<11:
     try:
         r.login('Periwinkle_Prime','periwinklerules')
-        print "Logged In"
+        log.write("Logged In\n")
         break
     except:
-        print "Log in error, trying again"
+        log.write("Log in error, trying again\n")
 
 
 def getUsers():
     signupThread = r.get_submission(submission_id='206qef')
-    print signupThread
+    log.write(signupThread+"\n")
     signupThread.replace_more_comments()
-    print 'Replaced more comments'
+    log.write('Replaced more comments'+"\n")
     signUps = signupThread.comments
-    pprint(signUps)
+    log.write(signUps+"\n")
     troopList = []
     for signUp in signUps:
         recruit = signUp.author.__str__()
-        print recruit
+        log.write(recruit+"\n")
         try:
             if not (recruit in troopList):
                 troopList.append(recruit)
         except:
-            print"ERROR:"
-            print recruit
+            log.write("ERROR:"+"\n")
+            log.write(recruit+"\n")
             pass
-    print "Retrieved Majors"
+    log.write("Retrieved Majors"+"\n")
+    log.write(str(troopList)+"\n")
     return troopList
 
 def checkForGo(troopList):
     while True:
         PMs = r.get_unread(True, True)
         if PMs != None:
-            print "New messages!"
+            log.write("New messages!"+"\n")
             for PM in PMs:
                 PM.mark_as_read()
                 sLine = PM.subject.strip().upper()
@@ -62,13 +64,12 @@ def checkForGo(troopList):
                     for troops in troopList:
                         try:
                             r.send_message(troops,"Battle Reminder",PM.body)
-                            PM.reply("Message sent!")
+                            log.write("Message: "+PM.body+" sent to "+troops+"\n")
                         except:
-                            print ("Error with " + troops)
-                            continue
-                    break
+                            log.write("Error with " + troops+"\n")
+                    PM.reply("Message sent to "+str(troops)+"!")
         else:
-            print "No new messages!"
+            log.write("No new messages!"+"\n")
         sleep(60)
 
 troopList = getUsers()
