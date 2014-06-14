@@ -32,21 +32,21 @@ while tries<11:
 
 def getUsers():
     signupThread = r.get_submission(submission_id='206qef')
-    log.write(signupThread+"\n")
+    log.write(str(signupThread)+"\n")
     signupThread.replace_more_comments()
     log.write('Replaced more comments'+"\n")
     signUps = signupThread.comments
-    log.write(signUps+"\n")
+    log.write(str(signUps)+"\n")
     troopList = []
     for signUp in signUps:
         recruit = signUp.author.__str__()
-        log.write(recruit+"\n")
+        log.write(str(signUp)+"\n")
         try:
             if not (recruit in troopList):
                 troopList.append(recruit)
         except:
             log.write("ERROR:"+"\n")
-            log.write(recruit+"\n")
+            log.write(str(recruit)+"\n")
             pass
     log.write("Retrieved Majors"+"\n")
     log.write(str(troopList)+"\n")
