@@ -39,6 +39,9 @@ def getUsers():
     log.write(str(signUps)+"\n")
     troopList = []
     for signUp in signUps:
+        if detect_ORed(signUp.author):
+            print("Orangered "+str(signUp.author)+" ignored!")
+            continue
         recruit = signUp.author.__str__()
         log.write(str(signUp)+"\n")
         try:
@@ -70,7 +73,17 @@ def checkForGo(troopList):
                     PM.reply("Message sent to "+str(troops)+"!")
         else:
             log.write("No new messages!"+"\n")
+        log.flush()
         sleep(60)
 
-troopList = getUsers()
-checkForGo(troopList)
+def detect_ORed(user):
+    for subName in ['orangered','Oraistedearg','Aegis_Imperial','AreusAntris','GreatAurantiaco','NovumPersarum','MetropolisDaja','OrangeLondo','Pasto_Range','Tentorahogo']:
+        subReddit = r.get_subreddit(subName)
+        mods = subReddit.get_moderators()
+        for mod in mods:
+            if mod == user:
+                return True
+        return False
+
+#troopList = getUsers()
+checkForGo(['Eliminioa'])
