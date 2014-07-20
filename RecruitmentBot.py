@@ -19,6 +19,8 @@ config = config.read()
 config = config.split(',')
 userID = config[0]
 userPass = config[1]
+enemy_sub = config[2]
+generals = config[2:]
 log = open("RecruitmentRunLog.txt","w")
 log.write("Finished Imports\n")
 from requests.exceptions import HTTPError
@@ -26,7 +28,7 @@ from requests.exceptions import HTTPError
 
 
 #REDDIT LOGIN
-r = praw.Reddit('Periwinkle Prime Recruitment')
+r = praw.Reddit('Chroma Recruitment Bot')
 tries = 0
 while tries<11:
     try:
@@ -73,7 +75,7 @@ def checkForGo(troopList):
             for PM in PMs:
                 PM.mark_as_read()
                 sLine = PM.subject.strip().upper()
-                if (sLine == "SEND MESSAGE") and (PM.author.__str__() in ['RockdaleRooster','Tiercel','Sahdee']):
+                if (sLine == "SEND MESSAGE") and (PM.author.__str__() in generals):
                     sent_to = ''
                     for troops in troopList:
                         try:
@@ -88,7 +90,7 @@ def checkForGo(troopList):
         sleep(60)
 
 def detect_ORed(user):
-    subReddit = r.get_subreddit('orangered')
+    subReddit = r.get_subreddit(enemy_sub)
     mods = subReddit.get_moderators()
     for mod in mods:
         try:
