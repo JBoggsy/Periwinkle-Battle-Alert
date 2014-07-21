@@ -20,7 +20,8 @@ config = config.split(',')
 userID = config[0]
 userPass = config[1]
 enemy_sub = config[2]
-generals = config[2:]
+rec_thread = config[3]
+generals = config[3:]
 log = open("RecruitmentRunLog.txt","w")
 log.write("Finished Imports\n")
 from requests.exceptions import HTTPError
@@ -37,9 +38,10 @@ while tries<11:
         break
     except:
         log.write("Log in error, trying again\n")
+        tries += 1
 
 def getUsers():
-    signupThread = r.get_submission(submission_id='206qef')
+    signupThread = r.get_submission(submission_id=rec_thread)
     log.write(str(signupThread)+"\n")
     signupThread.replace_more_comments()
     log.write('Replaced more comments'+"\n")
