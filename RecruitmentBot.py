@@ -14,14 +14,15 @@ import praw
 import string
 from pprint import pprint
 from time import sleep
-config = open('prime_cnfg.txt')
-config = config.read()
+f = open('prime_cnfg.txt')
+config = f.read()
 config = config.split(',')
 userID = config[0]
 userPass = config[1]
 enemy_sub = config[2]
 rec_thread = config[3]
 generals = config[3:]
+f.close()
 log = open("RecruitmentRunLog.txt","w")
 log.write("Finished Imports\n")
 from requests.exceptions import HTTPError
