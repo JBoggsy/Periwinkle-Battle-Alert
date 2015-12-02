@@ -44,7 +44,7 @@ r = praw.Reddit('Chroma Assistance Suite')
 tries = 0
 while tries<11:
     try:
-        r.login("Eliminioa","KeilHallAwesome")
+        r.login("Periwinkle_Prime_3","CodeOmega")
         log.write("Logged In\n")
         break
     except:
