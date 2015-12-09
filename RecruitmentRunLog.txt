@@ -1,3 +1,2808 @@
 Finished Imports
 Logged In
-377 :: SEASON 3 BATTLE SIGN-UP INITIATED
+371 :: SEASON 3 BATTLE SIGN-UP INITIATED
+Replaced more comments
+[<praw.objects.Comment object at 0x000000000312E550>, <praw.objects.Comment object at 0x000000000312E668>, <praw.objects.Comment object at 0x000000000312E748>, <praw.objects.Comment object at 0x000000000312E828>, <praw.objects.Comment object at 0x000000000312EA58>, <praw.objects.Comment object at 0x000000000312EC88>, <praw.objects.Comment object at 0x000000000312EDD8>, <praw.objects.Comment object at 0x000000000312EFD0>, <praw.objects.Comment object at 0x000000000313A160>, <praw.objects.Comment object at 0x000000000313A240>, <praw.objects.Comment object at 0x000000000313A320>, <praw.objects.Comment object at 0x000000000313A400>, <praw.objects.Comment object at 0x000000000313A4E0>, <praw.objects.Comment object at 0x000000000313A668>, <praw.objects.Comment object at 0x000000000313AA90>, <praw.objects.Comment object at 0x000000000313AB70>, <praw.objects.Comment object at 0x000000000313ADA0>, <praw.objects.Comment object at 0x000000000313AE80>, <praw.objects.Comment object at 0x0000000003C52240>, <praw.objects.Comment object at 0x0000000003C52668>, <praw.objects.Comment object at 0x0000000003C52AC8>, <praw.objects.Comment object at 0x0000000003C52CF8>, <praw.objects.Comment object at 0x0000000003C52DA0>, <praw.objects.Comment object at 0x0000000003C52E48>, <praw.objects.Comment object at 0x0000000003C690B8>, <praw.objects.Comment object at 0x0000000003C692E8>, <praw.objects.Comment object at 0x0000000003C69710>, <praw.objects.Comment object at 0x0000000003C69B38>, <praw.objects.Comment object at 0x0000000003C69C50>, <praw.objects.Comment object at 0x0000000003C69FD0>, <praw.objects.Comment object at 0x0000000003C7F208>, <praw.objects.Comment object at 0x0000000003C7F2B0>, <praw.objects.Comment object at 0x0000000003C7F3C8>, <praw.objects.Comment object at 0x0000000003C7F748>, <praw.objects.Comment object at 0x0000000003C7F978>, <praw.objects.Comment object at 0x0000000003C7FD68>, <praw.objects.Comment object at 0x0000000003C7FE48>, <praw.objects.Comment object at 0x00000000034571D0>, <praw.objects.Comment object at 0x0000000003457400>, <praw.objects.Comment object at 0x0000000003457470>, <praw.objects.Comment object at 0x00000000034578D0>, <praw.objects.Comment object at 0x0000000003457CC0>, <praw.objects.Comment object at 0x0000000003457EF0>, <praw.objects.Comment object at 0x0000000003457FD0>, <praw.objects.Comment object at 0x000000000346D438>, <praw.objects.Comment object at 0x000000000346D860>, <praw.objects.Comment object at 0x000000000346DA58>, <praw.objects.Comment object at 0x000000000346DB38>, <praw.objects.Comment object at 0x000000000346DEB8>, <praw.objects.Comment object at 0x00000000032F7048>, <praw.objects.Comment object at 0x00000000032F7470>, <praw.objects.Comment object at 0x00000000032F76A0>, <praw.objects.Comment object at 0x00000000032F7B38>, <praw.objects.Comment object at 0x00000000032F7C18>, <praw.objects.Comment object at 0x00000000032F7EF0>, <praw.objects.Comment object at 0x00000000032F7FD0>, <praw.objects.Comment object at 0x000000000330F3C8>, <praw.objects.Comment object at 0x000000000330F630>, <praw.objects.Comment object at 0x000000000330F860>, <praw.objects.Comment object at 0x000000000330FC18>, <praw.objects.Comment object at 0x000000000330FE48>, <praw.objects.Comment object at 0x000000000330FF28>, <praw.objects.Comment object at 0x0000000003322048>, <praw.objects.Comment object at 0x0000000003322278>, <praw.objects.Comment object at 0x0000000003322320>, <praw.objects.Comment object at 0x0000000003322400>, <praw.objects.Comment object at 0x00000000033224E0>, <praw.objects.Comment object at 0x0000000003322908>, <praw.objects.Comment object at 0x0000000003322BE0>, <praw.objects.Comment object at 0x0000000003322E10>, <praw.objects.Comment object at 0x0000000003BBF080>, <praw.objects.Comment object at 0x0000000003BBF2B0>, <praw.objects.Comment object at 0x0000000003BBF4E0>, <praw.objects.Comment object at 0x0000000003BBF860>, <praw.objects.Comment object at 0x0000000003BBF9E8>, <praw.objects.Comment object at 0x0000000003BBFAC8>, <praw.objects.Comment object at 0x0000000003BBFCF8>, <praw.objects.Comment object at 0x0000000003BBFE10>, <praw.objects.Comment object at 0x0000000003BBFEF0>, <praw.objects.Comment object at 0x0000000003BBFFD0>, <praw.objects.Comment object at 0x0000000003BD3390>, <praw.objects.Comment object at 0x0000000003BD35C0>, <praw.objects.Comment object at 0x0000000003BD3940>, <praw.objects.Comment object at 0x0000000003BD3A20>, <praw.objects.Comment object at 0x0000000003BD3B00>, <praw.objects.Comment object at 0x0000000003BD3C50>, <praw.objects.Comment object at 0x0000000003BD3D30>, <praw.objects.Comment object at 0x0000000003BE8160>, <praw.objects.Comment object at 0x0000000003BE8550>, <praw.objects.Comment object at 0x0000000003BE8668>, <praw.objects.Comment object at 0x0000000003BE8748>, <praw.objects.Comment object at 0x0000000003BE8978>, <praw.objects.Comment object at 0x0000000003BE8CF8>, <praw.objects.Comment object at 0x0000000003BE8DD8>, <praw.objects.Comment object at 0x0000000003BFE1D0>, <praw.objects.Comment object at 0x0000000003BFE6A0>, <praw.objects.Comment object at 0x0000000003BFE8D0>, <praw.objects.Comment object at 0x0000000003BFEB00>, <praw.objects.Comment object at 0x0000000003BFEBE0>, <praw.objects.Comment object at 0x0000000003BFECF8>, <praw.objects.Comment object at 0x0000000003BFEDD8>, <praw.objects.Comment object at 0x0000000003C17048>, <praw.objects.Comment object at 0x0000000003C17128>, <praw.objects.Comment object at 0x0000000003C17278>, <praw.objects.Comment object at 0x0000000003C173C8>, <praw.objects.Comment object at 0x0000000003C176D8>, <praw.objects.Comment object at 0x0000000003C17940>, <praw.objects.Comment object at 0x0000000003C17B70>, <praw.objects.Comment object at 0x0000000003C17EF0>, <praw.objects.Comment object at 0x0000000003C2B198>, <praw.objects.Comment object at 0x0000000003C2B3C8>, <praw.objects.Comment object at 0x0000000003C2B4A8>, <praw.objects.Comment object at 0x0000000003C2B588>, <praw.objects.Comment object at 0x0000000003C2B668>, <praw.objects.Comment object at 0x0000000003C2B748>, <praw.objects.Comment object at 0x0000000003C2B828>, <praw.objects.Comment object at 0x0000000003C2BB00>, <praw.objects.Comment object at 0x0000000003C2BF28>, <praw.objects.Comment object at 0x00000000033F92E8>, <praw.objects.Comment object at 0x00000000033F93C8>, <praw.objects.Comment object at 0x00000000033F95C0>, <praw.objects.Comment object at 0x00000000033F9940>, <praw.objects.Comment object at 0x00000000033F9AC8>, <praw.objects.Comment object at 0x000000000340E240>, <praw.objects.Comment object at 0x000000000340E320>, <praw.objects.Comment object at 0x000000000340E6A0>, <praw.objects.Comment object at 0x000000000340E748>, <praw.objects.Comment object at 0x000000000340EAC8>, <praw.objects.Comment object at 0x000000000340EBA8>, <praw.objects.Comment object at 0x000000000340EF98>, <praw.objects.Comment object at 0x00000000034251D0>, <praw.objects.Comment object at 0x0000000003425278>, <praw.objects.Comment object at 0x0000000003425358>, <praw.objects.Comment object at 0x0000000003425630>, <praw.objects.Comment object at 0x0000000003425710>, <praw.objects.Comment object at 0x0000000003425B38>, <praw.objects.Comment object at 0x0000000003425CC0>, <praw.objects.Comment object at 0x0000000003D5F080>, <praw.objects.Comment object at 0x0000000003D5F470>, <praw.objects.Comment object at 0x0000000003D5F518>, <praw.objects.Comment object at 0x0000000003D5F5F8>, <praw.objects.Comment object at 0x0000000003D5F6D8>, <praw.objects.Comment object at 0x0000000003D5FA20>, <praw.objects.Comment object at 0x0000000003D5FC50>, <praw.objects.Comment object at 0x0000000003D5FD68>, <praw.objects.Comment object at 0x0000000003D5FE80>, <praw.objects.Comment object at 0x0000000003D5FF60>, <praw.objects.Comment object at 0x0000000003D74080>, <praw.objects.Comment object at 0x0000000003D744A8>, <praw.objects.Comment object at 0x0000000003D74588>, <praw.objects.Comment object at 0x0000000003D749B0>, <praw.objects.Comment object at 0x0000000003D74BE0>, <praw.objects.Comment object at 0x0000000003E11048>, <praw.objects.Comment object at 0x0000000003E11128>, <praw.objects.Comment object at 0x0000000003E112B0>, <praw.objects.Comment object at 0x0000000003E11390>, <praw.objects.Comment object at 0x0000000003E11470>, <praw.objects.Comment object at 0x0000000003E115F8>, <praw.objects.Comment object at 0x0000000003E116D8>, <praw.objects.Comment object at 0x0000000003E11940>, <praw.objects.Comment object at 0x0000000003E11CC0>, <praw.objects.Comment object at 0x0000000003E11DA0>, <praw.objects.Comment object at 0x0000000003E11FD0>, <praw.objects.Comment object at 0x0000000003E250F0>, <praw.objects.Comment object at 0x0000000003E251D0>, <praw.objects.Comment object at 0x0000000003E252B0>, <praw.objects.Comment object at 0x0000000003E25978>, <praw.objects.Comment object at 0x0000000003E25A58>, <praw.objects.Comment object at 0x0000000003E25CF8>, <praw.objects.Comment object at 0x0000000003E3B128>, <praw.objects.Comment object at 0x0000000003E3B2B0>, <praw.objects.Comment object at 0x0000000003E3B6D8>, <praw.objects.Comment object at 0x0000000003E3B7B8>, <praw.objects.Comment object at 0x0000000003E3BB38>, <praw.objects.Comment object at 0x0000000003E3BCC0>, <praw.objects.Comment object at 0x0000000003E3BEF0>, <praw.objects.Comment object at 0x0000000003E51080>, <praw.objects.Comment object at 0x0000000003E51128>, <praw.objects.Comment object at 0x0000000003E514A8>, <praw.objects.Comment object at 0x0000000003E516D8>, <praw.objects.Comment object at 0x0000000003E517B8>, <praw.objects.Comment object at 0x0000000003E519E8>, <praw.objects.Comment object at 0x0000000003E51E10>, <praw.objects.Comment object at 0x0000000003E65080>, <praw.objects.Comment object at 0x0000000003E652B0>, <praw.objects.Comment object at 0x0000000003E656A0>, <praw.objects.Comment object at 0x0000000003E65780>, <praw.objects.Comment object at 0x0000000003E65978>, <praw.objects.Comment object at 0x0000000003E65A58>, <praw.objects.Comment object at 0x0000000003E65C88>, <praw.objects.Comment object at 0x0000000003E65D68>, <praw.objects.Comment object at 0x0000000003E65EF0>, <praw.objects.Comment object at 0x0000000003E65FD0>, <praw.objects.Comment object at 0x0000000003E7D2B0>, <praw.objects.Comment object at 0x0000000003E7D358>, <praw.objects.Comment object at 0x0000000003E7D630>, <praw.objects.Comment object at 0x0000000003E7D9B0>, <praw.objects.Comment object at 0x0000000003E7DBE0>, <praw.objects.Comment object at 0x0000000003E7DFD0>, <praw.objects.Comment object at 0x0000000003F180F0>, <praw.objects.Comment object at 0x0000000003F181D0>, <praw.objects.Comment object at 0x0000000003F182B0>, <praw.objects.Comment object at 0x0000000003F18438>, <praw.objects.Comment object at 0x0000000003F184E0>, <praw.objects.Comment object at 0x0000000003F18828>, <praw.objects.Comment object at 0x0000000003F18C18>, <praw.objects.Comment object at 0x0000000003F18FD0>, <praw.objects.Comment object at 0x0000000003F2F2E8>, <praw.objects.Comment object at 0x0000000003F2F470>, <praw.objects.Comment object at 0x0000000003F2F5C0>, <praw.objects.Comment object at 0x0000000003F2F908>, <praw.objects.Comment object at 0x0000000003F2FA58>, <praw.objects.Comment object at 0x0000000003F49470>, <praw.objects.Comment object at 0x0000000003F496A0>, <praw.objects.Comment object at 0x0000000003F49908>, <praw.objects.Comment object at 0x0000000003F499E8>, <praw.objects.Comment object at 0x0000000003F49D68>, <praw.objects.Comment object at 0x0000000003F49E48>, <praw.objects.Comment object at 0x0000000003FA0208>, <praw.objects.Comment object at 0x0000000003FA0438>, <praw.objects.Comment object at 0x0000000003FA0668>, <praw.objects.Comment object at 0x0000000003FA0710>, <praw.objects.Comment object at 0x0000000003FA0940>, <praw.objects.Comment object at 0x0000000003FA0D68>, <praw.objects.Comment object at 0x0000000003FA0E48>, <praw.objects.Comment object at 0x0000000003FB50B8>, <praw.objects.Comment object at 0x0000000003FB54A8>, <praw.objects.Comment object at 0x0000000003FB5588>, <praw.objects.Comment object at 0x0000000003FB5860>, <praw.objects.Comment object at 0x0000000003FB5940>, <praw.objects.Comment object at 0x0000000003FB5D68>, <praw.objects.Comment object at 0x0000000003FB5E48>, <praw.objects.Comment object at 0x0000000003FCC0B8>, <praw.objects.Comment object at 0x0000000003FCC2B0>, <praw.objects.Comment object at 0x0000000003FCC390>, <praw.objects.Comment object at 0x0000000003FCC5C0>, <praw.objects.Comment object at 0x0000000003FCC6A0>, <praw.objects.Comment object at 0x0000000003FCCA90>, <praw.objects.Comment object at 0x0000000003FCCCC0>, <praw.objects.Comment object at 0x0000000003FCCEF0>, <praw.objects.Comment object at 0x0000000003FE2160>, <praw.objects.Comment object at 0x0000000003FE2240>, <praw.objects.Comment object at 0x0000000003FE2320>, <praw.objects.Comment object at 0x0000000003FE2400>, <praw.objects.Comment object at 0x0000000003FE24E0>, <praw.objects.Comment object at 0x0000000003FE2860>, <praw.objects.Comment object at 0x0000000003FE2A90>, <praw.objects.Comment object at 0x0000000003FE2B70>, <praw.objects.Comment object at 0x0000000003FE2DA0>, <praw.objects.Comment object at 0x0000000003FE2F60>, <praw.objects.Comment object at 0x0000000003FFB080>, <praw.objects.Comment object at 0x0000000003FFB400>, <praw.objects.Comment object at 0x0000000003FFB8D0>, <praw.objects.Comment object at 0x0000000003FFBB00>, <praw.objects.Comment object at 0x0000000003FFBD30>, <praw.objects.Comment object at 0x0000000003FFBE10>, <praw.objects.Comment object at 0x0000000003FFBEF0>, <praw.objects.Comment object at 0x0000000004012278>, <praw.objects.Comment object at 0x0000000004012358>, <praw.objects.Comment object at 0x00000000040124A8>, <praw.objects.Comment object at 0x0000000004012588>, <praw.objects.Comment object at 0x0000000004012668>, <praw.objects.Comment object at 0x0000000004012898>, <praw.objects.Comment object at 0x0000000004012BE0>, <praw.objects.Comment object at 0x00000000040AB080>, <praw.objects.Comment object at 0x00000000040AB208>, <praw.objects.Comment object at 0x00000000040AB438>, <praw.objects.Comment object at 0x00000000040AB630>, <praw.objects.Comment object at 0x00000000040AB710>, <praw.objects.Comment object at 0x00000000040AB940>, <praw.objects.Comment object at 0x00000000040ABCC0>, <praw.objects.Comment object at 0x00000000040C4128>, <praw.objects.Comment object at 0x00000000040C41D0>, <praw.objects.Comment object at 0x00000000040C42B0>, <praw.objects.Comment object at 0x00000000040C44E0>, <praw.objects.Comment object at 0x00000000040C4710>, <praw.objects.Comment object at 0x00000000040C4940>, <praw.objects.Comment object at 0x00000000040C4A20>, <praw.objects.Comment object at 0x00000000040C4C50>, <praw.objects.Comment object at 0x00000000040C4D30>, <praw.objects.Comment object at 0x00000000040C4E10>, <praw.objects.Comment object at 0x00000000040D8240>, <praw.objects.Comment object at 0x00000000040D8320>, <praw.objects.Comment object at 0x00000000040D8780>, <praw.objects.Comment object at 0x00000000040D88D0>, <praw.objects.Comment object at 0x00000000040D89B0>, <praw.objects.Comment object at 0x00000000040D8C88>, <praw.objects.Comment object at 0x00000000040D8D68>, <praw.objects.Comment object at 0x00000000040D8E48>, <praw.objects.Comment object at 0x00000000041302E8>, <praw.objects.Comment object at 0x00000000041303C8>, <praw.objects.Comment object at 0x00000000041304A8>, <praw.objects.Comment object at 0x0000000004130828>, <praw.objects.Comment object at 0x0000000004130CF8>, <praw.objects.Comment object at 0x0000000004145128>, <praw.objects.Comment object at 0x0000000004145208>, <praw.objects.Comment object at 0x0000000004145438>, <praw.objects.Comment object at 0x0000000004145828>, <praw.objects.Comment object at 0x0000000004145908>, <praw.objects.Comment object at 0x0000000004145D68>, <praw.objects.Comment object at 0x00000000041E3198>, <praw.objects.Comment object at 0x00000000041E3278>, <praw.objects.Comment object at 0x00000000041E36A0>, <praw.objects.Comment object at 0x00000000041E3780>, <praw.objects.Comment object at 0x00000000041E3860>, <praw.objects.Comment object at 0x00000000041E3A90>, <praw.objects.Comment object at 0x00000000041E3CC0>, <praw.objects.Comment object at 0x00000000041E3DA0>, <praw.objects.Comment object at 0x00000000041E3E48>, <praw.objects.Comment object at 0x00000000041FA4A8>, <praw.objects.Comment object at 0x00000000041FA6D8>, <praw.objects.Comment object at 0x00000000041FAA58>, <praw.objects.Comment object at 0x00000000041FAB38>, <praw.objects.Comment object at 0x00000000041FAEB8>, <praw.objects.Comment object at 0x000000000420E160>, <praw.objects.Comment object at 0x000000000420E240>, <praw.objects.Comment object at 0x000000000420E320>, <praw.objects.Comment object at 0x000000000420E748>, <praw.objects.Comment object at 0x000000000420E828>, <praw.objects.Comment object at 0x000000000420EBA8>, <praw.objects.Comment object at 0x000000000420EDD8>, <praw.objects.Comment object at 0x000000000420EEB8>, <praw.objects.Comment object at 0x0000000004224048>, <praw.objects.Comment object at 0x00000000042240F0>, <praw.objects.Comment object at 0x0000000004224470>, <praw.objects.Comment object at 0x0000000004224668>, <praw.objects.Comment object at 0x0000000004224940>, <praw.objects.Comment object at 0x0000000004224D30>, <praw.objects.Comment object at 0x0000000004224E48>, <praw.objects.Comment object at 0x0000000004224F28>, <praw.objects.Comment object at 0x000000000423A4A8>, <praw.objects.Comment object at 0x000000000423A8D0>, <praw.objects.Comment object at 0x000000000423AA20>, <praw.objects.Comment object at 0x000000000423AC50>, <praw.objects.Comment object at 0x000000000424D128>, <praw.objects.Comment object at 0x000000000424D208>, <praw.objects.Comment object at 0x000000000424D6A0>, <praw.objects.Comment object at 0x000000000424D780>, <praw.objects.Comment object at 0x000000000424D9B0>, <praw.objects.Comment object at 0x000000000424DD30>, <praw.objects.Comment object at 0x000000000424DFD0>, <praw.objects.Comment object at 0x00000000042A8400>, <praw.objects.Comment object at 0x00000000042A8588>, <praw.objects.Comment object at 0x00000000042A89B0>, <praw.objects.Comment object at 0x00000000042A8BE0>, <praw.objects.Comment object at 0x00000000042A8E10>, <praw.objects.Comment object at 0x00000000042BC198>, <praw.objects.Comment object at 0x00000000042BC240>, <praw.objects.Comment object at 0x00000000042BC320>, <praw.objects.Comment object at 0x00000000042BC588>, <praw.objects.Comment object at 0x00000000042BC940>, <praw.objects.Comment object at 0x00000000042BCB70>, <praw.objects.Comment object at 0x00000000042BCC50>, <praw.objects.Comment object at 0x00000000042BCDA0>, <praw.objects.Comment object at 0x00000000042BCE80>, <praw.objects.Comment object at 0x00000000042D2240>, <praw.objects.Comment object at 0x00000000042D29B0>, <praw.objects.Comment object at 0x00000000042D2A90>, <praw.objects.Comment object at 0x00000000042D2D68>, <praw.objects.Comment object at 0x00000000042D2F98>, <praw.objects.Comment object at 0x000000000436D0B8>, <praw.objects.Comment object at 0x000000000436D198>, <praw.objects.Comment object at 0x000000000436D3C8>, <praw.objects.Comment object at 0x000000000436D7B8>, <praw.objects.Comment object at 0x000000000436D9E8>, <praw.objects.Comment object at 0x000000000436DAC8>, <praw.objects.Comment object at 0x000000000436DE48>, <praw.objects.Comment object at 0x000000000436DF98>, <praw.objects.Comment object at 0x0000000004382208>, <praw.objects.Comment object at 0x00000000043825C0>, <praw.objects.Comment object at 0x00000000043829B0>, <praw.objects.Comment object at 0x0000000004382A90>, <praw.objects.Comment object at 0x0000000004382CC0>, <praw.objects.Comment object at 0x0000000004382D68>, <praw.objects.Comment object at 0x000000000439A1D0>, <praw.objects.Comment object at 0x000000000439A3C8>, <praw.objects.Comment object at 0x000000000439A710>, <praw.objects.Comment object at 0x000000000439A7F0>, <praw.objects.Comment object at 0x000000000439ABA8>, <praw.objects.Comment object at 0x000000000439AF28>, <praw.objects.Comment object at 0x00000000043F2048>, <praw.objects.Comment object at 0x00000000043F2128>, <praw.objects.Comment object at 0x00000000043F2208>, <praw.objects.Comment object at 0x00000000043F2438>, <praw.objects.Comment object at 0x00000000043F2518>, <praw.objects.Comment object at 0x00000000043F2748>, <praw.objects.Comment object at 0x00000000043F2978>, <praw.objects.Comment object at 0x00000000043F2DA0>, <praw.objects.Comment object at 0x000000000440A128>, <praw.objects.Comment object at 0x000000000440A4A8>, <praw.objects.Comment object at 0x000000000440A588>, <praw.objects.Comment object at 0x000000000440A8D0>, <praw.objects.Comment object at 0x000000000440A9B0>, <praw.objects.Comment object at 0x000000000440AD30>, <praw.objects.Comment object at 0x000000000441D160>, <praw.objects.Comment object at 0x000000000441D240>, <praw.objects.Comment object at 0x000000000441D470>, <praw.objects.Comment object at 0x000000000441D550>, <praw.objects.Comment object at 0x000000000441D780>, <praw.objects.Comment object at 0x000000000441D860>, <praw.objects.Comment object at 0x000000000441DBE0>, <praw.objects.Comment object at 0x000000000441DD68>, <praw.objects.Comment object at 0x00000000044760F0>, <praw.objects.Comment object at 0x00000000044764E0>, <praw.objects.Comment object at 0x00000000044765C0>, <praw.objects.Comment object at 0x00000000044766A0>, <praw.objects.Comment object at 0x0000000004476780>, <praw.objects.Comment object at 0x00000000044769B0>, <praw.objects.Comment object at 0x0000000004476DA0>, <praw.objects.Comment object at 0x0000000004476FD0>, <praw.objects.Comment object at 0x000000000448A0F0>, <praw.objects.Comment object at 0x000000000448A1D0>, <praw.objects.Comment object at 0x000000000448A2B0>, <praw.objects.Comment object at 0x000000000448A3C8>, <praw.objects.Comment object at 0x000000000448A470>, <praw.objects.Comment object at 0x000000000448A908>, <praw.objects.Comment object at 0x000000000448AC88>, <praw.objects.Comment object at 0x000000000448AEB8>, <praw.objects.Comment object at 0x000000000448AF98>, <praw.objects.Comment object at 0x00000000044A20B8>, <praw.objects.Comment object at 0x00000000044A2198>, <praw.objects.Comment object at 0x00000000044A2320>, <praw.objects.Comment object at 0x00000000044A2400>, <praw.objects.Comment object at 0x00000000044A2630>, <praw.objects.Comment object at 0x00000000044A2710>, <praw.objects.Comment object at 0x00000000044A2B00>, <praw.objects.Comment object at 0x00000000044A2BA8>, <praw.objects.Comment object at 0x00000000044A2FD0>, <praw.objects.Comment object at 0x00000000044FE240>, <praw.objects.Comment object at 0x00000000044FE320>, <praw.objects.Comment object at 0x00000000044FE588>, <praw.objects.Comment object at 0x00000000044FE7B8>, <praw.objects.Comment object at 0x00000000044FE898>, <praw.objects.Comment object at 0x00000000044FEB00>, <praw.objects.Comment object at 0x00000000044FED30>, <praw.objects.Comment object at 0x00000000044FEDD8>, <praw.objects.Comment object at 0x0000000004511198>, <praw.objects.Comment object at 0x00000000045115C0>, <praw.objects.Comment object at 0x0000000004511940>, <praw.objects.Comment object at 0x0000000004511C88>, <praw.objects.Comment object at 0x0000000004511F60>, <praw.objects.Comment object at 0x0000000004529358>, <praw.objects.Comment object at 0x0000000004529748>, <praw.objects.Comment object at 0x0000000004529828>, <praw.objects.Comment object at 0x0000000004529908>, <praw.objects.Comment object at 0x0000000004529B38>, <praw.objects.Comment object at 0x0000000004529E80>, <praw.objects.Comment object at 0x00000000045C10F0>, <praw.objects.Comment object at 0x00000000045C11D0>, <praw.objects.Comment object at 0x00000000045C1400>, <praw.objects.Comment object at 0x00000000045C1748>, <praw.objects.Comment object at 0x00000000045C1828>, <praw.objects.Comment object at 0x00000000045C1C18>, <praw.objects.Comment object at 0x00000000045C1E80>, <praw.objects.Comment object at 0x00000000045D8240>, <praw.objects.Comment object at 0x00000000045D83C8>, <praw.objects.Comment object at 0x00000000045D8748>, <praw.objects.Comment object at 0x00000000045D8828>, <praw.objects.Comment object at 0x00000000045D8BA8>, <praw.objects.Comment object at 0x00000000045D8C88>, <praw.objects.Comment object at 0x00000000045D8EB8>, <praw.objects.Comment object at 0x00000000045ED1D0>, <praw.objects.Comment object at 0x00000000045ED550>, <praw.objects.Comment object at 0x00000000045ED668>, <praw.objects.Comment object at 0x00000000045ED748>, <praw.objects.Comment object at 0x00000000045ED828>, <praw.objects.Comment object at 0x00000000045EDA58>, <praw.objects.Comment object at 0x0000000004645160>, <praw.objects.Comment object at 0x00000000046454E0>, <praw.objects.Comment object at 0x00000000046455C0>, <praw.objects.Comment object at 0x00000000046456A0>, <praw.objects.Comment object at 0x00000000046457F0>, <praw.objects.Comment object at 0x0000000004645908>, <praw.objects.Comment object at 0x0000000004645B38>, <praw.objects.Comment object at 0x0000000004645EB8>, <praw.objects.Comment object at 0x000000000465B208>, <praw.objects.Comment object at 0x000000000465B438>, <praw.objects.Comment object at 0x000000000465B860>, <praw.objects.Comment object at 0x000000000465BA90>, <praw.objects.Comment object at 0x000000000465BB70>, <praw.objects.Comment object at 0x000000000465BF98>, <praw.objects.Comment object at 0x00000000046B56D8>, <praw.objects.Comment object at 0x00000000046B57B8>, <praw.objects.Comment object at 0x00000000046B5908>, <praw.objects.Comment object at 0x00000000046B5A20>, <praw.objects.Comment object at 0x00000000046B5B70>, <praw.objects.Comment object at 0x00000000046B5CC0>, <praw.objects.Comment object at 0x00000000046B5E10>, <praw.objects.Comment object at 0x00000000046B5F60>, <praw.objects.Comment object at 0x00000000046C50F0>, <praw.objects.Comment object at 0x00000000046C5240>, <praw.objects.Comment object at 0x00000000046C5358>, <praw.objects.Comment object at 0x00000000046C5D68>, <praw.objects.Comment object at 0x00000000046C5E48>, <praw.objects.Comment object at 0x00000000046C5F98>, <praw.objects.Comment object at 0x00000000046DA0B8>, <praw.objects.Comment object at 0x00000000046DA198>, <praw.objects.Comment object at 0x00000000046DA278>, <praw.objects.Comment object at 0x00000000046DA358>, <praw.objects.Comment object at 0x00000000046DA438>, <praw.objects.Comment object at 0x00000000046DA518>, <praw.objects.Comment object at 0x00000000046DA5F8>, <praw.objects.Comment object at 0x00000000046DA710>, <praw.objects.Comment object at 0x00000000046DA7F0>, <praw.objects.Comment object at 0x00000000046DA8D0>, <praw.objects.Comment object at 0x00000000046DA978>, <praw.objects.Comment object at 0x00000000046DAE10>, <praw.objects.Comment object at 0x00000000047B54E0>, <praw.objects.Comment object at 0x00000000047B55C0>, <praw.objects.Comment object at 0x00000000047B56A0>, <praw.objects.Comment object at 0x00000000047B5780>, <praw.objects.Comment object at 0x00000000047B5860>, <praw.objects.Comment object at 0x00000000047B5940>, <praw.objects.Comment object at 0x00000000047B5A20>, <praw.objects.Comment object at 0x00000000047B5C18>, <praw.objects.Comment object at 0x00000000047B5CF8>, <praw.objects.Comment object at 0x00000000047B5DD8>, <praw.objects.Comment object at 0x00000000047B5EB8>, <praw.objects.Comment object at 0x00000000047B5F98>, <praw.objects.Comment object at 0x00000000047C00B8>, <praw.objects.Comment object at 0x00000000047C01D0>, <praw.objects.Comment object at 0x00000000047C02B0>, <praw.objects.Comment object at 0x00000000047C0390>, <praw.objects.Comment object at 0x00000000047C0470>, <praw.objects.Comment object at 0x00000000047C0588>, <praw.objects.Comment object at 0x00000000047C0F28>, <praw.objects.Comment object at 0x00000000047D0048>, <praw.objects.Comment object at 0x00000000047D0198>, <praw.objects.Comment object at 0x00000000047D0278>, <praw.objects.Comment object at 0x00000000047D0358>, <praw.objects.Comment object at 0x00000000047D0438>, <praw.objects.Comment object at 0x00000000047D0550>, <praw.objects.Comment object at 0x00000000047D0630>, <praw.objects.Comment object at 0x00000000047D0710>, <praw.objects.Comment object at 0x00000000047D07F0>, <praw.objects.Comment object at 0x00000000047D08D0>, <praw.objects.Comment object at 0x00000000047D0A20>, <praw.objects.Comment object at 0x00000000047D0B00>, <praw.objects.Comment object at 0x00000000047D0BE0>, <praw.objects.Comment object at 0x00000000047D0CC0>, <praw.objects.Comment object at 0x00000000047D0DA0>, <praw.objects.Comment object at 0x00000000047D0E80>, <praw.objects.Comment object at 0x00000000047E2048>, <praw.objects.Comment object at 0x00000000047E2978>, <praw.objects.Comment object at 0x00000000047E2A90>, <praw.objects.Comment object at 0x00000000047E2B70>, <praw.objects.Comment object at 0x00000000047E2C88>, <praw.objects.Comment object at 0x00000000047E2D68>, <praw.objects.Comment object at 0x00000000047E2E48>, <praw.objects.Comment object at 0x00000000047E2F28>, <praw.objects.Comment object at 0x0000000004846048>, <praw.objects.Comment object at 0x0000000004846128>, <praw.objects.Comment object at 0x0000000004846208>, <praw.objects.Comment object at 0x00000000048462E8>, <praw.objects.Comment object at 0x00000000048463C8>, <praw.objects.Comment object at 0x00000000048464A8>, <praw.objects.Comment object at 0x0000000004846588>, <praw.objects.Comment object at 0x0000000004846630>, <praw.objects.Comment object at 0x0000000004846710>, <praw.objects.Comment object at 0x00000000048467F0>, <praw.objects.Comment object at 0x00000000048468D0>, <praw.objects.Comment object at 0x00000000048469E8>, <praw.objects.Comment object at 0x00000000048593C8>, <praw.objects.Comment object at 0x0000000004859470>, <praw.objects.Comment object at 0x0000000004859550>, <praw.objects.Comment object at 0x0000000004859630>, <praw.objects.Comment object at 0x0000000004859710>, <praw.objects.Comment object at 0x00000000048597F0>, <praw.objects.Comment object at 0x00000000048598D0>, <praw.objects.Comment object at 0x0000000004859978>, <praw.objects.Comment object at 0x0000000004859A58>, <praw.objects.Comment object at 0x0000000004859B38>, <praw.objects.Comment object at 0x0000000004859C18>, <praw.objects.Comment object at 0x0000000004859CF8>, <praw.objects.Comment object at 0x0000000004859DD8>, <praw.objects.Comment object at 0x0000000004859F60>, <praw.objects.Comment object at 0x0000000004867080>, <praw.objects.Comment object at 0x00000000048671D0>, <praw.objects.Comment object at 0x0000000004867390>, <praw.objects.Comment object at 0x0000000004867DD8>, <praw.objects.Comment object at 0x0000000004867F60>, <praw.objects.Comment object at 0x00000000048770B8>, <praw.objects.Comment object at 0x00000000048772E8>, <praw.objects.Comment object at 0x00000000048774A8>, <praw.objects.Comment object at 0x0000000004877630>, <praw.objects.Comment object at 0x00000000048777B8>, <praw.objects.Comment object at 0x0000000004877940>, <praw.objects.Comment object at 0x0000000004877AC8>, <praw.objects.Comment object at 0x0000000004877EF0>, <praw.objects.Comment object at 0x000000000494D668>, <praw.objects.Comment object at 0x000000000494D7F0>, <praw.objects.Comment object at 0x000000000494D9B0>, <praw.objects.Comment object at 0x000000000494DB70>, <praw.objects.Comment object at 0x000000000494DCF8>, <praw.objects.Comment object at 0x000000000494DE80>, <praw.objects.Comment object at 0x0000000004958048>, <praw.objects.Comment object at 0x00000000049581D0>, <praw.objects.Comment object at 0x0000000004958358>, <praw.objects.Comment object at 0x0000000004958518>, <praw.objects.Comment object at 0x0000000004958F60>, <praw.objects.Comment object at 0x0000000004966128>, <praw.objects.Comment object at 0x0000000004966278>, <praw.objects.Comment object at 0x00000000049664A8>, <praw.objects.Comment object at 0x00000000049665F8>, <praw.objects.Comment object at 0x0000000004966780>, <praw.objects.Comment object at 0x00000000049668D0>, <praw.objects.Comment object at 0x0000000004966A58>, <praw.objects.Comment object at 0x0000000004966EF0>, <praw.objects.Comment object at 0x000000000497B668>, <praw.objects.Comment object at 0x000000000497B7F0>, <praw.objects.Comment object at 0x000000000497B978>, <praw.objects.Comment object at 0x000000000497BB00>, <praw.objects.Comment object at 0x000000000497BC88>, <praw.objects.Comment object at 0x000000000497BE10>, <praw.objects.Comment object at 0x000000000497BF98>, <praw.objects.Comment object at 0x00000000049DB160>, <praw.objects.Comment object at 0x00000000049DB2B0>, <praw.objects.Comment object at 0x00000000049DB3C8>, <praw.objects.Comment object at 0x00000000049DBE48>, <praw.objects.Comment object at 0x00000000049DBFD0>, <praw.objects.Comment object at 0x00000000049E9240>, <praw.objects.Comment object at 0x00000000049E9320>, <praw.objects.Comment object at 0x00000000049E9400>, <praw.objects.Comment object at 0x00000000049E94E0>, <praw.objects.Comment object at 0x00000000049E95C0>, <praw.objects.Comment object at 0x00000000049E9710>, <praw.objects.Comment object at 0x00000000049E9A58>, <praw.objects.Comment object at 0x00000000049E9B38>, <praw.objects.Comment object at 0x00000000024A8EF0>, <praw.objects.Comment object at 0x00000000049FC208>, <praw.objects.Comment object at 0x00000000049FC358>, <praw.objects.Comment object at 0x00000000049FC588>, <praw.objects.Comment object at 0x00000000049FC710>, <praw.objects.Comment object at 0x00000000049FC898>, <praw.objects.Comment object at 0x00000000049FCAC8>, <praw.objects.Comment object at 0x00000000049FCC50>, <praw.objects.Comment object at 0x0000000004A0F320>, <praw.objects.Comment object at 0x0000000004A0F780>, <praw.objects.Comment object at 0x0000000004A0F908>, <praw.objects.Comment object at 0x0000000004A0FA20>, <praw.objects.Comment object at 0x0000000004A0FBA8>, <praw.objects.Comment object at 0x0000000004A0FE80>, <praw.objects.Comment object at 0x0000000004ADE080>, <praw.objects.Comment object at 0x0000000004ADE208>, <praw.objects.Comment object at 0x0000000004ADE390>, <praw.objects.Comment object at 0x0000000004ADE4A8>, <praw.objects.Comment object at 0x0000000004ADEF28>, <praw.objects.Comment object at 0x0000000004AEF0F0>, <praw.objects.Comment object at 0x0000000004AEF278>, <praw.objects.Comment object at 0x0000000004AEF3C8>, <praw.objects.Comment object at 0x0000000004AEF550>, <praw.objects.Comment object at 0x0000000004AEF6D8>, <praw.objects.Comment object at 0x0000000004AEF860>, <praw.objects.Comment object at 0x0000000004AEF9E8>, <praw.objects.Comment object at 0x0000000004AEFB00>, <praw.objects.Comment object at 0x000000000310AF28>, <praw.objects.Comment object at 0x0000000004AEFD30>, <praw.objects.Comment object at 0x0000000004AEFF60>, <praw.objects.Comment object at 0x0000000004B031D0>, <praw.objects.Comment object at 0x0000000004B03438>, <praw.objects.Comment object at 0x0000000004B03518>, <praw.objects.Comment object at 0x0000000004B03748>, <praw.objects.Comment object at 0x0000000004B038D0>, <praw.objects.Comment object at 0x0000000004B03DD8>, <praw.objects.Comment object at 0x0000000004B13550>, <praw.objects.Comment object at 0x0000000004B136D8>, <praw.objects.Comment object at 0x0000000004B13860>, <praw.objects.Comment object at 0x0000000004B139B0>, <praw.objects.Comment object at 0x0000000004B13B38>, <praw.objects.Comment object at 0x0000000004B13CC0>, <praw.objects.Comment object at 0x0000000004B13E48>, <praw.objects.Comment object at 0x0000000004B13FD0>, <praw.objects.Comment object at 0x0000000004D88198>, <praw.objects.Comment object at 0x0000000004D88358>, <praw.objects.Comment object at 0x0000000004D88DD8>, <praw.objects.Comment object at 0x0000000004D88F60>, <praw.objects.Comment object at 0x0000000004D9B128>, <praw.objects.Comment object at 0x0000000004D9B2E8>, <praw.objects.Comment object at 0x0000000004D9B470>, <praw.objects.Comment object at 0x0000000004D9B5F8>, <praw.objects.Comment object at 0x0000000004D9B780>, <praw.objects.Comment object at 0x0000000004D9B908>, <praw.objects.Comment object at 0x0000000004D9B9E8>, <praw.objects.Comment object at 0x000000000465BCF8>, <praw.objects.Comment object at 0x00000000046C5710>, <praw.objects.Comment object at 0x00000000046C54E0>, <praw.objects.Comment object at 0x00000000046C59E8>, <praw.objects.Comment object at 0x00000000046C56D8>, <praw.objects.Comment object at 0x00000000046C5C18>, <praw.objects.Comment object at 0x0000000004D9BC50>, <praw.objects.Comment object at 0x0000000004D9BD68>, <praw.objects.Comment object at 0x0000000004D9BEF0>, <praw.objects.Comment object at 0x0000000004DB7080>, <praw.objects.Comment object at 0x0000000004DB7160>, <praw.objects.Comment object at 0x0000000004DB75C0>, <praw.objects.Comment object at 0x0000000004DB7D68>, <praw.objects.Comment object at 0x0000000004DB7EF0>, <praw.objects.Comment object at 0x0000000004DC20B8>, <praw.objects.Comment object at 0x0000000004DC2240>, <praw.objects.Comment object at 0x0000000004DC23C8>, <praw.objects.Comment object at 0x0000000004DC2550>, <praw.objects.Comment object at 0x0000000004DC26D8>, <praw.objects.Comment object at 0x0000000004DC2860>, <praw.objects.Comment object at 0x0000000004DC29E8>, <praw.objects.Comment object at 0x00000000046DAD68>, <praw.objects.Comment object at 0x0000000004DC2D30>, <praw.objects.Comment object at 0x0000000004DC2F28>, <praw.objects.Comment object at 0x0000000004DF80B8>, <praw.objects.Comment object at 0x0000000004DF8208>, <praw.objects.Comment object at 0x0000000004DF8358>, <praw.objects.Comment object at 0x0000000004DF8470>, <praw.objects.Comment object at 0x0000000004DF85C0>, <praw.objects.Comment object at 0x0000000004DF8710>, <praw.objects.Comment object at 0x00000000046C5320>, <praw.objects.Comment object at 0x0000000004DF8978>, <praw.objects.Comment object at 0x0000000004DF8AC8>, <praw.objects.Comment object at 0x0000000004DF8C18>, <praw.objects.Comment object at 0x0000000004DF8D68>, <praw.objects.Comment object at 0x0000000004DF8EB8>, <praw.objects.Comment object at 0x0000000004E0A048>, <praw.objects.Comment object at 0x0000000004E0A160>, <praw.objects.Comment object at 0x0000000004E0A240>, <praw.objects.Comment object at 0x0000000004E0A320>, <praw.objects.Comment object at 0x0000000004E0A400>, <praw.objects.Comment object at 0x0000000004E0A4E0>, <praw.objects.Comment object at 0x0000000004E0A5C0>, <praw.objects.Comment object at 0x00000000046DAAC8>, <praw.objects.Comment object at 0x0000000004846A58>, <praw.objects.Comment object at 0x0000000004846AC8>, <praw.objects.Comment object at 0x0000000004846BE0>, <praw.objects.Comment object at 0x0000000004846B00>, <praw.objects.Comment object at 0x0000000004846E10>, <praw.objects.Comment object at 0x0000000004846FD0>, <praw.objects.Comment object at 0x00000000048590B8>, <praw.objects.Comment object at 0x00000000048591D0>, <praw.objects.Comment object at 0x0000000004859278>, <praw.objects.Comment object at 0x0000000004859198>, <praw.objects.Comment object at 0x0000000004E0A860>, <praw.objects.Comment object at 0x0000000004E0A940>, <praw.objects.Comment object at 0x0000000004E0AA20>, <praw.objects.Comment object at 0x0000000004E0AB00>, <praw.objects.Comment object at 0x0000000004E0ABE0>, <praw.objects.Comment object at 0x0000000004E0ACC0>, <praw.objects.Comment object at 0x0000000004E0ADA0>, <praw.objects.Comment object at 0x0000000004E0AE80>, <praw.objects.Comment object at 0x0000000004ECD048>, <praw.objects.Comment object at 0x0000000004ECD9B0>, <praw.objects.Comment object at 0x0000000004ECDA90>, <praw.objects.Comment object at 0x0000000004ECDB70>, <praw.objects.Comment object at 0x0000000004ECDC50>, <praw.objects.Comment object at 0x0000000004ECDD30>, <praw.objects.Comment object at 0x0000000004ECDE10>, <praw.objects.Comment object at 0x0000000004ECDEF0>, <praw.objects.Comment object at 0x0000000004ECDFD0>, <praw.objects.Comment object at 0x0000000004ED60F0>, <praw.objects.Comment object at 0x0000000004ED61D0>, <praw.objects.Comment object at 0x0000000004ED62B0>, <praw.objects.Comment object at 0x0000000004ED6390>, <praw.objects.Comment object at 0x0000000004ED6470>, <praw.objects.Comment object at 0x0000000004ED6550>, <praw.objects.Comment object at 0x0000000004ED6630>, <praw.objects.Comment object at 0x0000000004ED6710>, <praw.objects.Comment object at 0x0000000004ED6828>, <praw.objects.Comment object at 0x0000000004ED6908>, <praw.objects.Comment object at 0x0000000004ED69E8>, <praw.objects.Comment object at 0x00000000047D0F60>, <praw.objects.Comment object at 0x0000000004ED6BE0>, <praw.objects.Comment object at 0x0000000004ED6CC0>, <praw.objects.Comment object at 0x0000000004ED6DA0>, <praw.objects.Comment object at 0x0000000004ED6E80>, <praw.objects.Comment object at 0x0000000004ED6F60>, <praw.objects.Comment object at 0x0000000004EE9080>, <praw.objects.Comment object at 0x0000000004EE9160>, <praw.objects.Comment object at 0x0000000004EE9240>, <praw.objects.Comment object at 0x0000000004EE9320>, <praw.objects.Comment object at 0x0000000004EE9400>, <praw.objects.Comment object at 0x0000000004EE94E0>, <praw.objects.Comment object at 0x0000000004EE95C0>, <praw.objects.Comment object at 0x0000000004EE96A0>, <praw.objects.Comment object at 0x0000000004EE9780>, <praw.objects.Comment object at 0x0000000004EE9860>, <praw.objects.Comment object at 0x0000000004EE9908>, <praw.objects.Comment object at 0x0000000004EE99E8>, <praw.objects.Comment object at 0x0000000004EE9AC8>, <praw.objects.Comment object at 0x0000000004877E48>, <praw.objects.Comment object at 0x0000000004EE9CF8>, <praw.objects.Comment object at 0x0000000004EE9DD8>, <praw.objects.Comment object at 0x0000000004EE9EB8>, <praw.objects.Comment object at 0x0000000004EE9F98>, <praw.objects.Comment object at 0x0000000004EFE080>, <praw.objects.Comment object at 0x0000000004EFE160>, <praw.objects.Comment object at 0x0000000004EFE240>, <praw.objects.Comment object at 0x0000000004EFE320>, <praw.objects.Comment object at 0x0000000004EFE400>, <praw.objects.Comment object at 0x0000000004EFE4E0>, <praw.objects.Comment object at 0x0000000004EFE5C0>, <praw.objects.Comment object at 0x0000000004EFE6A0>, <praw.objects.Comment object at 0x0000000004EFE780>, <praw.objects.Comment object at 0x0000000004EFE8D0>, <praw.objects.Comment object at 0x0000000004EFE9B0>, <praw.objects.Comment object at 0x0000000004EFEA90>, <praw.objects.Comment object at 0x0000000004EFEB70>, <praw.objects.Comment object at 0x0000000004867358>, <praw.objects.Comment object at 0x0000000004EFED68>, <praw.objects.Comment object at 0x0000000004EFEE48>, <praw.objects.Comment object at 0x0000000004EFEEF0>, <praw.objects.Comment object at 0x0000000004EFEFD0>, <praw.objects.Comment object at 0x0000000004F660B8>, <praw.objects.Comment object at 0x0000000004F66198>, <praw.objects.Comment object at 0x0000000004F66278>, <praw.objects.Comment object at 0x0000000004F66358>, <praw.objects.Comment object at 0x0000000004F66438>, <praw.objects.Comment object at 0x0000000004F66518>, <praw.objects.Comment object at 0x0000000004F665F8>, <praw.objects.Comment object at 0x0000000004F666D8>, <praw.objects.Comment object at 0x0000000004F667B8>, <praw.objects.Comment object at 0x0000000004877BA8>, <praw.objects.Comment object at 0x0000000004F669B0>, <praw.objects.Comment object at 0x0000000004F66A90>, <praw.objects.Comment object at 0x0000000004F66B70>, <praw.objects.Comment object at 0x0000000004F66C50>, <praw.objects.Comment object at 0x0000000004F66D30>, <praw.objects.Comment object at 0x0000000004F66E10>, <praw.objects.Comment object at 0x0000000004F66EF0>, <praw.objects.Comment object at 0x0000000004F66FD0>, <praw.objects.Comment object at 0x0000000004F770F0>, <praw.objects.Comment object at 0x0000000004F771D0>, <praw.objects.Comment object at 0x0000000004F77320>, <praw.objects.Comment object at 0x0000000004F77400>, <praw.objects.Comment object at 0x0000000004F774E0>, <praw.objects.Comment object at 0x0000000004F775C0>, <praw.objects.Comment object at 0x0000000004F776A0>, <praw.objects.Comment object at 0x0000000004F77780>, <praw.objects.Comment object at 0x0000000004F77860>, <praw.objects.Comment object at 0x00000000049584E0>, <praw.objects.Comment object at 0x000000000310A1D0>, <praw.objects.Comment object at 0x000000000310A550>, <praw.objects.Comment object at 0x000000000310A400>, <praw.objects.Comment object at 0x000000000310A5F8>, <praw.objects.Comment object at 0x000000000310A898>, <praw.objects.Comment object at 0x00000000049E9C88>, <praw.objects.Comment object at 0x00000000049E9E10>, <praw.objects.Comment object at 0x0000000004F77A20>, <praw.objects.Comment object at 0x0000000004F77B00>, <praw.objects.Comment object at 0x0000000004F77C50>, <praw.objects.Comment object at 0x0000000004F93320>, <praw.objects.Comment object at 0x0000000004F937F0>, <praw.objects.Comment object at 0x0000000004F93978>, <praw.objects.Comment object at 0x0000000004F93AC8>, <praw.objects.Comment object at 0x0000000004F93B70>, <praw.objects.Comment object at 0x0000000004F93C50>, <praw.objects.Comment object at 0x0000000004F93D30>, <praw.objects.Comment object at 0x0000000004F93E48>, <praw.objects.Comment object at 0x0000000004F93F28>, <praw.objects.Comment object at 0x0000000005025048>, <praw.objects.Comment object at 0x00000000050251D0>, <praw.objects.Comment object at 0x0000000005025320>, <praw.objects.Comment object at 0x0000000005025400>, <praw.objects.Comment object at 0x00000000050254E0>, <praw.objects.Comment object at 0x00000000049DB390>, <praw.objects.Comment object at 0x0000000005025668>, <praw.objects.Comment object at 0x0000000005025780>, <praw.objects.Comment object at 0x0000000005025898>, <praw.objects.Comment object at 0x0000000005025978>, <praw.objects.Comment object at 0x0000000005025A90>, <praw.objects.Comment object at 0x0000000005025BE0>, <praw.objects.Comment object at 0x0000000005025D30>, <praw.objects.Comment object at 0x0000000005025E80>, <praw.objects.Comment object at 0x0000000005025FD0>, <praw.objects.Comment object at 0x0000000005037160>, <praw.objects.Comment object at 0x00000000050372B0>, <praw.objects.Comment object at 0x00000000049E9BE0>, <praw.objects.Comment object at 0x0000000005037550>, <praw.objects.Comment object at 0x00000000050376A0>, <praw.objects.Comment object at 0x00000000050377F0>, <praw.objects.Comment object at 0x0000000005037940>, <praw.objects.Comment object at 0x0000000005037A90>, <praw.objects.Comment object at 0x0000000005037BE0>, <praw.objects.Comment object at 0x0000000005037D30>, <praw.objects.Comment object at 0x0000000005037E80>, <praw.objects.Comment object at 0x0000000005041048>, <praw.objects.Comment object at 0x000000000310AEF0>, <praw.objects.Comment object at 0x0000000005041278>, <praw.objects.Comment object at 0x00000000050413C8>, <praw.objects.Comment object at 0x0000000005041518>, <praw.objects.Comment object at 0x0000000005041668>, <praw.objects.Comment object at 0x00000000050417B8>, <praw.objects.Comment object at 0x0000000005041908>, <praw.objects.Comment object at 0x00000000050419E8>, <praw.objects.Comment object at 0x0000000005041B38>, <praw.objects.Comment object at 0x0000000005041C88>]
+bring it on
+Added user Phykito troopList.
+and MY AXE!
+Added user drpestilenceto troopList.
+i'm in, gotta kick some orangered ass.
+Added user notaverysmartdogto troopList.
+woot
+Added user ChiefKickingAssto troopList.
+I'll be up for it
+Added user MaxTheHedgehogto troopList.
+Sheepdog, Reporting for duty
+Added user TheSheepdogto troopList.
+[deleted]
+Added user Noneto troopList.
+Oh man, I'm so lost.  I tried reading the wiki but I must be dumb.  Can I get...
+Added user beefstick86to troopList.
+Can i join?
+Added user toastghost77to troopList.
+Sign me up!
+Added user I_am_sorrowto troopList.
+gib peri
+Added user hapticdashto troopList.
+I WILL STAND AGAINST THE ORANGERED
+Added user chriscodedto troopList.
+Yaas
+Added user nataliaspeaksto troopList.
+Much excite
+Added user Its_no_useto troopList.
+woo
+Added user kism3to troopList.
+bang bang lets do this.
+Added user aventedorto troopList.
+Woot woot.
+Added user Your_redhead_fantasyto troopList.
+sign me up please
+Added user ale_mayo_to troopList.
+ChiefKickingAss
+True that
+Added user minibabybuuto troopList.
+Ready to signup
+Added user raptorbarkto troopList.
+=)
+Added user Soramketo troopList.
+le will spy
+Sup.
+Added user Gudicto troopList.
+P3n15 Reporting in!
+Added user anelephantsatonpaulto troopList.
+ready for battle!
+Added user arky527to troopList.
+call me in
+Added user Necrotosto troopList.
+[deleted]
+Entered.
+Added user OrbitalFacePalm9001to troopList.
+[deleted]
+[deleted]
+holla
+Added user BrandonFlandonto troopList.
+In.
+Added user poopsmith1976to troopList.
+I'll be ever ready.
+Added user Captain_Krumento troopList.
+Cadet Ugli reporting for doody.
+Added user uglinessmanto troopList.
+Onwards and sideways!
+Added user DanoLostTheGameto troopList.
+[deleted]
+add me
+Added user SirMonocleMasterto troopList.
+.
+2K is in da house!
+Added user Andrewski2000to troopList.
+For glory!
+Added user Porkthepieto troopList.
+all hail periwinkle
+
+Added user Cookie_Baglesto troopList.
+BAOMN
+Added user JoeliVidirito troopList.
+coffeemetalandbone
+Added user CoffeeMetalandBoneto troopList.
+;)
+Added user TheAllStarrBandto troopList.
+I'm ready
+Sign me in
+Added user maxthethraxto troopList.
+Subspace_Lani
+Added user Subspace_Lanito troopList.
+liavt
+
+Added user liavtto troopList.
+To be prepared for war is one of the most effective means of preserving peace...
+Added user fcdjrto troopList.
+go go go
+Added user salelto troopList.
+Sign me up!
+Added user bluejvto troopList.
+Yay Prime!
+Added user Remnance627to troopList.
+I *am* terribly partial to the periwinkle blue
+Added user newhozato troopList.
+Why should I join team Periwinkle? Why not Orangered? I'm new to this battle ...
+Added user AnOriginailNameto troopList.
+[deleted]
+VindictiveBeluga
+Added user vindictivebelugato troopList.
+Ready for duty, sign me up!
+Added user TheEaterOfFoodto troopList.
+Oooh! Oooh! Me five!
+Added user pigenharboldeto troopList.
+I hope this is still on.
+Added user LeglessParrotto troopList.
+Rather be dead
+Added user Shats299to troopList.
+Boredom_rage
+
+I'm down.
+Added user Boredom_rageto troopList.
+Reporting for duty!
+Added user LadySunsetto troopList.
+[deleted]
+All hail Periwinkelism!
+Added user netizenbaneto troopList.
+Let the indoctrination begin... I'm in.. 
+Added user Texassippianto troopList.
+The battlefield calls to me! I must soak the ground in Orangered!
+Added user regular_authorto troopList.
+Sign me up!
+Added user Mop6229to troopList.
+Reporting for duty.
+Added user orionpsg1to troopList.
+alrighty
+Added user dorzacto troopList.
+I missed the first one, don't want to miss this one.
+Added user JayRizzo03to troopList.
+Sign Me up
+Added user XiiCubedto troopList.
+Our victory will be an act of justice.
+Added user LardDudeto troopList.
+Do I need to re-sign?
+Added user redis213to troopList.
+sign me up lad
+Added user Zackman558to troopList.
+Potato_gunman3
+Added user Potato_Gunman3to troopList.
+Sign. Me. Up. 
+Added user xombieCHRISTto troopList.
+i'm comin' for that booty
+Added user RedDireto troopList.
+PanzerFauzt
+Added user PanzerFauztto troopList.
+I'll sign up
+
+Added user quixoticquailto troopList.
+count me in :D
+Added user Zombiiiesto troopList.
+Is it too late? If not, I'm in.
+Added user masman99to troopList.
+Give Polygon a Polygun, amirite?
+Added user OneSidedPolygonto troopList.
+Let's do this!
+Added user Teh_Bukkitto troopList.
+Maybe if I sign up, I'll participate in the battle after this one...
+Added user GuyWithPastato troopList.
+Down with Orange and all Orange related things!
+
+Sign me up, Commander!
+Added user Cirotato troopList.
+Sign me up!
+Added user TheDoubleYto troopList.
+I'M READY!
+Added user XGX787to troopList.
+yerp
+Added user ConcedeDotato troopList.
+More like persihwrinkle :(
+Added user Powseto troopList.
+boop
+Added user HamandPotatoesto troopList.
+sign me up
+Added user suspendedfromthemoonto troopList.
+Sign me up!
+Added user theninjatto troopList.
+Id like to sign up for my cakeday
+Added user Outraged_Piggyto troopList.
+Onward to **victory**!!!!!!
+Added user Vulcan_dominoto troopList.
+Dun dun dun
+Added user DBCrumpetsto troopList.
+[deleted]
+better Dead than Orangered
+Added user jbetxto troopList.
+I'm in!
+Are sign ups still open?
+Added user DenebVegaAltairto troopList.
+Yo, count me in.
+
+Added user kanapka123to troopList.
+LeNewArc
+Added user LeNewArcto troopList.
+redhedge47 -_-7
+Added user redhedge47to troopList.
+Aye aye cap'n!
+Added user Alatar_the_Blueto troopList.
+[deleted]
+FOR KATYA 
+Added user zeeman928to troopList.
+here to serve,  sign me up!
+Added user TomGfromCanadato troopList.
+sign me the fuck up
+Added user a59ato troopList.
+;)
+Added user xX4rcherXxto troopList.
+Let me serve you my lord.
+Added user OnlyCoopsto troopList.
+What is thy bidding my master?
+Added user double_whiskeyto troopList.
+Sign me up
+Added user EXTSZombiemasterto troopList.
+Sounds good to me!
+Added user Dsvkbto troopList.
+Hi
+Added user dannyoloto troopList.
+Sign me up!
+Added user AlphaTitaniumto troopList.
+I'm in!
+Added user buffetboy88to troopList.
+Potato_gunman3
+LETs GO
+Added user RockHard_Jesusto troopList.
+Sign me up! For Periwinkle! 
+Added user TheOriginalOnii-Chanto troopList.
+[deleted]
+👱🏿🍉👱🏿👱🏿👸🏻🔫👱🏿🔫👱🏿👱🏿
+👱🏿👱🏿🍉👱🏿🔫👱🏿🔫👱🏿🔫👱🏿
+Added user IlIIlIIlIIlIllIlIIlIto troopList.
+Hope this works 
+Added user HumbleStacheto troopList.
+Beam me up.
+Added user superdude14862to troopList.
+meeeeeeowwwwwwww~
+Added user SakuraM1011to troopList.
+so what is all this?
+
+Added user pooticusto troopList.
+#Attempting Signup  
+
+`Initiate signup protocol`  
+Signup protocol initiated,...
+Sign me up!
+Added user TheRoseOfSolidarityto troopList.
+Sign me up
+
+
+
+
+Added user Faroreswind127to troopList.
+Hello!
+Added user -Flex-to troopList.
+[deleted]
+[deleted]
+/u/Actual_EagleZ504
+
+New to this, so need help if possible
+Added user Actual_EagleZ504to troopList.
+Ready
+Added user williamsonmaxwellto troopList.
+Am I late? I wish to join the ranks.
+Added user Ithinkiplaygamesto troopList.
+Toppest of keks. i shall join the periwinks
+Added user Alphanerd2to troopList.
+New Captain Reporting!
+Added user Sgt_Fryto troopList.
+punkpixz
+Added user punkpixzto troopList.
+noot noot
+Added user Sugoyto troopList.
+[deleted]
+Is this a bot or an extremely dedicated person?
+Added user Keundrumto troopList.
+Um... So what is this? It sounds kind of interesting.
+Added user Lucario117to troopList.
+ready to rumble !
+Added user tanya_tacoxoto troopList.
+Never give up, never surrender
+"Better dead than orangered" 
+Added user carj04to troopList.
+Sign me up.
+Added user DarthCunnilingus9to troopList.
+Reporting to volunteer. 
+Added user tkcomune123to troopList.
+Better dead than orangered!
+Added user oh_livreto troopList.
+Damn I missed a war? Sign me up!
+Added user BobSagetOooshto troopList.
+Welp, why the hell not?
+Added user axslayer33to troopList.
+I hereby pledge my allegiance to the Periwinkle Empire, the one and only true...
+Added user Oh-u-so-randomto troopList.
+Woo wooo
+Added user buntingsnookto troopList.
+Ready to fight
+Added user ApocalypticScholar21to troopList.
+Lego
+Added user Trenchant_Chemistto troopList.
+ay lmao
+Added user TheZippy49to troopList.
+Hue.
+Added user Mandymandymanto troopList.
+Oooo pick me! Pick me!
+Added user Talackyto troopList.
+Heyo 
+Added user So_many_mailsto troopList.
+Sign me up!
+Added user Vrangoto troopList.
+Sign me up! 
+Added user Kenooito troopList.
+Add me!
+Added user Makispito troopList.
+Reporting for duty, sir.
+Added user VenomCto troopList.
+Count me in 
+Added user SpoonerSporkto troopList.
+We march forward for freedom. And pot legalization. 
+Added user Schrammwowto troopList.
+I will fight!
+Added user fossett_workto troopList.
+I'll make them see orangered as I burn their cities to the ground! Sign me up...
+Added user Tigerfluff23to troopList.
+yeeeeaaaa!
+Added user jen_wexxxto troopList.
+Let's take down the bastards ! Deca03
+Added user Deca03to troopList.
+woot!  sign me up
+Added user sismitto troopList.
+[deleted]
+Let me fight for you!
+Added user KaufenEinHuhnto troopList.
+I am Señor Periwinkle. Bow before me orange scum. 
+Added user Shamrock013to troopList.
+I guess sign me up.
+Added user Hanglweto troopList.
+Love you Prime! Sign me up!
+Added user Spamman4587to troopList.
+The Red Star reporting for duty, sir!
+Added user mustangwolf1997to troopList.
+Sign me up, please.
+Added user ATtheorytimeto troopList.
+hi
+Added user YellowbeltJrto troopList.
+I want to join
+Added user JEEntertainment89to troopList.
+Add me
+Destro71
+Added user destro71to troopList.
+:3
+Added user jsmoothzto troopList.
+Greetings
+Added user Fuzzymentalistto troopList.
+Ready for battle.
+Added user winter_pony4to troopList.
+I am here for some nice memes!
+Added user andyhpueto troopList.
+Because you won't find the answers in your fancy overpriced college textbooks...
+Added user davorkljuto troopList.
+Sign me up, commander!
+Added user Blurreidiscto troopList.
+ProgrammerinDistress is ready to do his duty SIR!
+Added user ProgrammerinDistressto troopList.
+sign me up!
+Added user SpunZzto troopList.
+[deleted]
+Well, I *guess* I could sign up. I've never been a fan of Orangered anyhow.
+
+Added user tomservo88to troopList.
+...reporting?
+Added user tomllmto troopList.
+I don't see why not.  Consider me periwinkled. 
+Added user StevenMulraneyto troopList.
+T_MASTER
+Added user T_MASTERto troopList.
+My passion for periwinkle is palpable!
+Added user Esoteric_Monkto troopList.
+Alright, sign me up! MissRayRay reporting for duty.
+Added user MissRayRayto troopList.
+[deleted]
+Signn me up
+Added user Cubemaniac1231to troopList.
+Initiate radio contact
+Added user RobertB91to troopList.
+coolio
+Added user NONVIOLENT_CHICKENto troopList.
+Kep700
+Added user kep700to troopList.
+Lets go kick some Orangered ass!
+Added user ctrlshftnto troopList.
+Sign me up!
+ayyyy
+Added user omporto troopList.
+Do not sign me up! I repeat, do not sign me up!
+Added user DumbledoreMDto troopList.
+[deleted]
+[deleted]
+I want in!
+Added user Dick_Magnetto troopList.
+HELL YEAH
+Added user Alpha_Arrowzto troopList.
+Suited up and ready to fly!
+Added user SilverWarrior9to troopList.
+lets go
+Added user SPltFYreto troopList.
+Get me in the loop plz.
+Added user Lutheus13to troopList.
+[deleted]
+here?
+Added user bestrockfan12to troopList.
+[deleted]
+Yo prime, I'm behind on my anal probing quota. Gimme a check-up!
+Added user Lolzrfunnito troopList.
+Reporting for duty to kick some orangered ass, sir!
+Added user TheEdgeOfTheInternetto troopList.
+I want in! LET'S DO THISSS!
+Added user NotWolfBlitzerto troopList.
+is it on already or am i late for the party?
+Added user tenfoldeto troopList.
+Here I be.
+Added user Crabjockto troopList.
+:o
+Added user Devil_May_Kito troopList.
+Enlist me cap'n! I want to feel the blood of the oranger scum against my steel! 
+Added user BadB0iito troopList.
+U/-dudeomfgstfux-
+Added user -dudeomfgstfux-to troopList.
+[deleted]
+Deffenitly joining this team. Sign me up! 
+Added user vwaexperianceto troopList.
+lets do this
+
+Added user gman4everto troopList.
+It would be an honor to fight with you
+Added user soupnrcto troopList.
+sign me up
+Added user ryswag123to troopList.
+Let's do this !
+Added user Elvungto troopList.
+The third Prime's the charm!
+Added user RockdaleRoosterto troopList.
+hey
+Added user Dumbgeckoto troopList.
+Sign me up! :D
+Added user Nynmto troopList.
+JUST do it!
+Added user MortaLPortaLto troopList.
+I must be signed up immediately!
+Added user JeffTheAlmightyto troopList.
+Maaaaaaaaaate
+Added user Cadletonto troopList.
+[deleted]
+sign me up baby. We're going to war
+Added user chuckles62to troopList.
+Did i ever sign up?
+Added user Silentkillarto troopList.
+I WANNA BE PERIWINKLE! 4 DA PERI!!!!!!!!!!!!!
+Added user enchantmentman2to troopList.
+[deleted]
+his name is my name too.....
+Added user JJJHeimer_Schmidtto troopList.
+Database Database
+Added user Mega_Nerdto troopList.
+Wait, what?
+
+I hadn't participated in the war long ago, so I have no idea wha...
+Added user Cubicpercyto troopList.
+Am I too late?
+Added user le_troutto troopList.
+ready to battle, fellow periwinkles!
+Added user SirPinkatato troopList.
+:P
+Sign me up!
+Added user Elaynto troopList.
+mew
+Added user msnaughtykittyto troopList.
+hmmm
+Added user weeeeemsto troopList.
+zeroabomination, REPORTING FOR DUTY
+Added user ZeroAbominationto troopList.
+SIR, I BELIEVE JOINING THE CORPS WILL HELP ME STRAIGHTEN OUT MY LIFE SIR!
+SIG...
+Added user mali81to troopList.
+Ready to deploy the Lennies.
+Added user LeLennyFacesto troopList.
+/u/Cometbringer Sign me up
+Added user Cometbringerto troopList.
+Glory to periwinkle
+
+Added user wafflebatmanto troopList.
+Whee
+Added user feistylilkittento troopList.
+PICKLE
+Added user 2c3d4eto troopList.
+Me me me me!
+Added user terjeroxto troopList.
+sign me up!
+
+Added user mivaderto troopList.
+Orangered is a stupid color.
+Added user the_masked_redditorto troopList.
+*Cracks knuckles
+
+Let's get goin'
+Lets do this
+Added user kusuriyato troopList.
+Mitemaximus, reporting in. Now posting poorly worded jokes under our glorious...
+Added user Mitemaximusto troopList.
+What if i am the both and the niether?
+
+The Fabled Perired.
+
+The one to find ...
+Added user puplecornto troopList.
+Lets get those orangered scum.
+Added user jaydwag11to troopList.
+Reddit Mail!
+Added user Dmazzone1to troopList.
+    return true;
+Added user felixphewto troopList.
+Sign me up!
+Added user ididntdoityetto troopList.
+Whoop doop
+Added user Red_October42to troopList.
+Let's go. I'm here.
+Added user errorlypseto troopList.
+[deleted]
+Let's go!
+Added user Creyslzto troopList.
+Sign me!
+Added user MadKingRaptorto troopList.
+First fight!
+Added user Kazandakito troopList.
+Sign me up? :v
+Added user ninjabatagainto troopList.
+Neato
+Added user 0c370tto troopList.
+potasium
+Added user Hebrew___Hammerto troopList.
+here
+
+Added user caboose2004to troopList.
+DEATH TO ORANGERED SCUM
+Added user clockwerkmanto troopList.
+i will fight for glory
+Added user KingPeanutManto troopList.
+Sign me up!
+Added user gcm2592to troopList.
+Sign up
+Added user mfupito troopList.
+Let's do it!
+Added user PrinceOWalesto troopList.
+Sign me up Scotty ! 
+Added user PijiXto troopList.
+[deleted]
+LETS GOO
+Added user GodLikesToPartyto troopList.
+corprwhs
+Added user corprwhsto troopList.
+     if  (variable.RegisteredUserList ["cdos93"]=false)
+     {   
+          a...
+Added user cdos93to troopList.
+CMD:\ >INITIALIZE COMMUNICATION CHANNELS
+
+Added user spcwarmachineto troopList.
+michaelsusernamee
+Added user MichaelsUsernameeto troopList.
+Too late to join the fight? I'm down if there is fighting to be done. 
+Added user RubyCodpieceto troopList.
+Herro sign me up
+Added user diamondpenguin22to troopList.
+Sign me up!
+Added user CrashStudiosto troopList.
+Oh nice! S3 here we go!
+Added user towornto troopList.
+sign me up
+Added user HaskeltheExplorerto troopList.
+Hi.
+Added user Ramicusto troopList.
+Can you spare a space for your favorite Red?
+Added user Jock_fortune_sandalsto troopList.
+Well if you are still accepting sign ups then sign me up!
+Added user ProphetOfPainto troopList.
+penis.
+Added user ben456111to troopList.
+I'd like to serve my kingdom!
+Great googily moogily!
+Added user FishInTheTreesto troopList.
+Ready !
+Added user giftiekidto troopList.
+In
+GIMME THEM NOTIFICATIONS
+Added user Freezing_Lettuceto troopList.
+SIGN ME UP
+Added user pablo72076to troopList.
+Fresh meat, ready and willing. 
+Added user CompactDiskoto troopList.
+battle notification system activate user kaiyotic please..... please..... pre...
+Added user kaiyoticto troopList.
+Gib Plz
+Added user Guns57to troopList.
+Get me in this!
+Added user ckauto troopList.
+stillnotdecatron22
+Added user stillnotdecatron22to troopList.
+Sign me up, I guess?
+Added user AlmightyWibbleto troopList.
+o
+Added user PavleKreatorto troopList.
+I have no clue what I'm doing!
+Added user meeeeep7to troopList.
+    ------------------------------------------------------------
+    ===== PE...
+Added user l_rufus_mohavensisto troopList.
+LinearBanana
+Added user LinearBananato troopList.
+newb coming through
+Added user predictablepieto troopList.
+Hi
+Added user KKSlider24to troopList.
+Can I join the party too?
+Added user BracerCraneto troopList.
+Brennan: I know we started out as foe, but after that courageous act you show...
+Added user AKA_Wildcardto troopList.
+I was going to join orangered but the defect command isn't working so sign me...
+Added user Toast2704to troopList.
+Sign up k thanks.
+Added user zakzeddto troopList.
+gib signup pls
+Added user InfamousUnicornto troopList.
+I will fight with you brothers.
+Added user Mike_Fraud_Rossto troopList.
+Ready for battle!
+Added user a_flock_of_goatsto troopList.
+count me in
+Added user occupythekitchento troopList.
+I'm down
+Added user M4gikarpto troopList.
+[deleted]
+Sign me up yo
+Added user PublicFriendemyto troopList.
+[deleted]
+I'm up for it!
+Added user Xtrem3to troopList.
+Ayy lmao
+Added user ITKING86to troopList.
+Yo!
+Poop
+Added user BlueWaffleto troopList.
+Hi
+Added user behamutto troopList.
+\_BindersFullOfWomen\_
+Added user _BindersFullOfWomen_to troopList.
+I'd be willing to help, but I may need some assistance with how to carry out ...
+Added user Pahend99to troopList.
+Sign me up!
+Added user DAYNGER_DAYNto troopList.
+Sign me up
+Added user WillyKernzto troopList.
+i want in....
+Added user thelongestusernameeeto troopList.
+yus
+Added user hotcaulkto troopList.
+Sign me up, baby! 
+Added user fulfilledprophesyto troopList.
+Can I join in on hating people because of their color???
+Added user Philosophantryto troopList.
+AFFIRMATIVE. AS DESIRED, USER PERIWINKLE_PRIME_3 HAS BEEN ENTERED INTO THE CO...
+Added user LeBoringJackto troopList.
+leggo plox
+Added user alchzhto troopList.
+[deleted]
+Ready for battle!
+Added user chronauticalto troopList.
+reporting for duty
+Added user neonroseto troopList.
+Periwinkle_Prime was better, that bot was fresh as all fucking get out
+Added user myductapeto troopList.
+Sign me up!!
+Added user stout-teapotto troopList.
+Sign me up
+Added user The8BitInvaderto troopList.
+[deleted]
+Keep me informed.
+Added user BrineOfEmeraldsto troopList.
+count me in
+
+Added user The_Kestrel_of_Doomto troopList.
+Sign me up for this battle!
+Added user NHZetato troopList.
+It'd be a shame to miss this too.!
+Added user xav0989to troopList.
+Ready for battle! Let them have it!
+Added user Dr_Mottekto troopList.
+I have trained myself for this moment all in...Let's do this. Death to the en...
+Added user Diabetic_Manateeto troopList.
+YEEEEEEEEEEEEEEEEEHAWWWWWWWW SIGN ME UP HOSS!
+Added user SonicWageto troopList.
+Rob, top five musical crimes perpetuated by Stevie Wonder in the ’80s and ’90...
+Added user voxhavocto troopList.
+MoonKnightSpidey
+Added user MoonKnightSpideyto troopList.
+~~`$ python`  
+`>>> from chroma import periwinkle_members`  
+`>>> periwinkle_...
+Added user elaifiknowto troopList.
+AnimalLover162
+Added user AnimalLover162to troopList.
+Sign me up.
+Added user jjr51802to troopList.
+Sign me up!
+Added user Defiant_Tomatoto troopList.
+Sign me up!
+Added user princess_awwto troopList.
+I'm here to volunteer!
+
+Added user Han-Choloto troopList.
+Ready for battle
+Added user onoemreto troopList.
+Sign me up
+Better dead than Orangered!
+Added user Vash108to troopList.
+Reporting for battle!
+Added user Arko4576to troopList.
+Ready for Battle Sir
+
+Added user Overload0to troopList.
+ALRIGHT LETS GO
+Added user FrnFreezeto troopList.
+..
+Added user HighlyFactualTurtleto troopList.
+Zippity Zop, Zippity Zop
+Bring the pain
+Added user odb281to troopList.
+Sign me up!
+Added user 8bitLogikto troopList.
+[deleted]
+Bazinga.
+Added user colorendto troopList.
+I wanna join too
+Added user Huntsman3181to troopList.
+Better late than never. Sign me in
+I'm ready!
+
+Added user eddard_starchto troopList.
+Alert me as appropriate.
+
+Added user irkedoneto troopList.
+Can I be signed up? 
+Added user UltimateDracoMeteorto troopList.
+Sign me up
+Added user adombombto troopList.
+me up sign
+Added user TacoInABagto troopList.
+Sign me up.
+Added user Wolfgang52to troopList.
+Nah
+Added user Kzman1212to troopList.
+Sign me up. Gotta kick me some orange!
+Added user leonsecureto troopList.
+Alert me please!!! 
+Added user Solcloverto troopList.
+Mfupi is here to battle for Periwinkle!
+LEEEEEEEEROYYYY
+Added user wistfulwarheroto troopList.
+I am ready for battle
+Added user king_cottonballto troopList.
+sign me up so we can sqeez the juce out of them and make them into lemonaid
+Added user connor123123123to troopList.
+Why not lel
+
+Added user Alistorivto troopList.
+*chickenscratch handwriting that appears to be the name "AlphaMaelstrom"*
+Added user AlphaMaelstromto troopList.
+I guess I should probably do the thing.
+Added user Eliminioato troopList.
+sign me up
+Added user Casmorto troopList.
+oye!
+Added user fr34kyn01535to troopList.
+I wonder if I'll break it again because I'm an OR...
+Added user ghtuyto troopList.
+Orangered should go down! Sign me up.
+Added user Athemoeto troopList.
+I'm looking forward!
+Added user Eirene_Astraeato troopList.
+*wanders in aimlessly*
+
+ Is this where I sign up to be alerted of upcoming ba...
+Added user Androconusto troopList.
+sign me up!
+Added user NurHikariCahayaLightto troopList.
+Sign me up
+Added user superman23Nto troopList.
+PrincessButternubs
+Added user PrincessButternubsto troopList.
+Let's kick some Orange ass!
+Added user vampedvixento troopList.
+Okay then
+Added user AberrantWhovianto troopList.
+Hail Periwinkle!
+Added user NoobWithNoHatsto troopList.
+I'll join in the battle again. Better Dead than OrangeRed.
+Added user hobbychainto troopList.
+ayye lmao
+Added user Claydadto troopList.
+Sign  me up 
+Added user sodogemanywowsto troopList.
+Honk.
+Added user DamagedEngineto troopList.
+Tatertot10
+Added user Tatertot10to troopList.
+Sign me up
+Added user Technosentinelto troopList.
+TCsnowdream, reporting for either snow or dream based combat!
+Added user TCsnowdreamto troopList.
+[deleted]
+Ready for battle captain.
+Added user dabiontto troopList.
+Cannon Fodder ready to go
+Added user Crusderto troopList.
+Cool, sign me up.
+Added user mutantxc2to troopList.
+add me primebot :D
+Added user NaughtierPenguinto troopList.
+If its not too late, sign me up!
+
+Added user I-anto troopList.
+Count me in
+Added user Grixleto troopList.
+Put me on the list!
+Added user CoolMushroomto troopList.
+Sign me up yo :3
+Added user Shade1797to troopList.
+Sign me up
+
+Added user redbrento troopList.
+I hope I'm not too late. Sign me up, Sir!
+Added user pepperonlyto troopList.
+Where do i start
+
+Added user boom201to troopList.
+Sign me up! *too late*
+Added user eudammeto troopList.
+Reporting as ordered
+
+Added user sabazioto troopList.
+butts
+Sign me up
+Added user Acrylic_Splashto troopList.
+Nnooooo
+Added user Luukliloto troopList.
+Peri my winkle!
+Added user Syphonfireto troopList.
+woo hoo!
+Added user deathlasercannonto troopList.
+Reporting for duty, Sir!
+Added user poe_ravento troopList.
+Let me battle, mr. /u/Periwinkle_Prime_3 sir!
+Added user Nearreaverto troopList.
+Put me in coach!
+Added user AznKwokBoito troopList.
+sign up for alerts please
+Added user mueezthemanto troopList.
+[deleted]
+Fuzzymentalist
+[deleted]
+Get me on that list, Prime.
+Added user Szkieletorto troopList.
+[deleted]
+spacebar
+Added user ninjabat17to troopList.
+Sign me up.
+i'm ready for freddy
+Added user Pieissocoolto troopList.
+shadowblade232
+Added user shadowblade232to troopList.
+I demand the blood of my enemies.
+Sup.
+Add me!
+Added user Zn592to troopList.
+i think i'm in, anyway, better dead than orangered!
+Added user aikodudeto troopList.
+Ahoy!!
+Added user mujerdeindiato troopList.
+sign me up
+Added user Palontheskyto troopList.
+[deleted]
+boop
+Added user SSB4Decoderto troopList.
+[deleted]
+Let's Barack n' roll baby!
+Added user ThatBloodyPinkoto troopList.
+I volunteer as tribute!!
+Added user neatshotsoflifeto troopList.
+Leering
+Added user Leeringto troopList.
+Reporting
+Added user yankees005to troopList.
+Yes, please.
+Added user Priest_of_Arooto troopList.
+Sign me up, please.
+Added user suchsmartveryiqto troopList.
+I'm new!^sign^me^in^pls 
+
+:O
+Added user Ich_Liegento troopList.
+...
+Added user cattata1056to troopList.
+I'm in, let's do this.
+Added user EinsamWulfto troopList.
+Sign me up
+Yes Sir!
+Added user SkyFall96to troopList.
+Sign me right the fuck up
+Added user AtoFtwto troopList.
+Sign me up!
+Added user KairuVto troopList.
+Sign me up!
+Added user BoorishAmoeba11to troopList.
+Wtf, when did this start again? I need to report for duty
+Added user KaoticGizmoto troopList.
+k
+Added user cameroncacto troopList.
+New recruit!
+Added user ReRedactedto troopList.
+C2ke
+Added user C2keto troopList.
+Sign me up baby
+
+Added user grejinjato troopList.
+/u/cynical 
+
+ captain  Cote d'Azur (which looks like front lines to me unless...
+Added user cynycalto troopList.
+Hello fellow periwinkles!
+<secure_communication>
+
+Designated Recipient: u/Periwinkle_Prime_3
+
+Encrypted...
+Added user jex314to troopList.
+Dan K'memes
+Added user Kipper_the_snobto troopList.
+If you reply in the format of "AFFIRMATIVE. AS DESIRED, USER _____ HAS BEEN E...
+Added user Sylph_of_Mindto troopList.
+yoo hoo
+Added user Blue-ray656to troopList.
+ayy lmao
+Added user Beeeefyto troopList.
+Sign me up, botty.
+Added user Ves37to troopList.
+sign me up yo!
+Added user kevinkat2to troopList.
+I may be late, but Periwinkle through and through.
+
+We ride together, we die ...
+Added user amazingmaximoto troopList.
+**༼ つ ◕_◕ ༽つ PRAISE PRIME ༼ つ ◕_◕ ༽つ**
+Sign me up! 
+Added user mrkrabz1991to troopList.
+[deleted]
+Reporting for duty!
+Added user rykkito troopList.
+let the games begin 
+Added user reddit_on_iceto troopList.
+Glory to Periwinkle! Sign me up!
+Added user TheDeadDrummerto troopList.
+Here we go!
+Added user TunaLobsterto troopList.
+I'm in.
+Added user TheTitanTosserto troopList.
+Ready!
+Added user ImmortalAce8492to troopList.
+Let's do this!
+Added user MuseHighamto troopList.
+I accept myself into your ranks. 
+Added user LadyGaladriel123to troopList.
+Death to Orangered!
+Added user nazicumfartsto troopList.
+Hullo
+
+Added user pandakatieto troopList.
+Periwinkle HOOOOO!
+Added user LicensedProfessionalto troopList.
+Sign me up for the fight captain!
+Added user DNZeto troopList.
+Sign me up
+Added user ChatnNakedto troopList.
+I'm in, sign me up
+Added user Skulgar321to troopList.
+ready
+Added user fictionfanto troopList.
+The 3mpress0fHell, signing up.
+Added user 3mpress0fHellto troopList.
+Down with the orange~~soda~~red
+Added user thepopcornwizardto troopList.
+My body is ready.
+Is it too late to sign up?
+Added user rajkgambhirto troopList.
+awesome!
+Added user ribbondinoto troopList.
+[deleted]
+We are Periwinkle!
+
+We rest on the legacy of Sparta! 
+
+We are as mighty as th...
+Added user Shezzamto troopList.
+SIGN ME UP
+Added user sushiyummy32to troopList.
+For honor and glory!
+
+Added user lost_in_lightto troopList.
+Gimme the PM's!
+Added user towergameto troopList.
+Yes please.
+Added user elphabaisfaeto troopList.
+Signing up!
+Added user thebestbananabreadto troopList.
+Sign meeeeee
+Added user Renznz00to troopList.
+Yes please.
+Added user Semidoto troopList.
+Sign me up!! Got to wink(le) 'em all!!
+Added user soundstageto troopList.
+Let's roll
+Added user reganomics08to troopList.
+SIGN UP
+Added user Linkoiramto troopList.
+Join
+Added user pecaustto troopList.
+Standing by.
+Added user IpMediato troopList.
+Sign up
+Added user kylesplashto troopList.
+Sign up please!
+Added user XvX_Joe_XvXto troopList.
+Better dead than orangered!
+Added user PGrimseto troopList.
+I'm ready
+Added user PicklesofTruthto troopList.
+Sign me up!
+Added user Kal_El_From_Kryptonto troopList.
+FOR VICTORY! I'm in.
+Added user FiftySpence25to troopList.
+Lemme at em!
+Added user Aleheezto troopList.
+I'm in.
+Added user bsbllr49to troopList.
+I'm in
+Added user zeusoidto troopList.
+Capt Oscinian here, reporting for duty!
+Added user Oscinianto troopList.
+Sign me up!
+Added user _ThatGuy_1to troopList.
+:D
+Added user FleurDeMurto troopList.
+sushiyummy32
+BETTER DEAD THAN ORANGERED!
+Added user DuckWithATieto troopList.
+im joining periwinkle master race
+Added user Rocket-Botto troopList.
+All hail Periwinkle
+Added user Etrius1228to troopList.
+Ready for fight!
+Added user Taquito51to troopList.
+cocked, locked and ready roll.
+Added user varanoneto troopList.
+zekrom3112
+Added user zekrom3112to troopList.
+Hell yeah put me down for some action!
+Added user landogocus123to troopList.
+So I can put anything here and other redditors can read it?
+Added user PianoVampireto troopList.
+Bring it on! True Periwinkler reporting for duty! 
+Added user ColeTheoto troopList.
+hi
+Added user DaEpicLeprechaunto troopList.
+Sign me up
+Added user numerol08to troopList.
+Lets do it.
+Added user Tremulant887to troopList.
+.
+Beter dead than Orangered!
+Added user Astartes_of_Derpto troopList.
+Sign me up
+Added user Bryanlop69to troopList.
+better dead than orange-red
+Added user periwinklepatriotto troopList.
+Raiders roll.
+Added user jackthereaperto troopList.
+I am willing to give my account to the cause! Sign me up!
+Added user verifiednameto troopList.
+Lets do this!
+Added user popmannnto troopList.
+Reporting for duty Sir!
+Added user Qazzianto troopList.
+:D
+Added user mcecyto troopList.
+heyo
+Added user darkblue1919to troopList.
+teeeeen hut
+Added user YaDunGoofyto troopList.
+Sir Yes Sir! Jekisterm ready for war sir!
+Added user Jekistermto troopList.
+Reporting for duty
+Added user Leipreachanto troopList.
+[deleted]
+sign me up!
+Added user thetechwookieto troopList.
+Let's do this.
+
+Added user coupfatalto troopList.
+Sign Me Up!!
+Added user MasterCyanistto troopList.
+Stop_Wastin_Time here, ready to waste all of the time I have. 
+Added user Stop_Wastin_Timeto troopList.
+Sign me up!
+Added user Rasengan2xChidorito troopList.
+[deleted]
+Hail Periwinkle!
+Added user NlightNFotisto troopList.
+Sign me up!
+Added user capitLjuanto troopList.
+Sign me up!
+Added user Violetpetals86to troopList.
+My body is ready!!!
+Added user SgtCheesepuffsto troopList.
+yes please
+
+Added user mostafa_hanafito troopList.
+[deleted]
+mostafa_hanafi
+Raichu reporting for battle.
+Added user Adam24to troopList.
+reporting for battle.
+Added user Glorditto troopList.
+I'd like to sign up :)
+Added user alypalyolato troopList.
+I have little to no idea whats going on...
+Added user GlitchyNinjato troopList.
+Me me pick me!! <3
+Added user Madame_Unicornto troopList.
+hail hydra i mean periwinkle
+Added user wackzto troopList.
+[deleted]
+breh lets get it
+Added user TheGoodBlazeto troopList.
+reporting for duty!
+Added user smackyzushito troopList.
+BonsaiKaya
+Added user BonsaiKayato troopList.
+[deleted]
+Sign me up please
+Added user Mewtooramto troopList.
+SamS834! LOUD NOISES!
+Added user SamS834to troopList.
+Better Wiped than Striped!
+Added user Hexatonato troopList.
+EVERYONE GET IN HERE
+Added user GOfreezto troopList.
+...
+Added user ioanDto troopList.
+uid:> tgage
+Added user Tgageto troopList.
+My body is willing
+Added user HenGuyto troopList.
+let's do ittttt
+Added user splicepointto troopList.
+Let the games begin!
+Added user OddDirectiveto troopList.
+Captain, here I am!
+
+Added user typicalfinicalto troopList.
+This is a generic comment. 
+Added user Mango_Bruhto troopList.
+I would like to sign up!
+Added user iconicOdysseyto troopList.
+whoop
+
+Added user 1NSTINCTto troopList.
+Load Me up!
+Added user Wild_windyto troopList.
+Let me fight until the end!!!!
+Added user TheBlackMustacheto troopList.
+what's up
+Added user cellnsvto troopList.
+I guess you can sign me up....
+Added user WolfFarwalkerto troopList.
+:)
+Added user wastingyouremotionto troopList.
+ArtificialSanity reporting for duty.
+Added user ArtificialSanityto troopList.
+[deleted]
+sign me up!
+Added user telekineticmto troopList.
+[deleted]
+Still have no idea what this is, and at this point...
+Added user ajpennyworthto troopList.
+Fluffy39039
+I'm here for the glory of Periwinkle!!
+Added user alejpazto troopList.
+[deleted]
+Poke
+Added user BushmanBento troopList.
+Sign me up. I saw the ad, was curious and I like the color periwinkle.
+Added user KansasBurrito troopList.
+Yes, please!
+Added user mistAreadsto troopList.
+Hi hi sign me up 
+Added user KingKakazooieto troopList.
+Yay! Just joined up, sign me up for this. 
+Added user williamdeento troopList.
+I'm all periwinkle sign me up!
+Added user imthertyto troopList.
+[deleted]
+Better dead than orangered!
+Added user lothlorien5454to troopList.
+[deleted]
+as long as those oranges go down
+Added user supasteve013to troopList.
+xxReptilexx5724
+Added user xxReptilexx5724to troopList.
+Get rekt 
+Added user kaptainkt11to troopList.
+Reporting for duty!
+Added user Jaedysto troopList.
+lets fuckin go!
+Added user Akrinuto troopList.
+yes fam
+Added user real_shrekto troopList.
+Lets do this!
+Added user PaulProvto troopList.
+Let me now where I should march !
+Added user PadawanJuristeto troopList.
+Er, new to this, not sure how it works... sign me up, I guess?
+Added user monster_pancakesto troopList.
+Er, new to this, not sure how it works... sign me up, I guess?
+Hi
+Added user Darthbindyto troopList.
+[deleted]
+I'm game!
+Added user CaptainRandusto troopList.
+[deleted]
+sign me up
+
+Added user kvs109to troopList.
+Woot woot
+Added user 1armsteveto troopList.
+Yeah!
+Added user 746865626c617ato troopList.
+WHOOHOOOO! Kill dem orangereds good!
+Added user LadyGrizabellato troopList.
+Put me in coach
+Added user Jhilla2to troopList.
+READY CAPTAIN
+Added user WeirdPineappleto troopList.
+Sign me up
+
+Sign me up!
+Added user rj20876to troopList.
+[deleted]
+I'll join in.
+Added user ProbablyHereticalto troopList.
+I'm IN!!!!
+Added user marsmediato troopList.
+I wanted to be on Gryfindor :(
+Added user Crash6474to troopList.
+SCP 678 please, marvin.
+
+Added user Jish00742to troopList.
+So I just type sumn?
+Added user theycallmedumdumto troopList.
+meep
+Added user monkeyonafishto troopList.
+Count me in!
+Added user Greater419to troopList.
+Sign me up man. Im ready for war
+Added user 1fastman1to troopList.
+gg
+Added user ReportMooseto troopList.
+[deleted]
+swag
+Added user Deroleto troopList.
+Sign me up!
+Added user agentm14004to troopList.
+Hello
+Added user Chairman_Yengto troopList.
+Alert.
+Added user LapppTopppto troopList.
+[deleted]
+[deleted]
+I accidentally deleted mine.
+Added user JackieKTto troopList.
+yeeeeaah
+
+Added user Fuegopantsto troopList.
+Sign me up
+Added user ghstmoneyto troopList.
+Is it too late to sign up?
+
+Added user Socrateezzto troopList.
+Sign me!!
+Added user Spabol1to troopList.
+Sign me!!
+Sign me up
+Added user Kviesgaardto troopList.
+Sign me up! :)
+Added user amiibrato troopList.
+epique
+Added user epiqueto troopList.
+paddywagon123
+Added user Paddywagon123to troopList.
+Yeap !
+Added user Bhdrbyrto troopList.
+[deleted]
+He'll y3ah!
+Added user MainExport-NotFucksto troopList.
+I AM READY BROTHERS
+Added user CapaChristto troopList.
+For honour.
+Added user cujo8400to troopList.
+Sweet I'm Down!!
+Added user apacheco90to troopList.
+o
+Added user supremeshieldonto troopList.
+Sing me up!
+Added user Harry_Pottheadto troopList.
+sign me up baby ;)))
+Added user TutsCaketo troopList.
+Sign me up, I guess.
+Added user Unwantableto troopList.
+/u/DreadedBread reporting for duty!
+Added user DreadedBreadto troopList.
+sign me up! :)
+Added user feralspiritto troopList.
+Did I miss it? Sign me up
+Added user Mrshinyturtle2to troopList.
+eyyyy bb sign me up
+Added user RockoBOOMto troopList.
+sign me up
+Added user SimeonBDixonto troopList.
+Let's Go!
+Added user TL_Aintreeto troopList.
+For the Greater Good Of the High Lords Periwinkle
+Added user magefyreto troopList.
+Reporting for duty!
+Added user InsaneBurrtioto troopList.
+SIGN ME UP!
+Added user GreatEmperorAcato troopList.
+sign me up pls!
+Added user sugarfish7to troopList.
+Alright, reporting for duty.
+Added user Neocrasherto troopList.
+I'm ready
+Added user 6spooky9youto troopList.
+Peer pressure
+Added user surg3onto troopList.
+Sign me up!
+Added user oshapufflrto troopList.
+let me in let me in!
+Added user hotvodkato troopList.
+Sign me up!
+
+Added user t1m1dto troopList.
+i'm in!
+Added user velociraptorcatcherto troopList.
+give me a pm!
+heebhob
+Added user plafiffto troopList.
+sign me up let's do this
+Added user Sisselkittyto troopList.
+Sign me up! *battle cry*
+Added user Fishums1to troopList.
+Sure why not
+Added user El_espectroto troopList.
+I need to know what is happening bot!
+Added user evilrobotluketo troopList.
+Sign me up :)
+Added user LordTacoSupremeto troopList.
+I'm doing my part!
+Added user Zyloooxto troopList.
+Sign me up
+Added user 2OP4meto troopList.
+Valhalla here I come.
+Added user wafflegoatto troopList.
+For Karma! Sign me up!
+Added user Polite_Insultsto troopList.
+I'm in
+Added user Snoogines84to troopList.
+Better dead than orangered!
+Added user kuviento troopList.
+kelemonopy reporting
+Added user kelemonopyto troopList.
+I pledge my undying support to the cause
+Added user tootNAto troopList.
+Sign me up 
+Added user Arkyanceto troopList.
+Sign me up! Im in this Battle!
+Added user Daniel_Drachenbergto troopList.
+[deleted]
+Sign me up
+Added user phrresehelpto troopList.
+Please sign me up!
+
+Added user milifilouto troopList.
+Sign me up!
+Added user ns90to troopList.
+Let's do this!
+Added user TechAddictto troopList.
+Sign me up, Sir
+Added user Jon-Wolfto troopList.
+We must crush the orangered tyranny! It may or may not have taken me more the...
+Added user Landingmonkeysto troopList.
+Let's go for it!
+Added user postmodernpizazzto troopList.
+Sign me up!
+Added user gaspitsjesseto troopList.
+Sign me up
+
+Added user natebobto troopList.
+sing me up
+
+I'd like to enlist, thanks.
+Added user DistantKarmato troopList.
+im ready for battle
+Added user adiorubento troopList.
+Misterme7
+Added user Misterme7to troopList.
+Sign me up SIR!
+Added user Gustybladeto troopList.
+User Eindracon12 reporting for sign up!
+Added user Eindracon12to troopList.
+Captain Eriru Reporting.
+
+Added user eriruto troopList.
+:D
+Added user l2ightyto troopList.
+throw me in coach
+sign me mmmk
+Added user Iamabasedmlgto troopList.
+...sign me up?
+Added user ScoutBonk444to troopList.
+Sure I'll join...
+Added user TheJhenMohranto troopList.
+Am I too late to sign up?
+Added user WasThatYourLlamato troopList.
+Alright chaps, let's give those ambiguously shaded devils something to think ...
+Added user Blaybleeto troopList.
+Orange is bad
+Added user Bellzibubto troopList.
+Sign me up!
+Added user AmbitiousHoboto troopList.
+Sign me up!
+
+Added user KenkaTinkerto troopList.
+sign me up please!
+Added user BoomBangKersplatto troopList.
+sign me up
+Added user Paradox-Studiosto troopList.
+Sign me up as well.
+Added user TheInternetHivemindto troopList.
+SIGN ME UP
+Added user Duplexetyto troopList.
+my periwinkle sword is yours
+Added user idratherbeinvailto troopList.
+Time to commit murder
+Added user ExerionTheDrakkieto troopList.
+Let's go!
+Added user SonicfanCto troopList.
+Sign me up 
+Added user noprayersto troopList.
+J0V1K
+Added user J0V1Kto troopList.
+Sign me up
+Added user Dingleberrehto troopList.
+sign me up
+
+Added user Pyro_mancerto troopList.
+@_@
+Added user WillCYTto troopList.
+...
+Added user _et_tu_brute_to troopList.
+woot! We shall kill!
+Added user Crafterkid123to troopList.
+Sign me up!
+Ready for battle, sir!
+Added user troyandabedinthem0rnto troopList.
+woo
+Added user sabre333to troopList.
+CRUSH THE ORANGRED SCUM! REGESTER ME, BOT!
+
+Added user thadanknugto troopList.
+Sign me u^u^^u^^^u^^^^p ^^^^motherfucker
+Added user zhabantiato troopList.
+I'm in
+
+Added user xmar48to troopList.
+SIGN ME UP
+
+Added user AssassinsCreedLoverto troopList.
+Sign me up!
+Enlist me for the legendary combat that is the grande war.
+Added user GoldenFredboyto troopList.
+Just saw the Reddit ad. This is still a thing?
+
+This site never disappoints.
+Added user 42Cosmonautto troopList.
+pls
+Added user robbie0630to troopList.
+Sign me up
+Added user blueshift101to troopList.
+PERIWINKLE TO VICTORY!!!
+Added user _INPUTNAME_to troopList.
+Ayy sign me up, I think I might be late to the party.
+Added user Myspeldto troopList.
+Sign me
+Added user extreme999to troopList.
+Ready to roll
+Added user Horforiato troopList.
+aaand pm me
+Au rapport!
+Added user Grimtorkto troopList.
+count me in!
+Added user quindato troopList.
+Reporting for duty
+Added user Ryoxxysto troopList.
+I'm ready
+Added user Leumasperronto troopList.
+.
+Added user Realdoc3to troopList.
+In in. 
+Reporting for duty sir
+Added user black1rishto troopList.
+Captain QuantumGautics Ready for action
+Added user QuantumGauticsto troopList.
+hello
+Added user ultimatejeremyto troopList.
+Yes please
+
+Added user lekkergezelligto troopList.
+I'm ready to fight!
+dipt743
+Added user dipt743to troopList.
+Captain S. Marty Pants reporting for duty
+Added user RichardDawkingsto troopList.
+[deleted]
+IM IN!!!
+Added user garrow10to troopList.
+Ready to serve.
+
+Added user kirariato troopList.
+Sing me up! For glory!
+Added user Randomguy_2to troopList.
+Better dead than Orangered!
+Added user backman407to troopList.
+beckyphebe
+Added user beckyphebeto troopList.
+Ready and willing =)
+Added user Midipopoto troopList.
+Beep boop
+Added user Ascernedto troopList.
+[deleted]
+Count me in!
+Added user DrYoshiyahuto troopList.
+:)
+Added user Derptasticsto troopList.
+NotPatrickStar
+Added user NotPatrickStarto troopList.
+doot doot
+Added user pannuxto troopList.
+My sword is ready and I stand prepared to destroy the enemy 
+Added user Booker_and_a_coyoteto troopList.
+Woop!
+Added user Akhawaisto troopList.
+NinjaNacho99 is here, and sign me up!
+Added user NinjaNacho99to troopList.
+Yay
+Added user Fire_and_Bloodto troopList.
+Hit me up sex people
+Added user Qerbsideto troopList.
+bring me in coach
+Added user masteroffuto troopList.
+Unidanx
+Added user fordandfriendsto troopList.
+hmmmm
+Added user happilyemployedto troopList.
+sign me up
+Added user pintsto troopList.
+SIGN ME UP! PERIWINKLE FOR LIFE!
+Added user bobsbrainto troopList.
+I would like to sign up, as well as know why it says alert you twice in a row. 
+Added user Celidardento troopList.
+Reads for dem dank battle PMs doe.
+
+Sign me uuuup?~
+Added user Liamfaceto troopList.
+[deleted]
+sign me up
+To victory! 
+Added user ThinkingAboutStagto troopList.
+Hi
+SIGN ME UP!!!!!!
+
+Added user frojoeto troopList.
+NotPatrickStar
+I was team Periwinkle last time but with ALL DUE RESPECT fuck those guys, I'v...
+Added user cavalierauto troopList.
+Sign me up
+Added user knightshade17to troopList.
+Maffers
+
+Added user Maffersto troopList.
+Sign me up!
+Added user OISssto troopList.
+gradientByte
+Added user gradientByteto troopList.
+I'm in!
+
+Added user REDVocxionto troopList.
+Trixsam :)
+Added user Trixsamto troopList.
+Sign me up!
+Added user tehkyyto troopList.
+Mc_chiver
+Added user mc_chiverto troopList.
+Burrito42
+Added user burrito42to troopList.
+Count me in
+Added user TheMadhopperto troopList.
+I will fight.
+Added user Walter_Malone_Carrotto troopList.
+Good day. I AM READY. PERIWINKLE SHALL RISE.
+Added user Zeusking19to troopList.
+Sign me up
+Added user cullanorto troopList.
+I am ready to fight on the Periwinkle side yet again this year!
+
+Added user omnithropeto troopList.
+Sign me up
+Added user Fluffy8xto troopList.
+ok
+Added user basicxenocideto troopList.
+Reporting for duty
+Added user Coheed84to troopList.
+woo! 
+Added user Zenith042to troopList.
+Hola
+Added user Uytobto troopList.
+Here
+Added user DB53to troopList.
+I'm here to put down some orangereds. Just say the word.
+Added user Varnishedchrometo troopList.
+USER /U/LEGITXHELIOS, REPORTING FOR TEAM PERIWINKLE.
+Added user legitxheliosto troopList.
+TheDuffmaster ready, willing and able
+Added user TheDuffmasterto troopList.
+put me in coach, i'm ready to fight, today
+Added user x7ramjetto troopList.
+give me the updates
+[deleted]
+Put me in coach!
+Added user B--rito troopList.
+/u/The_Average_Hero HERE, REPORTING FOR DUTY SIR!
+Added user The_Average_Heroto troopList.
+bobsbrain, sign me up
+YES OK PLEASE :BOSSYCARL:
+Added user bossycarlto troopList.
+Sign me up!
+Added user DelverOfSqueakwetsto troopList.
+What the heck.  Hit me.
+Added user caluckto troopList.
+Captain GiantDwarf01 reporting for duty!
+Added user GiantDwarf01to troopList.
+Let's doooo it
+Added user dmanisclutchto troopList.
+Yes, sign this badboy up.
+Added user ILLBASHURMUMto troopList.
+[deleted]
+let's do this
+Added user ProfessorG42to troopList.
+Can I join?
+Added user OfficialScottRto troopList.
+huh
+Added user how-the-dead-liveto troopList.
+Berniie, ready for action!
+Added user Berniieto troopList.
+I'm in !
+Added user Quantiemeto troopList.
+I'M READY!
+Added user Lithiarchto troopList.
+sign me up!
+SgtBossSauce, ready for action! o7
+Added user SgtBossSauceto troopList.
+Give me Liberty or.......whatever I'm in.
+Added user Klamtersto troopList.
+Sign me up 
+Added user Retropixlto troopList.
+I'm in!
+Added user diphenhydrapeento troopList.
+oh yes
+: ) plz enter me
+
+Added user Alexanderdennyto troopList.
+BETTER DEAD THAN ORANGERED 
+Added user lurk_master9000to troopList.
+Periwinkles will ALWAYS fight for liberty
+Added user Vlaxxtociato troopList.
+sosumi reporting for duty.
+Added user sosumito troopList.
+Sign me up, yo!
+Added user EggCouncilCreeperto troopList.
+Sign me up!
+Added user SeismicWhiteto troopList.
+Sign me up
+Added user SnifflingDarKto troopList.
+I dont know whats going on but theres never been a war I would fight for the ...
+Added user CRedito troopList.
+Reporting for duty!
+Added user JeCsGirlto troopList.
+Sign me up. 
+Added user shitishouldntsayto troopList.
+Reporting for Duty!
+Added user JohannFaustto troopList.
+Aye aye cappin!
+Added user fekheadto troopList.
+Your Name
+Added user ilikepie6116to troopList.
+Me pls daddy.
+Added user DogeTheShibeto troopList.
+Shit yeah!
+
+Added user Godcantflyto troopList.
+Let's go!
+Added user aelfaerieto troopList.
+>:)
+Added user Christiaryto troopList.
+I'm in
+
+Added user manbrokento troopList.
+For glory
+Added user Blekanlyto troopList.
+Hmu son
+Added user ADAMISTHEMETAto troopList.
+\>:)
+Added user iNeverbreakto troopList.
+Onward!
+Added user Killerkendollsto troopList.
+Here we go!
+Added user TrevReyesto troopList.
+What is this subreddit? can someone explain
+
+Added user 420bonghits024to troopList.
+Those orangered sheep shall know the sting of my claws and the bite of my jaws!
+Added user handsome_vulpineto troopList.
+Do you even lift?
+Added user Arrem_to troopList.
+:)
+Added user ceruleanknightto troopList.
+o/
+Added user Ulthanonto troopList.
+Ok
+ok, me.
+Added user shakakozto troopList.
+Retrieved Majors
+['Phyki', 'drpestilence', 'notaverysmartdog', 'ChiefKickingAss', 'MaxTheHedgehog', 'TheSheepdog', 'None', 'beefstick86', 'toastghost77', 'I_am_sorrow', 'hapticdash', 'chriscoded', 'nataliaspeaks', 'Its_no_use', 'kism3', 'aventedor', 'Your_redhead_fantasy', 'ale_mayo_', 'minibabybuu', 'raptorbark', 'Soramke', 'Gudic', 'anelephantsatonpaul', 'arky527', 'Necrotos', 'OrbitalFacePalm9001', 'BrandonFlandon', 'poopsmith1976', 'Captain_Krumen', 'uglinessman', 'DanoLostTheGame', 'SirMonocleMaster', 'Andrewski2000', 'Porkthepie', 'Cookie_Bagles', 'JoeliVidiri', 'CoffeeMetalandBone', 'TheAllStarrBand', 'maxthethrax', 'Subspace_Lani', 'liavt', 'fcdjr', 'salel', 'bluejv', 'Remnance627', 'newhoza', 'AnOriginailName', 'vindictivebeluga', 'TheEaterOfFood', 'pigenharbolde', 'LeglessParrot', 'Shats299', 'Boredom_rage', 'LadySunset', 'netizenbane', 'Texassippian', 'regular_author', 'Mop6229', 'orionpsg1', 'dorzac', 'JayRizzo03', 'XiiCubed', 'LardDude', 'redis213', 'Zackman558', 'Potato_Gunman3', 'xombieCHRIST', 'RedDire', 'PanzerFauzt', 'quixoticquail', 'Zombiiies', 'masman99', 'OneSidedPolygon', 'Teh_Bukkit', 'GuyWithPasta', 'Cirota', 'TheDoubleY', 'XGX787', 'ConcedeDota', 'Powse', 'HamandPotatoes', 'suspendedfromthemoon', 'theninjat', 'Outraged_Piggy', 'Vulcan_domino', 'DBCrumpets', 'jbetx', 'DenebVegaAltair', 'kanapka123', 'LeNewArc', 'redhedge47', 'Alatar_the_Blue', 'zeeman928', 'TomGfromCanada', 'a59a', 'xX4rcherXx', 'OnlyCoops', 'double_whiskey', 'EXTSZombiemaster', 'Dsvkb', 'dannyolo', 'AlphaTitanium', 'buffetboy88', 'RockHard_Jesus', 'TheOriginalOnii-Chan', 'IlIIlIIlIIlIllIlIIlI', 'HumbleStache', 'superdude14862', 'SakuraM1011', 'pooticus', 'TheRoseOfSolidarity', 'Faroreswind127', '-Flex-', 'Actual_EagleZ504', 'williamsonmaxwell', 'Ithinkiplaygames', 'Alphanerd2', 'Sgt_Fry', 'punkpixz', 'Sugoy', 'Keundrum', 'Lucario117', 'tanya_tacoxo', 'carj04', 'DarthCunnilingus9', 'tkcomune123', 'oh_livre', 'BobSagetOoosh', 'axslayer33', 'Oh-u-so-random', 'buntingsnook', 'ApocalypticScholar21', 'Trenchant_Chemist', 'TheZippy49', 'Mandymandyman', 'Talacky', 'So_many_mails', 'Vrango', 'Kenooi', 'Makispi', 'VenomC', 'SpoonerSpork', 'Schrammwow', 'fossett_work', 'Tigerfluff23', 'jen_wexxx', 'Deca03', 'sismit', 'KaufenEinHuhn', 'Shamrock013', 'Hanglwe', 'Spamman4587', 'mustangwolf1997', 'ATtheorytime', 'YellowbeltJr', 'JEEntertainment89', 'destro71', 'jsmoothz', 'Fuzzymentalist', 'winter_pony4', 'andyhpue', 'davorklju', 'Blurreidisc', 'ProgrammerinDistress', 'SpunZz', 'tomservo88', 'tomllm', 'StevenMulraney', 'T_MASTER', 'Esoteric_Monk', 'MissRayRay', 'Cubemaniac1231', 'RobertB91', 'NONVIOLENT_CHICKEN', 'kep700', 'ctrlshftn', 'ompor', 'DumbledoreMD', 'Dick_Magnet', 'Alpha_Arrowz', 'SilverWarrior9', 'SPltFYre', 'Lutheus13', 'bestrockfan12', 'Lolzrfunni', 'TheEdgeOfTheInternet', 'NotWolfBlitzer', 'tenfolde', 'Crabjock', 'Devil_May_Ki', 'BadB0ii', '-dudeomfgstfux-', 'vwaexperiance', 'gman4ever', 'soupnrc', 'ryswag123', 'Elvung', 'RockdaleRooster', 'Dumbgecko', 'Nynm', 'MortaLPortaL', 'JeffTheAlmighty', 'Cadleton', 'chuckles62', 'Silentkillar', 'enchantmentman2', 'JJJHeimer_Schmidt', 'Mega_Nerd', 'Cubicpercy', 'le_trout', 'SirPinkata', 'Elayn', 'msnaughtykitty', 'weeeeems', 'ZeroAbomination', 'mali81', 'LeLennyFaces', 'Cometbringer', 'wafflebatman', 'feistylilkitten', '2c3d4e', 'terjerox', 'mivader', 'the_masked_redditor', 'kusuriya', 'Mitemaximus', 'puplecorn', 'jaydwag11', 'Dmazzone1', 'felixphew', 'ididntdoityet', 'Red_October42', 'errorlypse', 'Creyslz', 'MadKingRaptor', 'Kazandaki', 'ninjabatagain', '0c370t', 'Hebrew___Hammer', 'caboose2004', 'clockwerkman', 'KingPeanutMan', 'gcm2592', 'mfupi', 'PrinceOWales', 'PijiX', 'GodLikesToParty', 'corprwhs', 'cdos93', 'spcwarmachine', 'MichaelsUsernamee', 'RubyCodpiece', 'diamondpenguin22', 'CrashStudios', 'toworn', 'HaskeltheExplorer', 'Ramicus', 'Jock_fortune_sandals', 'ProphetOfPain', 'ben456111', 'FishInTheTrees', 'giftiekid', 'Freezing_Lettuce', 'pablo72076', 'CompactDisko', 'kaiyotic', 'Guns57', 'ckau', 'stillnotdecatron22', 'AlmightyWibble', 'PavleKreator', 'meeeeep7', 'l_rufus_mohavensis', 'LinearBanana', 'predictablepie', 'KKSlider24', 'BracerCrane', 'AKA_Wildcard', 'Toast2704', 'zakzedd', 'InfamousUnicorn', 'Mike_Fraud_Ross', 'a_flock_of_goats', 'occupythekitchen', 'M4gikarp', 'PublicFriendemy', 'Xtrem3', 'ITKING86', 'BlueWaffle', 'behamut', '_BindersFullOfWomen_', 'Pahend99', 'DAYNGER_DAYN', 'WillyKernz', 'thelongestusernameee', 'hotcaulk', 'fulfilledprophesy', 'Philosophantry', 'LeBoringJack', 'alchzh', 'chronautical', 'neonrose', 'myductape', 'stout-teapot', 'The8BitInvader', 'BrineOfEmeralds', 'The_Kestrel_of_Doom', 'NHZeta', 'xav0989', 'Dr_Mottek', 'Diabetic_Manatee', 'SonicWage', 'voxhavoc', 'MoonKnightSpidey', 'elaifiknow', 'AnimalLover162', 'jjr51802', 'Defiant_Tomato', 'princess_aww', 'Han-Cholo', 'onoemre', 'Vash108', 'Arko4576', 'Overload0', 'FrnFreeze', 'HighlyFactualTurtle', 'odb281', '8bitLogik', 'colorend', 'Huntsman3181', 'eddard_starch', 'irkedone', 'UltimateDracoMeteor', 'adombomb', 'TacoInABag', 'Wolfgang52', 'Kzman1212', 'leonsecure', 'Solclover', 'wistfulwarhero', 'king_cottonball', 'connor123123123', 'Alistoriv', 'AlphaMaelstrom', 'Eliminioa', 'Casmor', 'fr34kyn01535', 'ghtuy', 'Athemoe', 'Eirene_Astraea', 'Androconus', 'NurHikariCahayaLight', 'superman23N', 'PrincessButternubs', 'vampedvixen', 'AberrantWhovian', 'NoobWithNoHats', 'hobbychain', 'Claydad', 'sodogemanywows', 'DamagedEngine', 'Tatertot10', 'Technosentinel', 'TCsnowdream', 'dabiont', 'Crusder', 'mutantxc2', 'NaughtierPenguin', 'I-an', 'Grixle', 'CoolMushroom', 'Shade1797', 'redbren', 'pepperonly', 'boom201', 'eudamme', 'sabazio', 'Acrylic_Splash', 'Luuklilo', 'Syphonfire', 'deathlasercannon', 'poe_raven', 'Nearreaver', 'AznKwokBoi', 'mueeztheman', 'Szkieletor', 'ninjabat17', 'Pieissocool', 'shadowblade232', 'Zn592', 'aikodude', 'mujerdeindia', 'Palonthesky', 'SSB4Decoder', 'ThatBloodyPinko', 'neatshotsoflife', 'Leering', 'yankees005', 'Priest_of_Aroo', 'suchsmartveryiq', 'Ich_Liegen', 'cattata1056', 'EinsamWulf', 'SkyFall96', 'AtoFtw', 'KairuV', 'BoorishAmoeba11', 'KaoticGizmo', 'cameroncac', 'ReRedacted', 'C2ke', 'grejinja', 'cynycal', 'jex314', 'Kipper_the_snob', 'Sylph_of_Mind', 'Blue-ray656', 'Beeeefy', 'Ves37', 'kevinkat2', 'amazingmaximo', 'mrkrabz1991', 'rykki', 'reddit_on_ice', 'TheDeadDrummer', 'TunaLobster', 'TheTitanTosser', 'ImmortalAce8492', 'MuseHigham', 'LadyGaladriel123', 'nazicumfarts', 'pandakatie', 'LicensedProfessional', 'DNZe', 'ChatnNaked', 'Skulgar321', 'fictionfan', '3mpress0fHell', 'thepopcornwizard', 'rajkgambhir', 'ribbondino', 'Shezzam', 'sushiyummy32', 'lost_in_light', 'towergame', 'elphabaisfae', 'thebestbananabread', 'Renznz00', 'Semido', 'soundstage', 'reganomics08', 'Linkoiram', 'pecaust', 'IpMedia', 'kylesplash', 'XvX_Joe_XvX', 'PGrimse', 'PicklesofTruth', 'Kal_El_From_Krypton', 'FiftySpence25', 'Aleheez', 'bsbllr49', 'zeusoid', 'Oscinian', '_ThatGuy_1', 'FleurDeMur', 'DuckWithATie', 'Rocket-Bot', 'Etrius1228', 'Taquito51', 'varanone', 'zekrom3112', 'landogocus123', 'PianoVampire', 'ColeTheo', 'DaEpicLeprechaun', 'numerol08', 'Tremulant887', 'Astartes_of_Derp', 'Bryanlop69', 'periwinklepatriot', 'jackthereaper', 'verifiedname', 'popmannn', 'Qazzian', 'mcecy', 'darkblue1919', 'YaDunGoofy', 'Jekisterm', 'Leipreachan', 'thetechwookie', 'coupfatal', 'MasterCyanist', 'Stop_Wastin_Time', 'Rasengan2xChidori', 'NlightNFotis', 'capitLjuan', 'Violetpetals86', 'SgtCheesepuffs', 'mostafa_hanafi', 'Adam24', 'Glordit', 'alypalyola', 'GlitchyNinja', 'Madame_Unicorn', 'wackz', 'TheGoodBlaze', 'smackyzushi', 'BonsaiKaya', 'Mewtooram', 'SamS834', 'Hexatona', 'GOfreez', 'ioanD', 'Tgage', 'HenGuy', 'splicepoint', 'OddDirective', 'typicalfinical', 'Mango_Bruh', 'iconicOdyssey', '1NSTINCT', 'Wild_windy', 'TheBlackMustache', 'cellnsv', 'WolfFarwalker', 'wastingyouremotion', 'ArtificialSanity', 'telekineticm', 'ajpennyworth', 'alejpaz', 'BushmanBen', 'KansasBurri', 'mistAreads', 'KingKakazooie', 'williamdeen', 'imtherty', 'lothlorien5454', 'supasteve013', 'xxReptilexx5724', 'kaptainkt11', 'Jaedys', 'Akrinu', 'real_shrek', 'PaulProv', 'PadawanJuriste', 'monster_pancakes', 'Darthbindy', 'CaptainRandus', 'kvs109', '1armsteve', '746865626c617a', 'LadyGrizabella', 'Jhilla2', 'WeirdPineapple', 'rj20876', 'ProbablyHeretical', 'marsmedia', 'Crash6474', 'Jish00742', 'theycallmedumdum', 'monkeyonafish', 'Greater419', '1fastman1', 'ReportMoose', 'Derole', 'agentm14004', 'Chairman_Yeng', 'LapppToppp', 'JackieKT', 'Fuegopants', 'ghstmoney', 'Socrateezz', 'Spabol1', 'Kviesgaard', 'amiibra', 'epique', 'Paddywagon123', 'Bhdrbyr', 'MainExport-NotFucks', 'CapaChrist', 'cujo8400', 'apacheco90', 'supremeshieldon', 'Harry_Potthead', 'TutsCake', 'Unwantable', 'DreadedBread', 'feralspirit', 'Mrshinyturtle2', 'RockoBOOM', 'SimeonBDixon', 'TL_Aintree', 'magefyre', 'InsaneBurrtio', 'GreatEmperorAca', 'sugarfish7', 'Neocrasher', '6spooky9you', 'surg3on', 'oshapufflr', 'hotvodka', 't1m1d', 'velociraptorcatcher', 'plafiff', 'Sisselkitty', 'Fishums1', 'El_espectro', 'evilrobotluke', 'LordTacoSupreme', 'Zylooox', '2OP4me', 'wafflegoat', 'Polite_Insults', 'Snoogines84', 'kuvien', 'kelemonopy', 'tootNA', 'Arkyance', 'Daniel_Drachenberg', 'phrresehelp', 'milifilou', 'ns90', 'TechAddict', 'Jon-Wolf', 'Landingmonkeys', 'postmodernpizazz', 'gaspitsjesse', 'natebob', 'DistantKarma', 'adioruben', 'Misterme7', 'Gustyblade', 'Eindracon12', 'eriru', 'l2ighty', 'Iamabasedmlg', 'ScoutBonk444', 'TheJhenMohran', 'WasThatYourLlama', 'Blayblee', 'Bellzibub', 'AmbitiousHobo', 'KenkaTinker', 'BoomBangKersplat', 'Paradox-Studios', 'TheInternetHivemind', 'Duplexety', 'idratherbeinvail', 'ExerionTheDrakkie', 'SonicfanC', 'noprayers', 'J0V1K', 'Dingleberreh', 'Pyro_mancer', 'WillCYT', '_et_tu_brute_', 'Crafterkid123', 'troyandabedinthem0rn', 'sabre333', 'thadanknug', 'zhabantia', 'xmar48', 'AssassinsCreedLover', 'GoldenFredboy', '42Cosmonaut', 'robbie0630', 'blueshift101', '_INPUTNAME_', 'Myspeld', 'extreme999', 'Horforia', 'Grimtork', 'quinda', 'Ryoxxys', 'Leumasperron', 'Realdoc3', 'black1rish', 'QuantumGautics', 'ultimatejeremy', 'lekkergezellig', 'dipt743', 'RichardDawkings', 'garrow10', 'kiraria', 'Randomguy_2', 'backman407', 'beckyphebe', 'Midipopo', 'Ascerned', 'DrYoshiyahu', 'Derptastics', 'NotPatrickStar', 'pannux', 'Booker_and_a_coyote', 'Akhawais', 'NinjaNacho99', 'Fire_and_Blood', 'Qerbside', 'masteroffu', 'fordandfriends', 'happilyemployed', 'pints', 'bobsbrain', 'Celidarden', 'Liamface', 'ThinkingAboutStag', 'frojoe', 'cavalierau', 'knightshade17', 'Maffers', 'OISss', 'gradientByte', 'REDVocxion', 'Trixsam', 'tehkyy', 'mc_chiver', 'burrito42', 'TheMadhopper', 'Walter_Malone_Carrot', 'Zeusking19', 'cullanor', 'omnithrope', 'Fluffy8x', 'basicxenocide', 'Coheed84', 'Zenith042', 'Uytob', 'DB53', 'Varnishedchrome', 'legitxhelios', 'TheDuffmaster', 'x7ramjet', 'B--ri', 'The_Average_Hero', 'bossycarl', 'DelverOfSqueakwets', 'caluck', 'GiantDwarf01', 'dmanisclutch', 'ILLBASHURMUM', 'ProfessorG42', 'OfficialScottR', 'how-the-dead-live', 'Berniie', 'Quantieme', 'Lithiarch', 'SgtBossSauce', 'Klamters', 'Retropixl', 'diphenhydrapeen', 'Alexanderdenny', 'lurk_master9000', 'Vlaxxtocia', 'sosumi', 'EggCouncilCreeper', 'SeismicWhite', 'SnifflingDarK', 'CRedi', 'JeCsGirl', 'shitishouldntsay', 'JohannFaust', 'fekhead', 'ilikepie6116', 'DogeTheShibe', 'Godcantfly', 'aelfaerie', 'Christiary', 'manbroken', 'Blekanly', 'ADAMISTHEMETA', 'iNeverbreak', 'Killerkendolls', 'TrevReyes', '420bonghits024', 'handsome_vulpine', 'Arrem_', 'ceruleanknight', 'Ulthanon', 'shakakoz']
+374 :: SEASON 3 BATTLE SIGN-UP INITIATED
+Replaced more comments
+[<praw.objects.Comment object at 0x0000000003C692B0>, <praw.objects.Comment object at 0x00000000045EDA20>, <praw.objects.Comment object at 0x0000000003FA0630>, <praw.objects.Comment object at 0x00000000046454A8>, <praw.objects.Comment object at 0x0000000003C2B390>, <praw.objects.Comment object at 0x0000000003C2B550>, <praw.objects.Comment object at 0x0000000003FCCEB8>, <praw.objects.Comment object at 0x00000000047B54A8>, <praw.objects.Comment object at 0x00000000047B5E80>, <praw.objects.Comment object at 0x00000000047C0FD0>, <praw.objects.Comment object at 0x00000000047D0BA8>, <praw.objects.Comment object at 0x0000000003425C88>, <praw.objects.Comment object at 0x00000000040C49E8>, <praw.objects.Comment object at 0x00000000046DA320>, <praw.objects.Comment object at 0x00000000046DA6A0>, <praw.objects.Comment object at 0x00000000046DA400>, <praw.objects.Comment object at 0x00000000044A26D8>, <praw.objects.Comment object at 0x0000000004877438>, <praw.objects.Comment object at 0x0000000003D5FE10>, <praw.objects.Comment object at 0x00000000047E2EF0>, <praw.objects.Comment object at 0x000000000313A4A8>, <praw.objects.Comment object at 0x000000000494DCC0>, <praw.objects.Comment object at 0x0000000004130CC0>, <praw.objects.Comment object at 0x0000000004958198>, <praw.objects.Comment object at 0x0000000004966B70>, <praw.objects.Comment object at 0x0000000004145CF8>, <praw.objects.Comment object at 0x000000000497BF28>, <praw.objects.Comment object at 0x00000000041E3748>, <praw.objects.Comment object at 0x00000000049E9208>, <praw.objects.Comment object at 0x00000000049FCC18>, <praw.objects.Comment object at 0x0000000003BBF828>, <praw.objects.Comment object at 0x0000000003BBFF98>, <praw.objects.Comment object at 0x0000000004224438>, <praw.objects.Comment object at 0x0000000003E116A0>, <praw.objects.Comment object at 0x0000000003E11278>, <praw.objects.Comment object at 0x0000000003E11D68>, <praw.objects.Comment object at 0x0000000004B03FD0>, <praw.objects.Comment object at 0x0000000004B03F28>, <praw.objects.Comment object at 0x0000000004B03710>, <praw.objects.Comment object at 0x0000000004AEF390>, <praw.objects.Comment object at 0x0000000004B13198>, <praw.objects.Comment object at 0x0000000004B13208>, <praw.objects.Comment object at 0x0000000004B13240>, <praw.objects.Comment object at 0x0000000004B13828>, <praw.objects.Comment object at 0x0000000004B13E10>, <praw.objects.Comment object at 0x000000000424D1D0>, <praw.objects.Comment object at 0x0000000004D88DA0>, <praw.objects.Comment object at 0x00000000046C54A8>, <praw.objects.Comment object at 0x0000000004DC2208>, <praw.objects.Comment object at 0x0000000004DC2828>, <praw.objects.Comment object at 0x0000000003BD3908>, <praw.objects.Comment object at 0x0000000004846550>, <praw.objects.Comment object at 0x00000000048460F0>, <praw.objects.Comment object at 0x00000000048467B8>, <praw.objects.Comment object at 0x0000000004846EB8>, <praw.objects.Comment object at 0x0000000004859A20>, <praw.objects.Comment object at 0x0000000004859940>, <praw.objects.Comment object at 0x0000000004859898>, <praw.objects.Comment object at 0x0000000004E0A0F0>, <praw.objects.Comment object at 0x0000000004E0A3C8>, <praw.objects.Comment object at 0x0000000004ECDB38>, <praw.objects.Comment object at 0x0000000004ED60B8>, <praw.objects.Comment object at 0x0000000004ED6518>, <praw.objects.Comment object at 0x000000000441D438>, <praw.objects.Comment object at 0x0000000004EE9A90>, <praw.objects.Comment object at 0x0000000004476F98>, <praw.objects.Comment object at 0x0000000004EFE208>, <praw.objects.Comment object at 0x0000000003C52E10>, <praw.objects.Comment object at 0x0000000004F77908>, <praw.objects.Comment object at 0x0000000003F2F8D0>, <praw.objects.Comment object at 0x00000000044FE518>, <praw.objects.Comment object at 0x00000000050255F8>, <praw.objects.Comment object at 0x0000000005041E80>, <praw.objects.Comment object at 0x000000000506F208>, <praw.objects.Comment object at 0x000000000506F358>, <praw.objects.Comment object at 0x000000000506F5C0>, <praw.objects.Comment object at 0x000000000506F6A0>, <praw.objects.Comment object at 0x000000000506F780>, <praw.objects.Comment object at 0x000000000506FA58>, <praw.objects.Comment object at 0x000000000506FDD8>, <praw.objects.Comment object at 0x000000000507C048>, <praw.objects.Comment object at 0x000000000507C128>, <praw.objects.Comment object at 0x000000000507C518>, <praw.objects.Comment object at 0x000000000507C860>, <praw.objects.Comment object at 0x000000000507CA90>, <praw.objects.Comment object at 0x000000000507CB38>, <praw.objects.Comment object at 0x000000000507CE10>, <praw.objects.Comment object at 0x000000000508C240>, <praw.objects.Comment object at 0x000000000508C470>, <praw.objects.Comment object at 0x000000000508C6A0>, <praw.objects.Comment object at 0x000000000508C7F0>, <praw.objects.Comment object at 0x000000000508CAC8>, <praw.objects.Comment object at 0x000000000508CBA8>, <praw.objects.Comment object at 0x000000000508CCF8>, <praw.objects.Comment object at 0x000000000508CE80>, <praw.objects.Comment object at 0x000000000508CF60>, <praw.objects.Comment object at 0x000000000509A1D0>, <praw.objects.Comment object at 0x000000000509A2B0>, <praw.objects.Comment object at 0x000000000509A390>, <praw.objects.Comment object at 0x000000000509A5C0>, <praw.objects.Comment object at 0x000000000509A6A0>, <praw.objects.Comment object at 0x000000000509A780>, <praw.objects.Comment object at 0x000000000509AB38>, <praw.objects.Comment object at 0x000000000509AC18>, <praw.objects.Comment object at 0x00000000050AC080>, <praw.objects.Comment object at 0x00000000050AC160>, <praw.objects.Comment object at 0x00000000050AC240>, <praw.objects.Comment object at 0x00000000050AC3C8>, <praw.objects.Comment object at 0x00000000050AC518>, <praw.objects.Comment object at 0x00000000050AC940>, <praw.objects.Comment object at 0x00000000050ACCF8>, <praw.objects.Comment object at 0x00000000050ACF28>, <praw.objects.Comment object at 0x00000000050BF198>, <praw.objects.Comment object at 0x00000000050BF5C0>, <praw.objects.Comment object at 0x00000000050BF6A0>, <praw.objects.Comment object at 0x00000000050BF7F0>, <praw.objects.Comment object at 0x00000000050BF8D0>, <praw.objects.Comment object at 0x00000000050BFB00>, <praw.objects.Comment object at 0x00000000050BFD30>, <praw.objects.Comment object at 0x00000000050D30F0>, <praw.objects.Comment object at 0x00000000050D3240>, <praw.objects.Comment object at 0x00000000050D35C0>, <praw.objects.Comment object at 0x00000000050D36A0>, <praw.objects.Comment object at 0x00000000050D3D68>, <praw.objects.Comment object at 0x00000000050D3E48>, <praw.objects.Comment object at 0x00000000053630B8>, <praw.objects.Comment object at 0x0000000005363278>, <praw.objects.Comment object at 0x00000000053636A0>, <praw.objects.Comment object at 0x0000000005363780>, <praw.objects.Comment object at 0x0000000005363C50>, <praw.objects.Comment object at 0x0000000005363E80>, <praw.objects.Comment object at 0x0000000005376320>, <praw.objects.Comment object at 0x0000000005376710>, <praw.objects.Comment object at 0x0000000005376AC8>, <praw.objects.Comment object at 0x0000000005376B70>, <praw.objects.Comment object at 0x0000000005376DA0>, <praw.objects.Comment object at 0x0000000005376FD0>, <praw.objects.Comment object at 0x000000000538D0F0>, <praw.objects.Comment object at 0x000000000538D1D0>, <praw.objects.Comment object at 0x000000000538D5F8>, <praw.objects.Comment object at 0x000000000538D8D0>, <praw.objects.Comment object at 0x000000000538DA58>, <praw.objects.Comment object at 0x000000000538DB00>, <praw.objects.Comment object at 0x000000000538DE48>, <praw.objects.Comment object at 0x00000000053E42B0>, <praw.objects.Comment object at 0x00000000053E4630>, <praw.objects.Comment object at 0x00000000053E4860>, <praw.objects.Comment object at 0x00000000053E4940>, <praw.objects.Comment object at 0x00000000053E4DA0>, <praw.objects.Comment object at 0x00000000053E4FD0>, <praw.objects.Comment object at 0x00000000053F9470>, <praw.objects.Comment object at 0x00000000053F9860>, <praw.objects.Comment object at 0x00000000053F9A90>, <praw.objects.Comment object at 0x00000000053F9C18>, <praw.objects.Comment object at 0x00000000053F9D30>, <praw.objects.Comment object at 0x000000000540D048>, <praw.objects.Comment object at 0x000000000540D3C8>, <praw.objects.Comment object at 0x000000000540D748>, <praw.objects.Comment object at 0x000000000540D8D0>, <praw.objects.Comment object at 0x000000000540DCF8>, <praw.objects.Comment object at 0x00000000054670B8>, <praw.objects.Comment object at 0x00000000054674E0>, <praw.objects.Comment object at 0x0000000005467630>, <praw.objects.Comment object at 0x0000000005467978>, <praw.objects.Comment object at 0x0000000005467CF8>, <praw.objects.Comment object at 0x0000000005467DA0>, <praw.objects.Comment object at 0x0000000005467E80>, <praw.objects.Comment object at 0x0000000005467F60>, <praw.objects.Comment object at 0x000000000547A390>, <praw.objects.Comment object at 0x000000000547A5C0>, <praw.objects.Comment object at 0x000000000547A9B0>, <praw.objects.Comment object at 0x000000000547ABA8>, <praw.objects.Comment object at 0x000000000547AD30>, <praw.objects.Comment object at 0x0000000005490198>, <praw.objects.Comment object at 0x0000000005490588>, <praw.objects.Comment object at 0x0000000005490668>, <praw.objects.Comment object at 0x00000000054909B0>, <praw.objects.Comment object at 0x0000000005490E80>, <praw.objects.Comment object at 0x0000000005490F60>, <praw.objects.Comment object at 0x00000000054E8320>, <praw.objects.Comment object at 0x00000000054E8400>, <praw.objects.Comment object at 0x00000000054E84E0>, <praw.objects.Comment object at 0x00000000054E85C0>, <praw.objects.Comment object at 0x00000000054E8710>, <praw.objects.Comment object at 0x00000000054E8A90>, <praw.objects.Comment object at 0x00000000054E8E10>, <praw.objects.Comment object at 0x00000000054FD080>, <praw.objects.Comment object at 0x00000000054FD2B0>, <praw.objects.Comment object at 0x00000000054FD630>, <praw.objects.Comment object at 0x00000000054FD6D8>, <praw.objects.Comment object at 0x00000000054FD908>, <praw.objects.Comment object at 0x00000000054FD9E8>, <praw.objects.Comment object at 0x00000000054FDA90>, <praw.objects.Comment object at 0x00000000054FDB70>, <praw.objects.Comment object at 0x00000000054FDEB8>, <praw.objects.Comment object at 0x00000000054FDFD0>, <praw.objects.Comment object at 0x0000000005511278>, <praw.objects.Comment object at 0x00000000055116A0>, <praw.objects.Comment object at 0x00000000055118D0>, <praw.objects.Comment object at 0x0000000005511A58>, <praw.objects.Comment object at 0x0000000005511DD8>, <praw.objects.Comment object at 0x0000000005574240>, <praw.objects.Comment object at 0x0000000005574470>, <praw.objects.Comment object at 0x0000000005574550>, <praw.objects.Comment object at 0x0000000005574940>, <praw.objects.Comment object at 0x0000000005574A20>, <praw.objects.Comment object at 0x0000000005574C50>, <praw.objects.Comment object at 0x0000000005574F98>, <praw.objects.Comment object at 0x0000000005587208>, <praw.objects.Comment object at 0x0000000005587470>, <praw.objects.Comment object at 0x0000000005587550>, <praw.objects.Comment object at 0x0000000005587630>, <praw.objects.Comment object at 0x0000000005587710>, <praw.objects.Comment object at 0x0000000005587898>, <praw.objects.Comment object at 0x000000000559F048>, <praw.objects.Comment object at 0x000000000559F128>, <praw.objects.Comment object at 0x000000000559F550>, <praw.objects.Comment object at 0x000000000559F780>, <praw.objects.Comment object at 0x000000000559FB00>, <praw.objects.Comment object at 0x000000000559FBE0>, <praw.objects.Comment object at 0x000000000559FCC0>, <praw.objects.Comment object at 0x000000000559FDA0>, <praw.objects.Comment object at 0x0000000005639160>, <praw.objects.Comment object at 0x0000000005639390>, <praw.objects.Comment object at 0x00000000056395C0>, <praw.objects.Comment object at 0x0000000005639908>, <praw.objects.Comment object at 0x00000000056399E8>, <praw.objects.Comment object at 0x0000000005639D68>, <praw.objects.Comment object at 0x0000000005639E48>, <praw.objects.Comment object at 0x000000000564F550>, <praw.objects.Comment object at 0x000000000564F630>, <praw.objects.Comment object at 0x000000000564F908>, <praw.objects.Comment object at 0x000000000564FC50>, <praw.objects.Comment object at 0x000000000564FE48>, <praw.objects.Comment object at 0x000000000566B0B8>, <praw.objects.Comment object at 0x000000000566B2E8>, <praw.objects.Comment object at 0x000000000566B518>, <praw.objects.Comment object at 0x000000000566B710>, <praw.objects.Comment object at 0x000000000566B940>, <praw.objects.Comment object at 0x000000000566BA20>, <praw.objects.Comment object at 0x000000000566BE10>, <praw.objects.Comment object at 0x000000000566BEF0>, <praw.objects.Comment object at 0x000000000566BFD0>, <praw.objects.Comment object at 0x00000000056C7400>, <praw.objects.Comment object at 0x00000000056C7588>, <praw.objects.Comment object at 0x00000000056C7908>, <praw.objects.Comment object at 0x00000000056C7B00>, <praw.objects.Comment object at 0x00000000056C7E48>, <praw.objects.Comment object at 0x00000000056C7F28>, <praw.objects.Comment object at 0x00000000056DC048>, <praw.objects.Comment object at 0x00000000056DC0F0>, <praw.objects.Comment object at 0x00000000056DC1D0>, <praw.objects.Comment object at 0x00000000056DC400>, <praw.objects.Comment object at 0x00000000056DC4E0>, <praw.objects.Comment object at 0x00000000056DC710>, <praw.objects.Comment object at 0x00000000056DC940>, <praw.objects.Comment object at 0x00000000056DCB70>, <praw.objects.Comment object at 0x00000000056DCC50>, <praw.objects.Comment object at 0x00000000056DCD30>, <praw.objects.Comment object at 0x00000000056F6198>, <praw.objects.Comment object at 0x00000000056F6470>, <praw.objects.Comment object at 0x00000000056F6588>, <praw.objects.Comment object at 0x00000000056F67B8>, <praw.objects.Comment object at 0x00000000056F6898>, <praw.objects.Comment object at 0x00000000056F6C88>, <praw.objects.Comment object at 0x000000000570A048>, <praw.objects.Comment object at 0x000000000570A2B0>, <praw.objects.Comment object at 0x000000000570A390>, <praw.objects.Comment object at 0x000000000570A780>, <praw.objects.Comment object at 0x000000000570A9B0>, <praw.objects.Comment object at 0x000000000570ADA0>, <praw.objects.Comment object at 0x000000000571E160>, <praw.objects.Comment object at 0x000000000571E390>, <praw.objects.Comment object at 0x000000000571E470>, <praw.objects.Comment object at 0x000000000571E550>, <praw.objects.Comment object at 0x000000000571EA20>, <praw.objects.Comment object at 0x000000000571EB00>, <praw.objects.Comment object at 0x000000000571EBE0>, <praw.objects.Comment object at 0x000000000571EFD0>, <praw.objects.Comment object at 0x00000000057B9160>, <praw.objects.Comment object at 0x00000000057B9240>, <praw.objects.Comment object at 0x00000000057B95C0>, <praw.objects.Comment object at 0x00000000057B99E8>, <praw.objects.Comment object at 0x00000000057B9AC8>, <praw.objects.Comment object at 0x00000000057B9CF8>, <praw.objects.Comment object at 0x00000000057D0160>, <praw.objects.Comment object at 0x00000000057D0240>, <praw.objects.Comment object at 0x00000000057D0320>, <praw.objects.Comment object at 0x00000000057D0470>, <praw.objects.Comment object at 0x00000000057D07F0>, <praw.objects.Comment object at 0x00000000057D0A58>, <praw.objects.Comment object at 0x00000000057D0B38>, <praw.objects.Comment object at 0x00000000057D0C18>, <praw.objects.Comment object at 0x00000000057D0CF8>, <praw.objects.Comment object at 0x00000000057D0F28>, <praw.objects.Comment object at 0x00000000057E81D0>, <praw.objects.Comment object at 0x00000000057E8400>, <praw.objects.Comment object at 0x00000000057E84E0>, <praw.objects.Comment object at 0x00000000057E8908>, <praw.objects.Comment object at 0x00000000057E8D30>, <praw.objects.Comment object at 0x0000000005842780>, <praw.objects.Comment object at 0x0000000005842860>, <praw.objects.Comment object at 0x0000000005842C88>, <praw.objects.Comment object at 0x0000000005842EB8>, <praw.objects.Comment object at 0x0000000005855128>, <praw.objects.Comment object at 0x0000000005855390>, <praw.objects.Comment object at 0x0000000005855470>, <praw.objects.Comment object at 0x00000000058555C0>, <praw.objects.Comment object at 0x00000000058557B8>, <praw.objects.Comment object at 0x00000000058559E8>, <praw.objects.Comment object at 0x0000000005855C18>, <praw.objects.Comment object at 0x0000000005855CF8>, <praw.objects.Comment object at 0x0000000005855DD8>, <praw.objects.Comment object at 0x0000000005855EB8>, <praw.objects.Comment object at 0x0000000005855F98>, <praw.objects.Comment object at 0x000000000586B208>, <praw.objects.Comment object at 0x000000000586B5F8>, <praw.objects.Comment object at 0x000000000586B940>, <praw.objects.Comment object at 0x000000000586B9E8>, <praw.objects.Comment object at 0x000000000586BAC8>, <praw.objects.Comment object at 0x000000000586BBA8>, <praw.objects.Comment object at 0x000000000586BF28>, <praw.objects.Comment object at 0x0000000005904198>, <praw.objects.Comment object at 0x0000000005904278>, <praw.objects.Comment object at 0x0000000005904710>, <praw.objects.Comment object at 0x00000000059047F0>, <praw.objects.Comment object at 0x00000000059049E8>, <praw.objects.Comment object at 0x0000000005904AC8>, <praw.objects.Comment object at 0x0000000005904EF0>, <praw.objects.Comment object at 0x000000000591A160>, <praw.objects.Comment object at 0x000000000591A390>, <praw.objects.Comment object at 0x000000000591A780>, <praw.objects.Comment object at 0x000000000591A860>, <praw.objects.Comment object at 0x000000000591ABE0>, <praw.objects.Comment object at 0x000000000591AE10>, <praw.objects.Comment object at 0x000000000591AEB8>, <praw.objects.Comment object at 0x0000000005932160>, <praw.objects.Comment object at 0x0000000005932390>, <praw.objects.Comment object at 0x00000000059325C0>, <praw.objects.Comment object at 0x0000000005932710>, <praw.objects.Comment object at 0x00000000059327B8>, <praw.objects.Comment object at 0x00000000059329E8>, <praw.objects.Comment object at 0x0000000005932C88>, <praw.objects.Comment object at 0x0000000005932EB8>, <praw.objects.Comment object at 0x0000000005949128>, <praw.objects.Comment object at 0x0000000005949588>, <praw.objects.Comment object at 0x00000000059497B8>, <praw.objects.Comment object at 0x0000000005949898>, <praw.objects.Comment object at 0x0000000005949AC8>, <praw.objects.Comment object at 0x0000000005949CF8>, <praw.objects.Comment object at 0x000000000595C0B8>, <praw.objects.Comment object at 0x000000000595C518>, <praw.objects.Comment object at 0x000000000595C5F8>, <praw.objects.Comment object at 0x000000000595C6D8>, <praw.objects.Comment object at 0x000000000595C780>, <praw.objects.Comment object at 0x000000000595C898>, <praw.objects.Comment object at 0x000000000595CAC8>, <praw.objects.Comment object at 0x000000000595CE48>, <praw.objects.Comment object at 0x000000000595CF28>, <praw.objects.Comment object at 0x0000000005972048>, <praw.objects.Comment object at 0x0000000005972128>, <praw.objects.Comment object at 0x00000000059724E0>, <praw.objects.Comment object at 0x0000000005972588>, <praw.objects.Comment object at 0x0000000005972668>, <praw.objects.Comment object at 0x0000000005972748>, <praw.objects.Comment object at 0x0000000005972828>, <praw.objects.Comment object at 0x0000000005972A58>, <praw.objects.Comment object at 0x0000000005972B38>, <praw.objects.Comment object at 0x0000000005972C50>, <praw.objects.Comment object at 0x0000000005972FD0>, <praw.objects.Comment object at 0x0000000005A0B390>, <praw.objects.Comment object at 0x0000000005A0B470>, <praw.objects.Comment object at 0x0000000005A0B6A0>, <praw.objects.Comment object at 0x0000000005A0B780>, <praw.objects.Comment object at 0x0000000005A0B828>, <praw.objects.Comment object at 0x0000000005A0BA90>, <praw.objects.Comment object at 0x0000000005A0BE10>, <praw.objects.Comment object at 0x0000000005A0BEF0>, <praw.objects.Comment object at 0x0000000005A0BFD0>, <praw.objects.Comment object at 0x0000000005A210F0>, <praw.objects.Comment object at 0x0000000005A21320>, <praw.objects.Comment object at 0x0000000005A215F8>, <praw.objects.Comment object at 0x0000000005A21A90>, <praw.objects.Comment object at 0x0000000005A21B38>, <praw.objects.Comment object at 0x0000000005A21C18>, <praw.objects.Comment object at 0x0000000005A21E48>, <praw.objects.Comment object at 0x0000000005A21F28>, <praw.objects.Comment object at 0x0000000005A390B8>, <praw.objects.Comment object at 0x0000000005A39198>, <praw.objects.Comment object at 0x0000000005A393C8>, <praw.objects.Comment object at 0x0000000005A396A0>, <praw.objects.Comment object at 0x0000000005A39780>, <praw.objects.Comment object at 0x0000000005A39860>, <praw.objects.Comment object at 0x0000000005A39B70>, <praw.objects.Comment object at 0x0000000005A39C50>, <praw.objects.Comment object at 0x0000000005A39E80>, <praw.objects.Comment object at 0x0000000005A94320>, <praw.objects.Comment object at 0x0000000005A94400>, <praw.objects.Comment object at 0x0000000005A94780>, <praw.objects.Comment object at 0x0000000005A94860>, <praw.objects.Comment object at 0x0000000005A94C50>, <praw.objects.Comment object at 0x0000000005AA8048>, <praw.objects.Comment object at 0x0000000005AA8128>, <praw.objects.Comment object at 0x0000000005AA8208>, <praw.objects.Comment object at 0x0000000005AA8438>, <praw.objects.Comment object at 0x0000000005AA84E0>, <praw.objects.Comment object at 0x0000000005AA88D0>, <praw.objects.Comment object at 0x0000000005AA8CF8>, <praw.objects.Comment object at 0x0000000005AA8DD8>, <praw.objects.Comment object at 0x0000000005AA8EB8>, <praw.objects.Comment object at 0x0000000005AA8F98>, <praw.objects.Comment object at 0x0000000005ABE208>, <praw.objects.Comment object at 0x0000000005ABE470>, <praw.objects.Comment object at 0x0000000005ABE550>, <praw.objects.Comment object at 0x0000000005ABE8D0>, <praw.objects.Comment object at 0x0000000005ABEC50>, <praw.objects.Comment object at 0x0000000005ABEE48>, <praw.objects.Comment object at 0x0000000005AD62B0>, <praw.objects.Comment object at 0x0000000005AD64E0>, <praw.objects.Comment object at 0x0000000005AD6588>, <praw.objects.Comment object at 0x0000000005AD6940>, <praw.objects.Comment object at 0x0000000005AD6A20>, <praw.objects.Comment object at 0x0000000005AD6B00>, <praw.objects.Comment object at 0x0000000005AD6D30>, <praw.objects.Comment object at 0x0000000005AD6E48>, <praw.objects.Comment object at 0x0000000005AD6F28>, <praw.objects.Comment object at 0x0000000005AEE198>, <praw.objects.Comment object at 0x0000000005AEE278>, <praw.objects.Comment object at 0x0000000005AEE4A8>, <praw.objects.Comment object at 0x0000000005AEE8D0>, <praw.objects.Comment object at 0x0000000005AEEB00>, <praw.objects.Comment object at 0x0000000005AEEBE0>, <praw.objects.Comment object at 0x0000000005AEECC0>, <praw.objects.Comment object at 0x0000000005B88080>, <praw.objects.Comment object at 0x0000000005B88470>, <praw.objects.Comment object at 0x0000000005B886A0>, <praw.objects.Comment object at 0x0000000005B88DD8>, <praw.objects.Comment object at 0x0000000005B88EB8>, <praw.objects.Comment object at 0x0000000005B9E048>, <praw.objects.Comment object at 0x0000000005B9E390>, <praw.objects.Comment object at 0x0000000005B9E518>, <praw.objects.Comment object at 0x0000000005B9E940>, <praw.objects.Comment object at 0x0000000005B9EA20>, <praw.objects.Comment object at 0x0000000005B9EB38>, <praw.objects.Comment object at 0x0000000005B9EEB8>, <praw.objects.Comment object at 0x0000000005B9EFD0>, <praw.objects.Comment object at 0x0000000005BB6160>, <praw.objects.Comment object at 0x0000000005BB64A8>, <praw.objects.Comment object at 0x0000000005BB6748>, <praw.objects.Comment object at 0x0000000005BB67F0>, <praw.objects.Comment object at 0x0000000005BB6BE0>, <praw.objects.Comment object at 0x0000000005C0E080>, <praw.objects.Comment object at 0x0000000005C0E400>, <praw.objects.Comment object at 0x0000000005C0E588>, <praw.objects.Comment object at 0x0000000005C0E860>, <praw.objects.Comment object at 0x0000000005C0EC50>, <praw.objects.Comment object at 0x0000000005C210B8>, <praw.objects.Comment object at 0x0000000005C21198>, <praw.objects.Comment object at 0x0000000005C21278>, <praw.objects.Comment object at 0x0000000005C215F8>, <praw.objects.Comment object at 0x0000000005C216D8>, <praw.objects.Comment object at 0x0000000005C21908>, <praw.objects.Comment object at 0x0000000005C219E8>, <praw.objects.Comment object at 0x0000000005C21AC8>, <praw.objects.Comment object at 0x0000000005C21C18>, <praw.objects.Comment object at 0x0000000005C21CF8>, <praw.objects.Comment object at 0x0000000005C21F28>, <praw.objects.Comment object at 0x0000000005C382B0>, <praw.objects.Comment object at 0x0000000005C38390>, <praw.objects.Comment object at 0x0000000005C386D8>, <praw.objects.Comment object at 0x0000000005C38908>, <praw.objects.Comment object at 0x0000000005C38A90>, <praw.objects.Comment object at 0x0000000005C38B70>, <praw.objects.Comment object at 0x0000000005C38C18>, <praw.objects.Comment object at 0x0000000005C38F98>, <praw.objects.Comment object at 0x0000000005CD3080>, <praw.objects.Comment object at 0x0000000005CD34A8>, <praw.objects.Comment object at 0x0000000005CD39E8>, <praw.objects.Comment object at 0x0000000005CD3D68>, <praw.objects.Comment object at 0x0000000005CE6128>, <praw.objects.Comment object at 0x000000000465BDD8>, <praw.objects.Comment object at 0x00000000046DACF8>, <praw.objects.Comment object at 0x00000000046DAC18>, <praw.objects.Comment object at 0x00000000046DACC0>, <praw.objects.Comment object at 0x00000000046DAF60>, <praw.objects.Comment object at 0x00000000047B5048>, <praw.objects.Comment object at 0x00000000047B52E8>, <praw.objects.Comment object at 0x00000000047B5320>, <praw.objects.Comment object at 0x0000000004DB7320>, <praw.objects.Comment object at 0x0000000004DB7358>, <praw.objects.Comment object at 0x0000000004DB7400>, <praw.objects.Comment object at 0x0000000004DB77B8>, <praw.objects.Comment object at 0x00000000047C05C0>, <praw.objects.Comment object at 0x00000000047C0A58>, <praw.objects.Comment object at 0x00000000047C0908>, <praw.objects.Comment object at 0x00000000047C0CF8>, <praw.objects.Comment object at 0x00000000047C0DD8>, <praw.objects.Comment object at 0x00000000047E2470>, <praw.objects.Comment object at 0x00000000047E2080>, <praw.objects.Comment object at 0x00000000047E20B8>, <praw.objects.Comment object at 0x00000000047E2320>, <praw.objects.Comment object at 0x00000000047E25F8>, <praw.objects.Comment object at 0x00000000047E2668>, <praw.objects.Comment object at 0x00000000047E20F0>, <praw.objects.Comment object at 0x00000000047E2860>, <praw.objects.Comment object at 0x00000000047E27B8>, <praw.objects.Comment object at 0x0000000004877C50>, <praw.objects.Comment object at 0x0000000004867438>, <praw.objects.Comment object at 0x0000000004867588>, <praw.objects.Comment object at 0x00000000048674A8>, <praw.objects.Comment object at 0x0000000004867748>, <praw.objects.Comment object at 0x0000000004867A58>, <praw.objects.Comment object at 0x00000000048679B0>, <praw.objects.Comment object at 0x00000000048677F0>, <praw.objects.Comment object at 0x0000000004867AC8>, <praw.objects.Comment object at 0x0000000004867C88>, <praw.objects.Comment object at 0x0000000004D883C8>, <praw.objects.Comment object at 0x0000000004D88588>, <praw.objects.Comment object at 0x0000000004D884A8>, <praw.objects.Comment object at 0x0000000004D88630>, <praw.objects.Comment object at 0x0000000004D88A20>, <praw.objects.Comment object at 0x0000000004D889E8>, <praw.objects.Comment object at 0x0000000004D88978>, <praw.objects.Comment object at 0x0000000004D88B38>, <praw.objects.Comment object at 0x0000000004ED6AC8>, <praw.objects.Comment object at 0x0000000004D88AC8>, <praw.objects.Comment object at 0x0000000004E0A6D8>, <praw.objects.Comment object at 0x0000000004ECD3C8>, <praw.objects.Comment object at 0x0000000004ECD198>, <praw.objects.Comment object at 0x0000000004ECD0F0>, <praw.objects.Comment object at 0x0000000004ECD518>, <praw.objects.Comment object at 0x0000000004ECD438>, <praw.objects.Comment object at 0x0000000004ECD710>, <praw.objects.Comment object at 0x0000000004ECD630>, <praw.objects.Comment object at 0x0000000004ECD898>, <praw.objects.Comment object at 0x0000000004ECD748>, <praw.objects.Comment object at 0x0000000005CE6358>, <praw.objects.Comment object at 0x0000000005CE6438>, <praw.objects.Comment object at 0x0000000005CE6518>, <praw.objects.Comment object at 0x0000000005CE65F8>, <praw.objects.Comment object at 0x0000000005CE66D8>, <praw.objects.Comment object at 0x0000000005CE67B8>, <praw.objects.Comment object at 0x0000000005CE68D0>, <praw.objects.Comment object at 0x0000000005D732E8>, <praw.objects.Comment object at 0x0000000005D73400>, <praw.objects.Comment object at 0x0000000005D734E0>, <praw.objects.Comment object at 0x0000000005D735F8>, <praw.objects.Comment object at 0x0000000005D736D8>, <praw.objects.Comment object at 0x0000000005D737B8>, <praw.objects.Comment object at 0x0000000005D73898>, <praw.objects.Comment object at 0x0000000005D73978>, <praw.objects.Comment object at 0x0000000005D73A58>, <praw.objects.Comment object at 0x0000000005D73B38>, <praw.objects.Comment object at 0x0000000005D73C18>, <praw.objects.Comment object at 0x0000000005D73CF8>, <praw.objects.Comment object at 0x0000000005D73DD8>, <praw.objects.Comment object at 0x0000000005D73EB8>, <praw.objects.Comment object at 0x0000000005D73F60>, <praw.objects.Comment object at 0x0000000005D7E080>, <praw.objects.Comment object at 0x0000000005D7E160>, <praw.objects.Comment object at 0x0000000005D7E240>, <praw.objects.Comment object at 0x0000000004966C50>, <praw.objects.Comment object at 0x0000000005D7E3C8>, <praw.objects.Comment object at 0x0000000005D7E4A8>, <praw.objects.Comment object at 0x0000000005D7E588>, <praw.objects.Comment object at 0x0000000005D7E668>, <praw.objects.Comment object at 0x0000000005D7E748>, <praw.objects.Comment object at 0x0000000005D7E828>, <praw.objects.Comment object at 0x0000000005D7E908>, <praw.objects.Comment object at 0x0000000005D7E9B0>, <praw.objects.Comment object at 0x0000000005D7EA90>, <praw.objects.Comment object at 0x0000000005D7EB70>, <praw.objects.Comment object at 0x0000000005D7EC50>, <praw.objects.Comment object at 0x0000000005D7ED30>, <praw.objects.Comment object at 0x0000000005D7EE10>, <praw.objects.Comment object at 0x0000000005D7EF98>, <praw.objects.Comment object at 0x0000000005DD90B8>, <praw.objects.Comment object at 0x0000000005DD9208>, <praw.objects.Comment object at 0x0000000004F779B0>, <praw.objects.Comment object at 0x0000000005DD9518>, <praw.objects.Comment object at 0x0000000005DD96A0>, <praw.objects.Comment object at 0x0000000005DD97B8>, <praw.objects.Comment object at 0x0000000005DD99E8>, <praw.objects.Comment object at 0x0000000005DD9BA8>, <praw.objects.Comment object at 0x0000000005DD9D30>, <praw.objects.Comment object at 0x0000000005DD9EB8>, <praw.objects.Comment object at 0x0000000005DF0080>, <praw.objects.Comment object at 0x0000000005DF0208>, <praw.objects.Comment object at 0x00000000049FCDD8>, <praw.objects.Comment object at 0x0000000004F77F28>, <praw.objects.Comment object at 0x0000000004F77DA0>, <praw.objects.Comment object at 0x0000000004F934A8>, <praw.objects.Comment object at 0x0000000004F934E0>, <praw.objects.Comment object at 0x0000000004F936A0>, <praw.objects.Comment object at 0x0000000005DF03C8>, <praw.objects.Comment object at 0x0000000005DF04E0>, <praw.objects.Comment object at 0x0000000005DF0668>, <praw.objects.Comment object at 0x0000000005DF07F0>, <praw.objects.Comment object at 0x0000000005DF09B0>, <praw.objects.Comment object at 0x0000000005E91470>, <praw.objects.Comment object at 0x0000000005E915F8>, <praw.objects.Comment object at 0x0000000005E91748>, <praw.objects.Comment object at 0x0000000005E91978>, <praw.objects.Comment object at 0x0000000005E91AC8>, <praw.objects.Comment object at 0x0000000005E91C50>, <praw.objects.Comment object at 0x0000000005E91DA0>, <praw.objects.Comment object at 0x0000000005E91F28>, <praw.objects.Comment object at 0x0000000005037470>, <praw.objects.Comment object at 0x0000000005E9F240>, <praw.objects.Comment object at 0x0000000005E9F3C8>, <praw.objects.Comment object at 0x0000000005E9F550>, <praw.objects.Comment object at 0x0000000005E9F6D8>, <praw.objects.Comment object at 0x0000000005E9F860>, <praw.objects.Comment object at 0x0000000005E9F9E8>, <praw.objects.Comment object at 0x0000000005E9FB70>, <praw.objects.Comment object at 0x0000000005E9FCF8>, <praw.objects.Comment object at 0x0000000005E9FE48>, <praw.objects.Comment object at 0x0000000004AEFC88>, <praw.objects.Comment object at 0x0000000005EB90F0>, <praw.objects.Comment object at 0x0000000005EB9278>, <praw.objects.Comment object at 0x0000000005EB94A8>, <praw.objects.Comment object at 0x0000000005EB9588>, <praw.objects.Comment object at 0x0000000005EB9668>, <praw.objects.Comment object at 0x0000000005EB9748>, <praw.objects.Comment object at 0x0000000005EB9828>, <praw.objects.Comment object at 0x0000000005EB9978>, <praw.objects.Comment object at 0x0000000005EB9CC0>, <praw.objects.Comment object at 0x0000000005EB9DA0>, <praw.objects.Comment object at 0x0000000005ECF438>, <praw.objects.Comment object at 0x0000000005ECFB00>, <praw.objects.Comment object at 0x0000000005ECFC50>, <praw.objects.Comment object at 0x0000000005ECFE80>, <praw.objects.Comment object at 0x0000000005ED9048>, <praw.objects.Comment object at 0x0000000005ED91D0>, <praw.objects.Comment object at 0x0000000005ED9400>, <praw.objects.Comment object at 0x0000000005ED9588>, <praw.objects.Comment object at 0x0000000005ED96A0>, <praw.objects.Comment object at 0x0000000005EE60B8>, <praw.objects.Comment object at 0x0000000005EE6240>, <praw.objects.Comment object at 0x0000000005EE6358>, <praw.objects.Comment object at 0x0000000005EE64E0>, <praw.objects.Comment object at 0x0000000005EE67B8>, <praw.objects.Comment object at 0x0000000005EE6978>, <praw.objects.Comment object at 0x0000000005EE6B00>, <praw.objects.Comment object at 0x0000000005EE6C88>, <praw.objects.Comment object at 0x0000000005EF7358>, <praw.objects.Comment object at 0x0000000005EF7860>, <praw.objects.Comment object at 0x0000000005EF79E8>, <praw.objects.Comment object at 0x0000000005EF7B70>, <praw.objects.Comment object at 0x0000000005EF7CC0>, <praw.objects.Comment object at 0x0000000005EF7E48>, <praw.objects.Comment object at 0x0000000005EF7FD0>, <praw.objects.Comment object at 0x0000000005F02198>, <praw.objects.Comment object at 0x0000000005F02320>, <praw.objects.Comment object at 0x0000000005F02438>, <praw.objects.Comment object at 0x000000000448A358>, <praw.objects.Comment object at 0x0000000005F025F8>, <praw.objects.Comment object at 0x0000000005F02860>, <praw.objects.Comment object at 0x0000000005F02A90>, <praw.objects.Comment object at 0x0000000005F02CF8>, <praw.objects.Comment object at 0x0000000005F02DD8>, <praw.objects.Comment object at 0x0000000005FA0048>, <praw.objects.Comment object at 0x0000000005FA01D0>, <praw.objects.Comment object at 0x0000000005FA0390>, <praw.objects.Comment object at 0x0000000005FA0E10>, <praw.objects.Comment object at 0x0000000005FA0F98>, <praw.objects.Comment object at 0x0000000005FAC160>, <praw.objects.Comment object at 0x0000000005FAC2B0>, <praw.objects.Comment object at 0x0000000005FAC438>, <praw.objects.Comment object at 0x0000000005FAC5C0>, <praw.objects.Comment object at 0x0000000005FAC748>, <praw.objects.Comment object at 0x0000000005FAC8D0>, <praw.objects.Comment object at 0x0000000005FACA58>, <praw.objects.Comment object at 0x0000000005FACF60>, <praw.objects.Comment object at 0x0000000005FC46D8>, <praw.objects.Comment object at 0x0000000005FC4860>, <praw.objects.Comment object at 0x0000000005FC49E8>, <praw.objects.Comment object at 0x0000000005FC4BA8>, <praw.objects.Comment object at 0x0000000005FC4D30>, <praw.objects.Comment object at 0x0000000005FC4EB8>, <praw.objects.Comment object at 0x0000000005FCD080>, <praw.objects.Comment object at 0x0000000005FCD208>, <praw.objects.Comment object at 0x0000000005FCD2E8>, <praw.objects.Comment object at 0x0000000004DF88D0>, <praw.objects.Comment object at 0x0000000005FCD5F8>, <praw.objects.Comment object at 0x0000000005FCD780>, <praw.objects.Comment object at 0x0000000005FCD908>, <praw.objects.Comment object at 0x0000000005FCDA90>, <praw.objects.Comment object at 0x0000000005FCDC18>, <praw.objects.Comment object at 0x0000000005FCDDA0>, <praw.objects.Comment object at 0x0000000005FCDF28>, <praw.objects.Comment object at 0x00000000060270F0>, <praw.objects.Comment object at 0x0000000006027240>, <praw.objects.Comment object at 0x0000000006027320>, <praw.objects.Comment object at 0x0000000004DB7828>, <praw.objects.Comment object at 0x00000000060275F8>, <praw.objects.Comment object at 0x0000000006027780>, <praw.objects.Comment object at 0x0000000006027908>, <praw.objects.Comment object at 0x0000000006027A90>, <praw.objects.Comment object at 0x0000000006027C18>, <praw.objects.Comment object at 0x0000000006027DA0>, <praw.objects.Comment object at 0x0000000006027F28>, <praw.objects.Comment object at 0x00000000060390F0>, <praw.objects.Comment object at 0x0000000006039278>, <praw.objects.Comment object at 0x0000000004877E80>, <praw.objects.Comment object at 0x00000000049585C0>, <praw.objects.Comment object at 0x00000000049585F8>, <praw.objects.Comment object at 0x0000000004958AC8>, <praw.objects.Comment object at 0x00000000049587F0>, <praw.objects.Comment object at 0x0000000004958E10>, <praw.objects.Comment object at 0x0000000004958B00>, <praw.objects.Comment object at 0x00000000060394A8>, <praw.objects.Comment object at 0x00000000060395F8>, <praw.objects.Comment object at 0x0000000004DB76A0>, <praw.objects.Comment object at 0x0000000006039828>, <praw.objects.Comment object at 0x0000000006039978>, <praw.objects.Comment object at 0x0000000006039AC8>, <praw.objects.Comment object at 0x0000000006039C18>, <praw.objects.Comment object at 0x0000000006039D68>, <praw.objects.Comment object at 0x0000000006039EB8>, <praw.objects.Comment object at 0x0000000006039FD0>, <praw.objects.Comment object at 0x00000000060DF0F0>, <praw.objects.Comment object at 0x00000000060DF1D0>, <praw.objects.Comment object at 0x00000000060DF2B0>, <praw.objects.Comment object at 0x00000000060DF390>, <praw.objects.Comment object at 0x00000000060DF470>, <praw.objects.Comment object at 0x0000000004966F28>, <praw.objects.Comment object at 0x00000000060DF5C0>, <praw.objects.Comment object at 0x00000000060DF710>, <praw.objects.Comment object at 0x00000000060DF7F0>, <praw.objects.Comment object at 0x00000000060DF8D0>, <praw.objects.Comment object at 0x00000000060DF9E8>, <praw.objects.Comment object at 0x00000000060DFAC8>, <praw.objects.Comment object at 0x00000000060DFBA8>, <praw.objects.Comment object at 0x00000000060DFC88>, <praw.objects.Comment object at 0x00000000060DFD68>, <praw.objects.Comment object at 0x00000000060DFE48>, <praw.objects.Comment object at 0x00000000060DFF98>, <praw.objects.Comment object at 0x00000000060F20B8>, <praw.objects.Comment object at 0x00000000060F2198>, <praw.objects.Comment object at 0x00000000060F2278>, <praw.objects.Comment object at 0x00000000060F2358>, <praw.objects.Comment object at 0x00000000060F2438>, <praw.objects.Comment object at 0x00000000060F2518>, <praw.objects.Comment object at 0x00000000060F25F8>, <praw.objects.Comment object at 0x00000000060F2710>, <praw.objects.Comment object at 0x00000000060FD0F0>, <praw.objects.Comment object at 0x00000000060FD1D0>, <praw.objects.Comment object at 0x00000000060FD2B0>, <praw.objects.Comment object at 0x00000000060FD390>, <praw.objects.Comment object at 0x00000000060FD470>, <praw.objects.Comment object at 0x00000000060FD550>, <praw.objects.Comment object at 0x00000000060FD630>, <praw.objects.Comment object at 0x00000000060FD710>, <praw.objects.Comment object at 0x00000000060FD7F0>, <praw.objects.Comment object at 0x00000000060FD8D0>, <praw.objects.Comment object at 0x00000000060FD9B0>, <praw.objects.Comment object at 0x00000000060FDA90>, <praw.objects.Comment object at 0x00000000060FDB70>, <praw.objects.Comment object at 0x00000000060FDC50>, <praw.objects.Comment object at 0x00000000060FDD30>, <praw.objects.Comment object at 0x00000000060FDE10>, <praw.objects.Comment object at 0x00000000060FDF28>, <praw.objects.Comment object at 0x000000000610C048>, <praw.objects.Comment object at 0x000000000610C128>, <praw.objects.Comment object at 0x0000000005D7E320>, <praw.objects.Comment object at 0x0000000005CE6898>, <praw.objects.Comment object at 0x00000000049DB668>, <praw.objects.Comment object at 0x00000000049DB748>, <praw.objects.Comment object at 0x00000000049DB550>, <praw.objects.Comment object at 0x00000000049DB5F8>, <praw.objects.Comment object at 0x00000000049DB860>, <praw.objects.Comment object at 0x00000000049DB9B0>, <praw.objects.Comment object at 0x00000000049DB588>, <praw.objects.Comment object at 0x00000000049DBB38>, <praw.objects.Comment object at 0x00000000049DBC50>, <praw.objects.Comment object at 0x00000000049DBB70>, <praw.objects.Comment object at 0x000000000610C320>, <praw.objects.Comment object at 0x000000000610C400>, <praw.objects.Comment object at 0x000000000610C4E0>, <praw.objects.Comment object at 0x000000000610C5C0>, <praw.objects.Comment object at 0x000000000610C668>, <praw.objects.Comment object at 0x000000000610C748>, <praw.objects.Comment object at 0x000000000610C828>, <praw.objects.Comment object at 0x0000000005DF0AC8>, <praw.objects.Comment object at 0x000000000610C9B0>, <praw.objects.Comment object at 0x000000000610CAC8>, <praw.objects.Comment object at 0x000000000610CBA8>, <praw.objects.Comment object at 0x000000000610CC88>, <praw.objects.Comment object at 0x000000000610CD30>, <praw.objects.Comment object at 0x000000000610CE10>, <praw.objects.Comment object at 0x000000000610CEF0>, <praw.objects.Comment object at 0x000000000610CFD0>, <praw.objects.Comment object at 0x000000000612F0F0>, <praw.objects.Comment object at 0x000000000612F1D0>, <praw.objects.Comment object at 0x000000000612F2B0>, <praw.objects.Comment object at 0x000000000612F390>, <praw.objects.Comment object at 0x000000000612F470>, <praw.objects.Comment object at 0x000000000612F5C0>, <praw.objects.Comment object at 0x000000000612F6A0>, <praw.objects.Comment object at 0x000000000612F780>, <praw.objects.Comment object at 0x000000000612F860>, <praw.objects.Comment object at 0x0000000004ADEAC8>, <praw.objects.Comment object at 0x000000000612F978>, <praw.objects.Comment object at 0x000000000612FAC8>, <praw.objects.Comment object at 0x000000000612FB70>, <praw.objects.Comment object at 0x000000000612FC50>, <praw.objects.Comment object at 0x000000000612FCF8>, <praw.objects.Comment object at 0x000000000612FDD8>, <praw.objects.Comment object at 0x000000000612FEB8>, <praw.objects.Comment object at 0x000000000612FF98>, <praw.objects.Comment object at 0x00000000061430B8>, <praw.objects.Comment object at 0x0000000006143198>, <praw.objects.Comment object at 0x0000000006143278>, <praw.objects.Comment object at 0x0000000006143358>, <praw.objects.Comment object at 0x0000000006143438>, <praw.objects.Comment object at 0x00000000050255C0>, <praw.objects.Comment object at 0x0000000006143550>, <praw.objects.Comment object at 0x00000000061436A0>, <praw.objects.Comment object at 0x0000000006143780>, <praw.objects.Comment object at 0x0000000006143860>, <praw.objects.Comment object at 0x0000000006143940>, <praw.objects.Comment object at 0x0000000006143A20>, <praw.objects.Comment object at 0x0000000006143B00>, <praw.objects.Comment object at 0x0000000006143BE0>, <praw.objects.Comment object at 0x0000000006143CC0>, <praw.objects.Comment object at 0x0000000006143DA0>, <praw.objects.Comment object at 0x0000000006143EF0>, <praw.objects.Comment object at 0x0000000006143FD0>, <praw.objects.Comment object at 0x00000000061530F0>, <praw.objects.Comment object at 0x00000000061531D0>, <praw.objects.Comment object at 0x00000000061532B0>, <praw.objects.Comment object at 0x0000000006153390>, <praw.objects.Comment object at 0x0000000006153470>, <praw.objects.Comment object at 0x0000000005ECF4A8>, <praw.objects.Comment object at 0x0000000006153668>, <praw.objects.Comment object at 0x00000000061537B8>, <praw.objects.Comment object at 0x0000000006153898>, <praw.objects.Comment object at 0x00000000061539E8>, <praw.objects.Comment object at 0x0000000006153B00>, <praw.objects.Comment object at 0x0000000006153C50>, <praw.objects.Comment object at 0x0000000006153DA0>, <praw.objects.Comment object at 0x0000000006153EB8>, <praw.objects.Comment object at 0x00000000061EE048>, <praw.objects.Comment object at 0x00000000061EE198>, <praw.objects.Comment object at 0x0000000005ED9C18>, <praw.objects.Comment object at 0x00000000061EE390>, <praw.objects.Comment object at 0x00000000061EE518>, <praw.objects.Comment object at 0x00000000061EE668>, <praw.objects.Comment object at 0x00000000061EE710>, <praw.objects.Comment object at 0x00000000061EE7F0>, <praw.objects.Comment object at 0x00000000061EE8D0>, <praw.objects.Comment object at 0x00000000061EE9E8>, <praw.objects.Comment object at 0x00000000061EEAC8>, <praw.objects.Comment object at 0x00000000061EEBA8>, <praw.objects.Comment object at 0x00000000061EED30>, <praw.objects.Comment object at 0x00000000061EEE80>, <praw.objects.Comment object at 0x00000000061EEF60>, <praw.objects.Comment object at 0x0000000006205080>, <praw.objects.Comment object at 0x0000000006205198>, <praw.objects.Comment object at 0x0000000006205B38>, <praw.objects.Comment object at 0x0000000006205C18>, <praw.objects.Comment object at 0x0000000006205D30>, <praw.objects.Comment object at 0x0000000006205E10>, <praw.objects.Comment object at 0x0000000006205F28>, <praw.objects.Comment object at 0x00000000062120B8>, <praw.objects.Comment object at 0x0000000006212208>, <praw.objects.Comment object at 0x0000000006212358>, <praw.objects.Comment object at 0x00000000062124A8>, <praw.objects.Comment object at 0x00000000062125F8>, <praw.objects.Comment object at 0x0000000006212748>, <praw.objects.Comment object at 0x0000000005EF73C8>, <praw.objects.Comment object at 0x00000000062129B0>, <praw.objects.Comment object at 0x0000000006212B00>, <praw.objects.Comment object at 0x0000000006212C50>, <praw.objects.Comment object at 0x0000000006212DA0>, <praw.objects.Comment object at 0x0000000006212EF0>, <praw.objects.Comment object at 0x000000000626E080>, <praw.objects.Comment object at 0x000000000626E1D0>, <praw.objects.Comment object at 0x000000000626E320>, <praw.objects.Comment object at 0x000000000626E4A8>, <praw.objects.Comment object at 0x000000000448A198>, <praw.objects.Comment object at 0x0000000005FA0400>, <praw.objects.Comment object at 0x0000000005FA0710>, <praw.objects.Comment object at 0x0000000005FA05F8>, <praw.objects.Comment object at 0x0000000005FA0A58>, <praw.objects.Comment object at 0x0000000005FA0AC8>, <praw.objects.Comment object at 0x0000000005FA0B70>, <praw.objects.Comment object at 0x0000000005FA0C18>, <praw.objects.Comment object at 0x000000000626E5C0>, <praw.objects.Comment object at 0x000000000626E780>]
+Ready for battle! Let them have it!
+me up sign
+Did i ever sign up?
+Sign me up, baby! 
+Put me in coach!
+[deleted]
+Can you spare a space for your favorite Red?
+I wonder if I'll break it again because I'm an OR...
+Cadet Ugli reporting for doody.
+AFFIRMATIVE. AS DESIRED, USER PERIWINKLE_PRIME_3 HAS BEEN ENTERED INTO THE CO...
+Ready to deploy the Lennies.
+Let's go. I'm here.
+battle notification system activate user kaiyotic please..... please..... pre...
+Sign me up!
+The Red Star reporting for duty, sir!
+Hi.
+[deleted]
+I'm looking forward!
+Potato_gunman3
+Poop
+[deleted]
+BAOMN
+CMD:\ >INITIALIZE COMMUNICATION CHANNELS
+
+i'm in, gotta kick some orangered ass.
+..
+and MY AXE!
+gib peri
+PrincessButternubs
+;)
+Can I be signed up? 
+[deleted]
+Sign me up! 
+zeroabomination, REPORTING FOR DUTY
+Sign me up!
+Hello fellow periwinkles!
+Can I join in on hating people because of their color???
+Tatertot10
+Ready for battle captain.
+:o
+lets do this
+
+o
+I'll join in the battle again. Better Dead than OrangeRed.
+Sign me up
+Welp, why the hell not?
+TCsnowdream, reporting for either snow or dream based combat!
+Put me on the list!
+Sign me up baby
+
+yerp
+I'm ready
+Reddit Mail!
+In
+i think i'm in, anyway, better dead than orangered!
+[deleted]
+bring it on
+I'll sign up
+
+[deleted]
+[deleted]
+Mfupi is here to battle for Periwinkle!
+[deleted]
+woo hoo!
+[deleted]
+ChiefKickingAss
+All hail Periwinkelism!
+Zippity Zop, Zippity Zop
+Let me fight for you!
+P3n15 Reporting in!
+Orangered is a stupid color.
+LETS GOO
+    ------------------------------------------------------------
+    ===== PE...
+:P
+Reporting for duty, sir.
+Wait, what?
+
+I hadn't participated in the war long ago, so I have no idea wha...
+#Attempting Signup  
+
+`Initiate signup protocol`  
+Signup protocol initiated,...
+I'm ready!
+
+To be prepared for war is one of the most effective means of preserving peace...
+Let me serve you my lord.
+I'm down
+Reporting for duty!
+Initiate radio contact
+Yes Sir!
+Sign me up! *too late*
+Sign me up!
+i'm ready for freddy
+FOR KATYA 
+[deleted]
+Alright, sign me up! MissRayRay reporting for duty.
+Reporting for duty.
+I'M READY!
+Sign me up, commander!
+Well, I *guess* I could sign up. I've never been a fan of Orangered anyhow.
+
+What if i am the both and the niether?
+
+The Fabled Perired.
+
+The one to find ...
+Sign me up
+Sign me up
+Down with Orange and all Orange related things!
+
+Sign me up, Commander!
+Beam me up.
+/u/Actual_EagleZ504
+
+New to this, so need help if possible
+sign me up
+PanzerFauzt
+Alert me please!!! 
+Sign me up!!
+Reporting for battle!
+*wanders in aimlessly*
+
+ Is this where I sign up to be alerted of upcoming ba...
+It'd be a shame to miss this too.!
+ayyyy
+Because you won't find the answers in your fancy overpriced college textbooks...
+mew
+Boredom_rage
+
+I'm down.
+I guess sign me up.
+Entered.
+call me in
+Onward to **victory**!!!!!!
+Woot woot.
+Ready for battle
+New Captain Reporting!
+here
+
+YEEEEEEEEEEEEEEEEEHAWWWWWWWW SIGN ME UP HOSS!
+Where do i start
+
+[deleted]
+Sign me up for this battle!
+noot noot
+ALRIGHT LETS GO
+If its not too late, sign me up!
+
+C2ke
+k
+Sign me up Scotty ! 
+I am here for some nice memes!
+/u/Cometbringer Sign me up
+Sign me up!
+sign me up
+PICKLE
+[deleted]
+i want in....
+Yo!
+[deleted]
+*Cracks knuckles
+
+Let's get goin'
+Sign me up, botty.
+I want to join
+Deffenitly joining this team. Sign me up! 
+Sign me up.
+I wanna join too
+Too late to join the fight? I'm down if there is fighting to be done. 
+Get me in the loop plz.
+le will spy
+newb coming through
+I'd be willing to help, but I may need some assistance with how to carry out ...
+I'm new!^sign^me^in^pls 
+
+:O
+stillnotdecatron22
+Potato_gunman3
+GIMME THEM NOTIFICATIONS
+Rather be dead
+Ready to signup
+Onwards and sideways!
+Sign me up, I guess?
+My passion for periwinkle is palpable!
+Sign me right the fuck up
+Am I late? I wish to join the ranks.
+Sign me up
+Yes, please.
+hi
+LETs GO
+Hope this works 
+woo
+[deleted]
+Sign me up! For Periwinkle! 
+[deleted]
+ready to rumble !
+Ready
+Let's take down the bastards ! Deca03
+The third Prime's the charm!
+Is it too late? If not, I'm in.
+Sign me up
+LEEEEEEEEROYYYY
+I hope I'm not too late. Sign me up, Sir!
+Love you Prime! Sign me up!
+Ready !
+*chickenscratch handwriting that appears to be the name "AlphaMaelstrom"*
+Lets do this
+Dun dun dun
+Hue.
+Sign me up
+
+
+
+
+Sign  me up 
+Sign me up!
+I WILL STAND AGAINST THE ORANGERED
+Aye aye cap'n!
+Here I be.
+Ready for Battle Sir
+
+Add me!
+yoo hoo
+[deleted]
+Bazinga.
+Sign me up!
+[deleted]
+Gib Plz
+T_MASTER
+Sign me up!
+Are sign ups still open?
+here to serve,  sign me up!
+his name is my name too.....
+Sign me in
+Let's kick some Orange ass!
+Dan K'memes
+Ready to fight
+Sign me up
+michaelsusernamee
+VindictiveBeluga
+sign me up
+I don't see why not.  Consider me periwinkled. 
+Okay then
+count me in
+sign up for alerts please
+Ready for battle.
+sign me up
+I have trained myself for this moment all in...Let's do this. Death to the en...
+sign me up lad
+~~`$ python`  
+`>>> from chroma import periwinkle_members`  
+`>>> periwinkle_...
+Heyo 
+Nnooooo
+Let me battle, mr. /u/Periwinkle_Prime_3 sir!
+boop
+coffeemetalandbone
+Do not sign me up! I repeat, do not sign me up!
+Damn I missed a war? Sign me up!
+Whee
+Greetings
+[deleted]
+New recruit!
+...reporting?
+Sign me up, please.
+Sup.
+woot!  sign me up
+In.
+Sign me up.
+[deleted]
+Wtf, when did this start again? I need to report for duty
+ready for battle!
+I'm in, let's do this.
+[deleted]
+👱🏿🍉👱🏿👱🏿👸🏻🔫👱🏿🔫👱🏿👱🏿
+👱🏿👱🏿🍉👱🏿🔫👱🏿🔫👱🏿🔫👱🏿
+Great googily moogily!
+Sign me up, please.
+Bring the pain
+Subspace_Lani
+Signn me up
+SIGN ME UP
+reporting for duty
+Sign me up? :v
+Better late than never. Sign me in
+I want in!
+Sign me!
+[deleted]
+Maaaaaaaaaate
+Yo, count me in.
+
+Sign me up.
+I'm in!
+Sign. Me. Up. 
+I'm up for it!
+Honk.
+Sign me up!
+Sup.
+gib signup pls
+Why should I join team Periwinkle? Why not Orangered? I'm new to this battle ...
+More like persihwrinkle :(
+Peri my winkle!
+[deleted]
+True that
+Count me in 
+I want in! LET'S DO THISSS!
+I was going to join orangered but the defect command isn't working so sign me...
+penis.
+Oh man, I'm so lost.  I tried reading the wiki but I must be dumb.  Can I get...
+I am Señor Periwinkle. Bow before me orange scum. 
+add me
+LeNewArc
+Sign me up
+
+SIR, I BELIEVE JOINING THE CORPS WILL HELP ME STRAIGHTEN OUT MY LIFE SIR!
+SIG...
+Well if you are still accepting sign ups then sign me up!
+Sign me up!
+JUST do it!
+butts
+Much excite
+Mitemaximus, reporting in. Now posting poorly worded jokes under our glorious...
+Do I need to re-sign?
+I hereby pledge my allegiance to the Periwinkle Empire, the one and only true...
+I'll make them see orangered as I burn their cities to the ground! Sign me up...
+Sign Me up
+ayy lmao
+yeeeeaaaa!
+Sign me up!
+/u/cynical 
+
+ captain  Cote d'Azur (which looks like front lines to me unless...
+oye!
+Reporting for duty, Sir!
+The battlefield calls to me! I must soak the ground in Orangered!
+I demand the blood of my enemies.
+Sign me up!
+Database Database
+I volunteer as tribute!!
+Brennan: I know we started out as foe, but after that courageous act you show...
+Id like to sign up for my cakeday
+Periwinkle_Prime was better, that bot was fresh as all fucking get out
+Neato
+Yo prime, I'm behind on my anal probing quota. Gimme a check-up!
+Get me in this!
+It would be an honor to fight with you
+Me me me me!
+Reporting for duty to kick some orangered ass, sir!
+better Dead than Orangered
+Add me!
+[deleted]
+Lego
+LinearBanana
+Am I too late?
+Fuzzymentalist
+Reporting as ordered
+
+sign me up please
+I *am* terribly partial to the periwinkle blue
+.
+go go go
+sign me up so we can sqeez the juce out of them and make them into lemonaid
+Cool, sign me up.
+Lets get those orangered scum.
+I'm here to volunteer!
+
+leggo plox
+I'll be up for it
+Sign me up
+Yay Prime!
+[deleted]
+i will fight for glory
+ayye lmao
+;)
+Sign me up!
+I missed the first one, don't want to miss this one.
+sign me up!
+Sounds good to me!
+Give Polygon a Polygun, amirite?
+[deleted]
+I'd like to serve my kingdom!
+Better dead than Orangered!
+DEATH TO ORANGERED SCUM
+Let's do this !
+Add me
+Sign me up!
+[deleted]
+Sign me up! :D
+alrighty
+Let's do it!
+Get me on that list, Prime.
+Kep700
+hey
+I WANNA BE PERIWINKLE! 4 DA PERI!!!!!!!!!!!!!
+Sign me up
+spacebar
+Oh nice! S3 here we go!
+Destro71
+[deleted]
+is it on already or am i late for the party?
+Reporting to volunteer. 
+sign me the fuck up
+MoonKnightSpidey
+Sign me up!
+sign me up
+[deleted]
+[deleted]
+ready to battle, fellow periwinkles!
+redhedge47 -_-7
+yus
+holla
+Ahoy!!
+Alert me as appropriate.
+
+Maybe if I sign up, I'll participate in the battle after this one...
+coolio
+:3
+Sign me up
+What is thy bidding my master?
+We march forward for freedom. And pot legalization. 
+2K is in da house!
+Oooh! Oooh! Me five!
+Leering
+Hi
+Sign me up!
+Yaas
+=)
+lets go
+add me primebot :D
+potasium
+Woo wooo
+Sheepdog, Reporting for duty
+Um... So what is this? It sounds kind of interesting.
+Can i join?
+Sign up k thanks.
+Let's go!
+Ayy lmao
+corprwhs
+I'm in!
+If you reply in the format of "AFFIRMATIVE. AS DESIRED, USER _____ HAS BEEN E...
+count me in
+
+Sign me up. Gotta kick me some orange!
+     if  (variable.RegisteredUserList ["cdos93"]=false)
+     {   
+          a...
+Hi
+hmmm
+Sign me up!
+Lets go kick some Orangered ass!
+Suited up and ready to fly!
+Toppest of keks. i shall join the periwinks
+Rob, top five musical crimes perpetuated by Stevie Wonder in the ’80s and ’90...
+I will fight!
+I have no clue what I'm doing!
+Hail Periwinkle!
+I am ready for battle
+Keep me informed.
+Sign me up yo :3
+Sign me up yo
+Our victory will be an act of justice.
+Ready for duty, sign me up!
+Fresh meat, ready and willing. 
+Ready for battle!
+[deleted]
+sign me up!
+
+I must be signed up immediately!
+[deleted]
+Let's do this!
+I hope this is still on.
+I will fight with you brothers.
+Is this a bot or an extremely dedicated person?
+<secure_communication>
+
+Designated Recipient: u/Periwinkle_Prime_3
+
+Encrypted...
+Better dead than orangered!
+sign me up yo!
+Count me in
+woot
+sign me up!
+For glory!
+sign me up baby. We're going to war
+Herro sign me up
+AnimalLover162
+Sign me up!
+all hail periwinkle
+
+    return true;
+meeeeeeowwwwwwww~
+so what is all this?
+
+[deleted]
+Enlist me cap'n! I want to feel the blood of the oranger scum against my steel! 
+Oooo pick me! Pick me!
+Ready for battle!
+Sign me up!
+i'm comin' for that booty
+here?
+Cannon Fodder ready to go
+[deleted]
+Why not lel
+
+[deleted]
+Hi
+shadowblade232
+Whoop doop
+liavt
+
+Reporting
+Sign me up.
+HELL YEAH
+ay lmao
+...
+bang bang lets do this.
+I'll be ever ready.
+boop
+U/-dudeomfgstfux-
+Nah
+Glory to periwinkle
+
+Sign me up!
+Let the indoctrination begin... I'm in.. 
+ProgrammerinDistress is ready to do his duty SIR!
+Never give up, never surrender
+"Better dead than orangered" 
+Hello!
+I guess I should probably do the thing.
+First fight!
+punkpixz
+[deleted]
+Sign up
+[deleted]
+Orangered should go down! Sign me up.
+Let's Barack n' roll baby!
+\_BindersFullOfWomen\_
+count me in :D
+Can I join the party too?
+I may be late, but Periwinkle through and through.
+
+We ride together, we die ...
+**༼ つ ◕_◕ ༽つ PRAISE PRIME ༼ つ ◕_◕ ༽つ**
+Sign me up! 
+[deleted]
+Reporting for duty!
+let the games begin 
+Glory to Periwinkle! Sign me up!
+Here we go!
+I'm in.
+Ready!
+Let's do this!
+I accept myself into your ranks. 
+Death to Orangered!
+Hullo
+
+Periwinkle HOOOOO!
+Sign me up for the fight captain!
+Sign me up
+I'm in, sign me up
+ready
+The 3mpress0fHell, signing up.
+Down with the orange~~soda~~red
+My body is ready.
+Is it too late to sign up?
+awesome!
+[deleted]
+We are Periwinkle!
+
+We rest on the legacy of Sparta! 
+
+We are as mighty as th...
+SIGN ME UP
+For honor and glory!
+
+Gimme the PM's!
+Yes please.
+Signing up!
+Sign meeeeee
+Yes please.
+Sign me up!! Got to wink(le) 'em all!!
+Let's roll
+SIGN UP
+Join
+Standing by.
+Sign up
+Sign up please!
+Better dead than orangered!
+I'm ready
+Sign me up!
+FOR VICTORY! I'm in.
+Lemme at em!
+I'm in.
+I'm in
+Capt Oscinian here, reporting for duty!
+Sign me up!
+:D
+sushiyummy32
+BETTER DEAD THAN ORANGERED!
+im joining periwinkle master race
+All hail Periwinkle
+Ready for fight!
+cocked, locked and ready roll.
+zekrom3112
+Hell yeah put me down for some action!
+So I can put anything here and other redditors can read it?
+Bring it on! True Periwinkler reporting for duty! 
+hi
+Sign me up
+Lets do it.
+.
+Beter dead than Orangered!
+Sign me up
+better dead than orange-red
+Raiders roll.
+I am willing to give my account to the cause! Sign me up!
+Lets do this!
+Reporting for duty Sir!
+:D
+heyo
+teeeeen hut
+Sir Yes Sir! Jekisterm ready for war sir!
+Reporting for duty
+[deleted]
+sign me up!
+Let's do this.
+
+Sign Me Up!!
+Stop_Wastin_Time here, ready to waste all of the time I have. 
+Sign me up!
+[deleted]
+Hail Periwinkle!
+Sign me up!
+Sign me up!
+My body is ready!!!
+yes please
+
+[deleted]
+mostafa_hanafi
+Raichu reporting for battle.
+reporting for battle.
+I'd like to sign up :)
+I have little to no idea whats going on...
+Me me pick me!! <3
+hail hydra i mean periwinkle
+[deleted]
+breh lets get it
+reporting for duty!
+BonsaiKaya
+[deleted]
+Sign me up please
+SamS834! LOUD NOISES!
+Better Wiped than Striped!
+EVERYONE GET IN HERE
+...
+uid:> tgage
+My body is willing
+let's do ittttt
+Let the games begin!
+Captain, here I am!
+
+This is a generic comment. 
+I would like to sign up!
+whoop
+
+Load Me up!
+Let me fight until the end!!!!
+what's up
+I guess you can sign me up....
+:)
+ArtificialSanity reporting for duty.
+[deleted]
+sign me up!
+[deleted]
+Still have no idea what this is, and at this point...
+Fluffy39039
+I'm here for the glory of Periwinkle!!
+[deleted]
+Poke
+Sign me up. I saw the ad, was curious and I like the color periwinkle.
+Yes, please!
+Hi hi sign me up 
+Yay! Just joined up, sign me up for this. 
+I'm all periwinkle sign me up!
+[deleted]
+Better dead than orangered!
+[deleted]
+as long as those oranges go down
+xxReptilexx5724
+Get rekt 
+Reporting for duty!
+lets fuckin go!
+yes fam
+Lets do this!
+Let me now where I should march !
+Er, new to this, not sure how it works... sign me up, I guess?
+Er, new to this, not sure how it works... sign me up, I guess?
+Hi
+[deleted]
+I'm game!
+[deleted]
+sign me up
+
+Woot woot
+Yeah!
+WHOOHOOOO! Kill dem orangereds good!
+Put me in coach
+READY CAPTAIN
+Sign me up
+
+Sign me up!
+[deleted]
+I'll join in.
+I'm IN!!!!
+I wanted to be on Gryfindor :(
+SCP 678 please, marvin.
+
+So I just type sumn?
+meep
+Count me in!
+Sign me up man. Im ready for war
+gg
+[deleted]
+swag
+Sign me up!
+Hello
+Alert.
+[deleted]
+[deleted]
+I accidentally deleted mine.
+yeeeeaah
+
+Sign me up
+Is it too late to sign up?
+
+Sign me!!
+Sign me!!
+Sign me up
+Sign me up! :)
+epique
+paddywagon123
+Yeap !
+[deleted]
+He'll y3ah!
+I AM READY BROTHERS
+For honour.
+Sweet I'm Down!!
+o
+Sing me up!
+sign me up baby ;)))
+Sign me up, I guess.
+/u/DreadedBread reporting for duty!
+sign me up! :)
+Did I miss it? Sign me up
+eyyyy bb sign me up
+sign me up
+Let's Go!
+For the Greater Good Of the High Lords Periwinkle
+Reporting for duty!
+SIGN ME UP!
+sign me up pls!
+Alright, reporting for duty.
+I'm ready
+Peer pressure
+Sign me up!
+let me in let me in!
+Sign me up!
+
+i'm in!
+give me a pm!
+heebhob
+sign me up let's do this
+Sign me up! *battle cry*
+Sure why not
+I need to know what is happening bot!
+Sign me up :)
+I'm doing my part!
+Sign me up
+Valhalla here I come.
+For Karma! Sign me up!
+I'm in
+Better dead than orangered!
+kelemonopy reporting
+I pledge my undying support to the cause
+Sign me up 
+Sign me up! Im in this Battle!
+[deleted]
+Sign me up
+Please sign me up!
+
+Sign me up!
+Let's do this!
+Sign me up, Sir
+We must crush the orangered tyranny! It may or may not have taken me more the...
+Let's go for it!
+Sign me up!
+Sign me up
+
+sing me up
+
+I'd like to enlist, thanks.
+im ready for battle
+Misterme7
+Sign me up SIR!
+User Eindracon12 reporting for sign up!
+Captain Eriru Reporting.
+
+:D
+throw me in coach
+sign me mmmk
+...sign me up?
+Sure I'll join...
+Am I too late to sign up?
+Alright chaps, let's give those ambiguously shaded devils something to think ...
+Orange is bad
+Sign me up!
+Sign me up!
+
+sign me up please!
+sign me up
+Sign me up as well.
+SIGN ME UP
+my periwinkle sword is yours
+Time to commit murder
+Let's go!
+Sign me up 
+J0V1K
+Sign me up
+sign me up
+
+@_@
+...
+woot! We shall kill!
+Sign me up!
+Ready for battle, sir!
+woo
+CRUSH THE ORANGRED SCUM! REGESTER ME, BOT!
+
+Sign me u^u^^u^^^u^^^^p ^^^^motherfucker
+I'm in
+
+SIGN ME UP
+
+Sign me up!
+Enlist me for the legendary combat that is the grande war.
+Just saw the Reddit ad. This is still a thing?
+
+This site never disappoints.
+pls
+Sign me up
+PERIWINKLE TO VICTORY!!!
+Ayy sign me up, I think I might be late to the party.
+Sign me
+Ready to roll
+aaand pm me
+Au rapport!
+count me in!
+Reporting for duty
+I'm ready
+.
+In in. 
+Reporting for duty sir
+Captain QuantumGautics Ready for action
+hello
+Yes please
+
+I'm ready to fight!
+dipt743
+Captain S. Marty Pants reporting for duty
+[deleted]
+IM IN!!!
+Ready to serve.
+
+Sing me up! For glory!
+Better dead than Orangered!
+beckyphebe
+Ready and willing =)
+Beep boop
+[deleted]
+Count me in!
+:)
+NotPatrickStar
+doot doot
+My sword is ready and I stand prepared to destroy the enemy 
+Woop!
+NinjaNacho99 is here, and sign me up!
+Yay
+Hit me up sex people
+bring me in coach
+Unidanx
+hmmmm
+sign me up
+SIGN ME UP! PERIWINKLE FOR LIFE!
+I would like to sign up, as well as know why it says alert you twice in a row. 
+Reads for dem dank battle PMs doe.
+
+Sign me uuuup?~
+[deleted]
+sign me up
+To victory! 
+Hi
+SIGN ME UP!!!!!!
+
+NotPatrickStar
+I was team Periwinkle last time but with ALL DUE RESPECT fuck those guys, I'v...
+Sign me up
+Maffers
+
+Sign me up!
+gradientByte
+I'm in!
+
+Trixsam :)
+Sign me up!
+Mc_chiver
+Burrito42
+Count me in
+I will fight.
+Good day. I AM READY. PERIWINKLE SHALL RISE.
+Sign me up
+I am ready to fight on the Periwinkle side yet again this year!
+
+Sign me up
+ok
+Reporting for duty
+woo! 
+Hola
+Here
+I'm here to put down some orangereds. Just say the word.
+USER /U/LEGITXHELIOS, REPORTING FOR TEAM PERIWINKLE.
+TheDuffmaster ready, willing and able
+put me in coach, i'm ready to fight, today
+give me the updates
+[deleted]
+Put me in coach!
+/u/The_Average_Hero HERE, REPORTING FOR DUTY SIR!
+bobsbrain, sign me up
+YES OK PLEASE :BOSSYCARL:
+Sign me up!
+What the heck.  Hit me.
+Captain GiantDwarf01 reporting for duty!
+Let's doooo it
+Yes, sign this badboy up.
+[deleted]
+let's do this
+Can I join?
+huh
+Berniie, ready for action!
+I'm in !
+I'M READY!
+sign me up!
+SgtBossSauce, ready for action! o7
+Give me Liberty or.......whatever I'm in.
+Sign me up 
+I'm in!
+oh yes
+: ) plz enter me
+
+BETTER DEAD THAN ORANGERED 
+Periwinkles will ALWAYS fight for liberty
+sosumi reporting for duty.
+Sign me up, yo!
+Sign me up!
+Sign me up
+I dont know whats going on but theres never been a war I would fight for the ...
+Reporting for duty!
+Sign me up. 
+Reporting for Duty!
+Aye aye cappin!
+Your Name
+Me pls daddy.
+Shit yeah!
+
+Let's go!
+>:)
+I'm in
+
+For glory
+Hmu son
+\>:)
+Onward!
+Here we go!
+What is this subreddit? can someone explain
+
+Those orangered sheep shall know the sting of my claws and the bite of my jaws!
+Do you even lift?
+:)
+o/
+Ok
+ok, me.
+Retrieved Majors
+['Phyki', 'drpestilence', 'notaverysmartdog', 'ChiefKickingAss', 'MaxTheHedgehog', 'TheSheepdog', 'None', 'beefstick86', 'toastghost77', 'I_am_sorrow', 'hapticdash', 'chriscoded', 'nataliaspeaks', 'Its_no_use', 'kism3', 'aventedor', 'Your_redhead_fantasy', 'ale_mayo_', 'minibabybuu', 'raptorbark', 'Soramke', 'Gudic', 'anelephantsatonpaul', 'arky527', 'Necrotos', 'OrbitalFacePalm9001', 'BrandonFlandon', 'poopsmith1976', 'Captain_Krumen', 'uglinessman', 'DanoLostTheGame', 'SirMonocleMaster', 'Andrewski2000', 'Porkthepie', 'Cookie_Bagles', 'JoeliVidiri', 'CoffeeMetalandBone', 'TheAllStarrBand', 'maxthethrax', 'Subspace_Lani', 'liavt', 'fcdjr', 'salel', 'bluejv', 'Remnance627', 'newhoza', 'AnOriginailName', 'vindictivebeluga', 'TheEaterOfFood', 'pigenharbolde', 'LeglessParrot', 'Shats299', 'Boredom_rage', 'LadySunset', 'netizenbane', 'Texassippian', 'regular_author', 'Mop6229', 'orionpsg1', 'dorzac', 'JayRizzo03', 'XiiCubed', 'LardDude', 'redis213', 'Zackman558', 'Potato_Gunman3', 'xombieCHRIST', 'RedDire', 'PanzerFauzt', 'quixoticquail', 'Zombiiies', 'masman99', 'OneSidedPolygon', 'Teh_Bukkit', 'GuyWithPasta', 'Cirota', 'TheDoubleY', 'XGX787', 'ConcedeDota', 'Powse', 'HamandPotatoes', 'suspendedfromthemoon', 'theninjat', 'Outraged_Piggy', 'Vulcan_domino', 'DBCrumpets', 'jbetx', 'DenebVegaAltair', 'kanapka123', 'LeNewArc', 'redhedge47', 'Alatar_the_Blue', 'zeeman928', 'TomGfromCanada', 'a59a', 'xX4rcherXx', 'OnlyCoops', 'double_whiskey', 'EXTSZombiemaster', 'Dsvkb', 'dannyolo', 'AlphaTitanium', 'buffetboy88', 'RockHard_Jesus', 'TheOriginalOnii-Chan', 'IlIIlIIlIIlIllIlIIlI', 'HumbleStache', 'superdude14862', 'SakuraM1011', 'pooticus', 'TheRoseOfSolidarity', 'Faroreswind127', '-Flex-', 'Actual_EagleZ504', 'williamsonmaxwell', 'Ithinkiplaygames', 'Alphanerd2', 'Sgt_Fry', 'punkpixz', 'Sugoy', 'Keundrum', 'Lucario117', 'tanya_tacoxo', 'carj04', 'DarthCunnilingus9', 'tkcomune123', 'oh_livre', 'BobSagetOoosh', 'axslayer33', 'Oh-u-so-random', 'buntingsnook', 'ApocalypticScholar21', 'Trenchant_Chemist', 'TheZippy49', 'Mandymandyman', 'Talacky', 'So_many_mails', 'Vrango', 'Kenooi', 'Makispi', 'VenomC', 'SpoonerSpork', 'Schrammwow', 'fossett_work', 'Tigerfluff23', 'jen_wexxx', 'Deca03', 'sismit', 'KaufenEinHuhn', 'Shamrock013', 'Hanglwe', 'Spamman4587', 'mustangwolf1997', 'ATtheorytime', 'YellowbeltJr', 'JEEntertainment89', 'destro71', 'jsmoothz', 'Fuzzymentalist', 'winter_pony4', 'andyhpue', 'davorklju', 'Blurreidisc', 'ProgrammerinDistress', 'SpunZz', 'tomservo88', 'tomllm', 'StevenMulraney', 'T_MASTER', 'Esoteric_Monk', 'MissRayRay', 'Cubemaniac1231', 'RobertB91', 'NONVIOLENT_CHICKEN', 'kep700', 'ctrlshftn', 'ompor', 'DumbledoreMD', 'Dick_Magnet', 'Alpha_Arrowz', 'SilverWarrior9', 'SPltFYre', 'Lutheus13', 'bestrockfan12', 'Lolzrfunni', 'TheEdgeOfTheInternet', 'NotWolfBlitzer', 'tenfolde', 'Crabjock', 'Devil_May_Ki', 'BadB0ii', '-dudeomfgstfux-', 'vwaexperiance', 'gman4ever', 'soupnrc', 'ryswag123', 'Elvung', 'RockdaleRooster', 'Dumbgecko', 'Nynm', 'MortaLPortaL', 'JeffTheAlmighty', 'Cadleton', 'chuckles62', 'Silentkillar', 'enchantmentman2', 'JJJHeimer_Schmidt', 'Mega_Nerd', 'Cubicpercy', 'le_trout', 'SirPinkata', 'Elayn', 'msnaughtykitty', 'weeeeems', 'ZeroAbomination', 'mali81', 'LeLennyFaces', 'Cometbringer', 'wafflebatman', 'feistylilkitten', '2c3d4e', 'terjerox', 'mivader', 'the_masked_redditor', 'kusuriya', 'Mitemaximus', 'puplecorn', 'jaydwag11', 'Dmazzone1', 'felixphew', 'ididntdoityet', 'Red_October42', 'errorlypse', 'Creyslz', 'MadKingRaptor', 'Kazandaki', 'ninjabatagain', '0c370t', 'Hebrew___Hammer', 'caboose2004', 'clockwerkman', 'KingPeanutMan', 'gcm2592', 'mfupi', 'PrinceOWales', 'PijiX', 'GodLikesToParty', 'corprwhs', 'cdos93', 'spcwarmachine', 'MichaelsUsernamee', 'RubyCodpiece', 'diamondpenguin22', 'CrashStudios', 'toworn', 'HaskeltheExplorer', 'Ramicus', 'Jock_fortune_sandals', 'ProphetOfPain', 'ben456111', 'FishInTheTrees', 'giftiekid', 'Freezing_Lettuce', 'pablo72076', 'CompactDisko', 'kaiyotic', 'Guns57', 'ckau', 'stillnotdecatron22', 'AlmightyWibble', 'PavleKreator', 'meeeeep7', 'l_rufus_mohavensis', 'LinearBanana', 'predictablepie', 'KKSlider24', 'BracerCrane', 'AKA_Wildcard', 'Toast2704', 'zakzedd', 'InfamousUnicorn', 'Mike_Fraud_Ross', 'a_flock_of_goats', 'occupythekitchen', 'M4gikarp', 'PublicFriendemy', 'Xtrem3', 'ITKING86', 'BlueWaffle', 'behamut', '_BindersFullOfWomen_', 'Pahend99', 'DAYNGER_DAYN', 'WillyKernz', 'thelongestusernameee', 'hotcaulk', 'fulfilledprophesy', 'Philosophantry', 'LeBoringJack', 'alchzh', 'chronautical', 'neonrose', 'myductape', 'stout-teapot', 'The8BitInvader', 'BrineOfEmeralds', 'The_Kestrel_of_Doom', 'NHZeta', 'xav0989', 'Dr_Mottek', 'Diabetic_Manatee', 'SonicWage', 'voxhavoc', 'MoonKnightSpidey', 'elaifiknow', 'AnimalLover162', 'jjr51802', 'Defiant_Tomato', 'princess_aww', 'Han-Cholo', 'onoemre', 'Vash108', 'Arko4576', 'Overload0', 'FrnFreeze', 'HighlyFactualTurtle', 'odb281', '8bitLogik', 'colorend', 'Huntsman3181', 'eddard_starch', 'irkedone', 'UltimateDracoMeteor', 'adombomb', 'TacoInABag', 'Wolfgang52', 'Kzman1212', 'leonsecure', 'Solclover', 'wistfulwarhero', 'king_cottonball', 'connor123123123', 'Alistoriv', 'AlphaMaelstrom', 'Eliminioa', 'Casmor', 'fr34kyn01535', 'ghtuy', 'Athemoe', 'Eirene_Astraea', 'Androconus', 'NurHikariCahayaLight', 'superman23N', 'PrincessButternubs', 'vampedvixen', 'AberrantWhovian', 'NoobWithNoHats', 'hobbychain', 'Claydad', 'sodogemanywows', 'DamagedEngine', 'Tatertot10', 'Technosentinel', 'TCsnowdream', 'dabiont', 'Crusder', 'mutantxc2', 'NaughtierPenguin', 'I-an', 'Grixle', 'CoolMushroom', 'Shade1797', 'redbren', 'pepperonly', 'boom201', 'eudamme', 'sabazio', 'Acrylic_Splash', 'Luuklilo', 'Syphonfire', 'deathlasercannon', 'poe_raven', 'Nearreaver', 'AznKwokBoi', 'mueeztheman', 'Szkieletor', 'ninjabat17', 'Pieissocool', 'shadowblade232', 'Zn592', 'aikodude', 'mujerdeindia', 'Palonthesky', 'SSB4Decoder', 'ThatBloodyPinko', 'neatshotsoflife', 'Leering', 'yankees005', 'Priest_of_Aroo', 'suchsmartveryiq', 'Ich_Liegen', 'cattata1056', 'EinsamWulf', 'SkyFall96', 'AtoFtw', 'KairuV', 'BoorishAmoeba11', 'KaoticGizmo', 'cameroncac', 'ReRedacted', 'C2ke', 'grejinja', 'cynycal', 'jex314', 'Kipper_the_snob', 'Sylph_of_Mind', 'Blue-ray656', 'Beeeefy', 'Ves37', 'kevinkat2', 'amazingmaximo', 'mrkrabz1991', 'rykki', 'reddit_on_ice', 'TheDeadDrummer', 'TunaLobster', 'TheTitanTosser', 'ImmortalAce8492', 'MuseHigham', 'LadyGaladriel123', 'nazicumfarts', 'pandakatie', 'LicensedProfessional', 'DNZe', 'ChatnNaked', 'Skulgar321', 'fictionfan', '3mpress0fHell', 'thepopcornwizard', 'rajkgambhir', 'ribbondino', 'Shezzam', 'sushiyummy32', 'lost_in_light', 'towergame', 'elphabaisfae', 'thebestbananabread', 'Renznz00', 'Semido', 'soundstage', 'reganomics08', 'Linkoiram', 'pecaust', 'IpMedia', 'kylesplash', 'XvX_Joe_XvX', 'PGrimse', 'PicklesofTruth', 'Kal_El_From_Krypton', 'FiftySpence25', 'Aleheez', 'bsbllr49', 'zeusoid', 'Oscinian', '_ThatGuy_1', 'FleurDeMur', 'DuckWithATie', 'Rocket-Bot', 'Etrius1228', 'Taquito51', 'varanone', 'zekrom3112', 'landogocus123', 'PianoVampire', 'ColeTheo', 'DaEpicLeprechaun', 'numerol08', 'Tremulant887', 'Astartes_of_Derp', 'Bryanlop69', 'periwinklepatriot', 'jackthereaper', 'verifiedname', 'popmannn', 'Qazzian', 'mcecy', 'darkblue1919', 'YaDunGoofy', 'Jekisterm', 'Leipreachan', 'thetechwookie', 'coupfatal', 'MasterCyanist', 'Stop_Wastin_Time', 'Rasengan2xChidori', 'NlightNFotis', 'capitLjuan', 'Violetpetals86', 'SgtCheesepuffs', 'mostafa_hanafi', 'Adam24', 'Glordit', 'alypalyola', 'GlitchyNinja', 'Madame_Unicorn', 'wackz', 'TheGoodBlaze', 'smackyzushi', 'BonsaiKaya', 'Mewtooram', 'SamS834', 'Hexatona', 'GOfreez', 'ioanD', 'Tgage', 'HenGuy', 'splicepoint', 'OddDirective', 'typicalfinical', 'Mango_Bruh', 'iconicOdyssey', '1NSTINCT', 'Wild_windy', 'TheBlackMustache', 'cellnsv', 'WolfFarwalker', 'wastingyouremotion', 'ArtificialSanity', 'telekineticm', 'ajpennyworth', 'alejpaz', 'BushmanBen', 'KansasBurri', 'mistAreads', 'KingKakazooie', 'williamdeen', 'imtherty', 'lothlorien5454', 'supasteve013', 'xxReptilexx5724', 'kaptainkt11', 'Jaedys', 'Akrinu', 'real_shrek', 'PaulProv', 'PadawanJuriste', 'monster_pancakes', 'Darthbindy', 'CaptainRandus', 'kvs109', '1armsteve', '746865626c617a', 'LadyGrizabella', 'Jhilla2', 'WeirdPineapple', 'rj20876', 'ProbablyHeretical', 'marsmedia', 'Crash6474', 'Jish00742', 'theycallmedumdum', 'monkeyonafish', 'Greater419', '1fastman1', 'ReportMoose', 'Derole', 'agentm14004', 'Chairman_Yeng', 'LapppToppp', 'JackieKT', 'Fuegopants', 'ghstmoney', 'Socrateezz', 'Spabol1', 'Kviesgaard', 'amiibra', 'epique', 'Paddywagon123', 'Bhdrbyr', 'MainExport-NotFucks', 'CapaChrist', 'cujo8400', 'apacheco90', 'supremeshieldon', 'Harry_Potthead', 'TutsCake', 'Unwantable', 'DreadedBread', 'feralspirit', 'Mrshinyturtle2', 'RockoBOOM', 'SimeonBDixon', 'TL_Aintree', 'magefyre', 'InsaneBurrtio', 'GreatEmperorAca', 'sugarfish7', 'Neocrasher', '6spooky9you', 'surg3on', 'oshapufflr', 'hotvodka', 't1m1d', 'velociraptorcatcher', 'plafiff', 'Sisselkitty', 'Fishums1', 'El_espectro', 'evilrobotluke', 'LordTacoSupreme', 'Zylooox', '2OP4me', 'wafflegoat', 'Polite_Insults', 'Snoogines84', 'kuvien', 'kelemonopy', 'tootNA', 'Arkyance', 'Daniel_Drachenberg', 'phrresehelp', 'milifilou', 'ns90', 'TechAddict', 'Jon-Wolf', 'Landingmonkeys', 'postmodernpizazz', 'gaspitsjesse', 'natebob', 'DistantKarma', 'adioruben', 'Misterme7', 'Gustyblade', 'Eindracon12', 'eriru', 'l2ighty', 'Iamabasedmlg', 'ScoutBonk444', 'TheJhenMohran', 'WasThatYourLlama', 'Blayblee', 'Bellzibub', 'AmbitiousHobo', 'KenkaTinker', 'BoomBangKersplat', 'Paradox-Studios', 'TheInternetHivemind', 'Duplexety', 'idratherbeinvail', 'ExerionTheDrakkie', 'SonicfanC', 'noprayers', 'J0V1K', 'Dingleberreh', 'Pyro_mancer', 'WillCYT', '_et_tu_brute_', 'Crafterkid123', 'troyandabedinthem0rn', 'sabre333', 'thadanknug', 'zhabantia', 'xmar48', 'AssassinsCreedLover', 'GoldenFredboy', '42Cosmonaut', 'robbie0630', 'blueshift101', '_INPUTNAME_', 'Myspeld', 'extreme999', 'Horforia', 'Grimtork', 'quinda', 'Ryoxxys', 'Leumasperron', 'Realdoc3', 'black1rish', 'QuantumGautics', 'ultimatejeremy', 'lekkergezellig', 'dipt743', 'RichardDawkings', 'garrow10', 'kiraria', 'Randomguy_2', 'backman407', 'beckyphebe', 'Midipopo', 'Ascerned', 'DrYoshiyahu', 'Derptastics', 'NotPatrickStar', 'pannux', 'Booker_and_a_coyote', 'Akhawais', 'NinjaNacho99', 'Fire_and_Blood', 'Qerbside', 'masteroffu', 'fordandfriends', 'happilyemployed', 'pints', 'bobsbrain', 'Celidarden', 'Liamface', 'ThinkingAboutStag', 'frojoe', 'cavalierau', 'knightshade17', 'Maffers', 'OISss', 'gradientByte', 'REDVocxion', 'Trixsam', 'tehkyy', 'mc_chiver', 'burrito42', 'TheMadhopper', 'Walter_Malone_Carrot', 'Zeusking19', 'cullanor', 'omnithrope', 'Fluffy8x', 'basicxenocide', 'Coheed84', 'Zenith042', 'Uytob', 'DB53', 'Varnishedchrome', 'legitxhelios', 'TheDuffmaster', 'x7ramjet', 'B--ri', 'The_Average_Hero', 'bossycarl', 'DelverOfSqueakwets', 'caluck', 'GiantDwarf01', 'dmanisclutch', 'ILLBASHURMUM', 'ProfessorG42', 'OfficialScottR', 'how-the-dead-live', 'Berniie', 'Quantieme', 'Lithiarch', 'SgtBossSauce', 'Klamters', 'Retropixl', 'diphenhydrapeen', 'Alexanderdenny', 'lurk_master9000', 'Vlaxxtocia', 'sosumi', 'EggCouncilCreeper', 'SeismicWhite', 'SnifflingDarK', 'CRedi', 'JeCsGirl', 'shitishouldntsay', 'JohannFaust', 'fekhead', 'ilikepie6116', 'DogeTheShibe', 'Godcantfly', 'aelfaerie', 'Christiary', 'manbroken', 'Blekanly', 'ADAMISTHEMETA', 'iNeverbreak', 'Killerkendolls', 'TrevReyes', '420bonghits024', 'handsome_vulpine', 'Arrem_', 'ceruleanknight', 'Ulthanon', 'shakakoz']
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!
+New messages!

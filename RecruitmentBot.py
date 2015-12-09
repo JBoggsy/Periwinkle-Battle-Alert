@@ -44,7 +44,7 @@ r = praw.Reddit('Chroma Assistance Suite')
 tries = 0
 while tries<11:
     try:
-        r.login("Eliminioa","KeilHallAwesome")
+        r.login("Periwinkle_Prime_3","CodeOmega")
         log.write("Logged In\n")
         break
     except:
@@ -85,35 +85,42 @@ def checkForGo(troopList):
         PMs = r.get_unread(True, True)
         if PMs != None:
             log.write("New messages!"+"\n")
+            print("New messages!")
             for PM in PMs:
                 PM.mark_as_read()
                 sLine = PM.subject.strip().upper()
+                print(sLine)
+                print(str(generals)+"|"+str(PM.author.__str__()))
+                print(PM.author.__str__() in generals)
                 if (sLine == "SEND MESSAGE") and (PM.author.__str__() in generals):
+                    print("Beginning to send message!")
                     sent_to = ''
                     for troops in troopList:
                         try:
                             r.send_message(troops,"Battle Reminder",PM.body)
                             log.write("Message: "+PM.body+" sent to "+troops+"\n")
+                            print("Message sent to "+troops)
                         except:
                             log.write("Error with " + troops+"\n")
+                            print("Error with "+troops)
                     PM.reply("Message sent to "+str(troops)+"!")
         else:
             log.write("No new messages!"+"\n")
         log.flush()
         sleep(60)
 
-def detect_ORed(user):
-    subReddit = r.get_subreddit(enemy_sub)
-    mods = subReddit.get_moderators()
-    for mod in mods:
-        try:
-            if mod == user:
-                return True
-        except HTTPError:
-            print ("User no longer exists?")
-            log.write("HTTPError again, with user "+str(user)+"\n")
-            continue
-    return False
+# def detect_ORed(user):
+#     subReddit = r.get_subreddit(enemy_sub)
+#     mods = subReddit.get_moderators()
+#     for mod in mods:
+#         try:
+#             if mod == user:
+#                 return True
+#         except HTTPError:
+#             print ("User no longer exists?")
+#             log.write("HTTPError again, with user "+str(user)+"\n")
+#             continue
+#     return False
 
 def get_troops_most():
     trooplist = getUsers([])
@@ -121,7 +128,7 @@ def get_troops_most():
     while trooplist != hold_list:
         hold_list = trooplist
         trooplist = getUsers(trooplist)
-    print "Done getting troops: " + str(len(trooplist))
+    print("Done getting troops: " + str(len(trooplist)))
     return trooplist
 
 troopList = get_troops_most()
