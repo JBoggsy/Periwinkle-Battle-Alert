@@ -25,6 +25,11 @@ enemy_sub = config[3]
 rec_thread = config[4]
 generals = config[4:]
 f.close()
+with open('blacklist.cfg','r') as bl_file:
+    raw_list = bl_file.read()
+    blacklist = raw_list.split(',')
+    for item in blacklist:
+        item.strip()
 log = open("RecruitmentRunLog.txt","w")
 log.write("Finished Imports\n")
 from requests.exceptions import HTTPError
@@ -51,7 +56,7 @@ while tries<11:
         log.write("Log in error, trying again\n")
         tries += 1
 
-def getUsers(troopList=[]):
+def getUsersFromList(thread_id, troopList=[]):
     signupThread = r.get_submission(submission_id=rec_thread,comment_limit=None,comment_sort='random')
     log.write(str(signupThread)+"\n")
     signupThread.replace_more_comments()
@@ -66,7 +71,7 @@ def getUsers(troopList=[]):
         recruit = signUp.author.__str__()
         log.write(str(signUp)+"\n")
         try:
-            if not (recruit in troopList):
+            if (not (recruit in troopList)) and (not (recruit in blacklist)):
                 troopList.append(recruit)
                 print(recruit)
                 log.write("Added user "+recruit+"to troopList.\n")
