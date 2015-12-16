@@ -22,7 +22,8 @@ client_ID = config[0]
 client_secret = config[1]
 redirect_uri = config[2]
 enemy_sub = config[3]
-rec_thread = config[4]
+rec_threads = config[4].strip("(").strip(")").split("|")
+print(rec_threads)
 generals = config[4:]
 f.close()
 with open('blacklist.cfg','r') as bl_file:
@@ -57,7 +58,10 @@ while tries<11:
         tries += 1
 
 def getUsersFromList(thread_id, troopList=[]):
-    signupThread = r.get_submission(submission_id=rec_thread,comment_limit=None,comment_sort='random')
+    """
+    Underlying method of getting users from a sign up thread.
+    """
+    signupThread = r.get_submission(submission_id=thread_id,comment_limit=None,comment_sort='random')
     log.write(str(signupThread)+"\n")
     signupThread.replace_more_comments()
     log.write('Replaced more comments'+"\n")
@@ -69,8 +73,8 @@ def getUsersFromList(thread_id, troopList=[]):
        #     log.write("Orangered "+str(signUp.author)+" ignored!")
        #     continue
         recruit = signUp.author.__str__()
-        log.write(str(signUp)+"\n")
         try:
+            log.write(str(signUp)+"\n")
             if (not (recruit in troopList)) and (not (recruit in blacklist)):
                 troopList.append(recruit)
                 print(recruit)
@@ -86,6 +90,9 @@ def getUsersFromList(thread_id, troopList=[]):
     return troopList
 
 def checkForGo(troopList):
+    """
+    Check PMs for a SEND MESSAGE command and then execute once found.
+    """
     while True:
         PMs = r.get_unread(True, True)
         if PMs != None:
@@ -127,14 +134,30 @@ def checkForGo(troopList):
 #             continue
 #     return False
 
-def get_troops_most():
-    trooplist = getUsers([])
+def get_troops_most(thread_id):
+    """
+    Ensure we get as many unique people as possible from threads with 
+    more comments than PRAW can retrieve.
+    """
+    trooplist = getUsersFromList(thread_id,[])
     hold_list = []
     while trooplist != hold_list:
         hold_list = trooplist
-        trooplist = getUsers(trooplist)
-    print("Done getting troops: " + str(len(trooplist)))
+        trooplist = getUsersFromList(thread_id,trooplist)
     return trooplist
 
-troopList = get_troops_most()
-checkForGo(troopList)
+def get_all_troops():
+    """
+    Method to get troops from every sign-up thread on the list.
+    """
+    trooplist = []
+    for thread in rec_threads:
+        print(thread)
+        new_troops = get_troops_most(thread)
+        temp_list = set(trooplist).union(set(new_troops))
+        trooplist=list(temp_list)
+    return trooplist
+
+trooplist = get_all_troops()
+print("Done getting troops: " + str(len(trooplist)))
+checkForGo(trooplist)
