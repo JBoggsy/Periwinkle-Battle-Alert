@@ -9,32 +9,37 @@
 # Licence:     GNU shit
 #-------------------------------------------------------------------------------
 
-#IMPORTS:#
+# IMPORTS:
 import praw
 import string
 from pprint import pprint
 from time import sleep
 import webbrowser
-f = open('config.cfg')
-config = f.read()
-config = config.split(',')
-client_ID = config[0]
-client_secret = config[1]
-redirect_uri = config[2]
-enemy_sub = config[3]
-rec_threads = config[4].strip("(").strip(")").split("|")
-print(rec_threads)
-generals = config[4:]
-f.close()
+import json
+# END IMPORTS
+
+# CONFIG INFO
+with open('config.cfg') as f:
+    config = f.read()
+    config = config.split(',')
+    client_ID = config[0]
+    client_secret = config[1]
+    redirect_uri = config[2]
+    enemy_sub = config[3]
+    rec_threads = config[4].strip("(").strip(")").split("|")
+    generals = config[4:]
+# GET BlACKLIST INFO
 with open('blacklist.cfg','r') as bl_file:
     raw_list = bl_file.read()
     blacklist = raw_list.split(',')
     for item in blacklist:
         item.strip()
+# GET USER DATABASE
+with open('userlist.cfg','r') as ul_file:
+    user_list = json.load(ul_file)
 log = open("RecruitmentRunLog.txt","w")
 log.write("Finished Imports\n")
 from requests.exceptions import HTTPError
-#END IMPORTS#
 
 
 #REDDIT LOGIN
@@ -80,6 +85,8 @@ def getUsersFromList(thread_id, troopList=[]):
                 print(recruit)
                 log.write("Added user "+recruit+"to troopList.\n")
                 log.flush()
+                if not already_replied:
+                    PM.reply("ADDED TO DATABASE")
         except:
             log.write("ERROR:"+"\n")
             log.write(str(recruit)+"\n")
@@ -146,11 +153,10 @@ def get_troops_most(thread_id):
         trooplist = getUsersFromList(thread_id,trooplist)
     return trooplist
 
-def get_all_troops():
+def get_all_troops(trooplist=[]):
     """
     Method to get troops from every sign-up thread on the list.
     """
-    trooplist = []
     for thread in rec_threads:
         print(thread)
         new_troops = get_troops_most(thread)
@@ -158,6 +164,15 @@ def get_all_troops():
         trooplist=list(temp_list)
     return trooplist
 
-trooplist = get_all_troops()
+def already_replied(PM):
+    replies = PM.replies
+    for reply in replies:
+        if str(reply.author) == "Periwinkle_Prime_3":
+            return True
+    return False
+
+trooplist = get_all_troops(user_list)
 print("Done getting troops: " + str(len(trooplist)))
+with open('userlist.cfg','w') as ul_list:
+    json.dump(trooplist,ul_list)
 checkForGo(trooplist)
