@@ -85,8 +85,11 @@ def getUsersFromList(thread_id, troopList=[]):
                 print(recruit)
                 log.write("Added user "+recruit+"to troopList.\n")
                 log.flush()
-                if not already_replied:
-                    PM.reply("ADDED TO DATABASE")
+                replied = already_replied(signUp)
+                print(replied)
+                if not replied:
+                    signUp.reply("ADDED TO DATABASE")
+                    print("replied!")
         except:
             log.write("ERROR:"+"\n")
             log.write(str(recruit)+"\n")
@@ -165,6 +168,7 @@ def get_all_troops(trooplist=[]):
     return trooplist
 
 def already_replied(PM):
+    print("CHECKING FOR REPLY")
     replies = PM.replies
     for reply in replies:
         if str(reply.author) == "Periwinkle_Prime_3":
